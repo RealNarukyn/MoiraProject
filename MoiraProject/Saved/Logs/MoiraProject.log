@@ -1,4 +1,4 @@
-﻿Log file open, 02/21/20 11:56:07
+﻿Log file open, 02/21/20 12:14:46
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogInit: Display: Running engine for game: MoiraProject
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.426039
+LogStats: Stats thread started at 0.429600
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -170,435 +170,422 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
-[2020.02.21-10.56.08:179][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2020.02.21-10.56.08:179][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
-[2020.02.21-10.56.08:179][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
-[2020.02.21-10.56.08:182][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.02.21-10.56.08:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.02.21-10.56.08:183][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.02.21-10.56.08:183][  0]LogInit: Selected Device Profile: [Windows]
-[2020.02.21-10.56.08:183][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2020.02.21-10.56.08:203][  0]LogHAL: Display: Platform has ~ 16 GB [17110818816 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
-[2020.02.21-10.56.08:203][  0]LogInit: Going up to parent DeviceProfile []
-[2020.02.21-10.56.08:203][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.02.21-10.56.08:203][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2020.02.21-10.56.08:204][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
-[2020.02.21-10.56.08:205][  0]LogInit: Computer: S2-05
-[2020.02.21-10.56.08:205][  0]LogInit: User: alejandromunoz
-[2020.02.21-10.56.08:205][  0]LogInit: CPU Page size=4096, Cores=6
-[2020.02.21-10.56.08:205][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2020.02.21-10.56.08:205][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2020.02.21-10.56.08:205][  0]LogMemory: Platform Memory Stats for Windows
-[2020.02.21-10.56.08:205][  0]LogMemory: Process Physical Memory: 98.68 MB used, 98.68 MB peak
-[2020.02.21-10.56.08:205][  0]LogMemory: Process Virtual Memory: 89.83 MB used, 89.83 MB peak
-[2020.02.21-10.56.08:205][  0]LogMemory: Physical Memory: 5230.70 MB used,  11087.45 MB free, 16318.15 MB total
-[2020.02.21-10.56.08:205][  0]LogMemory: Virtual Memory: 4674.64 MB used,  134213056.00 MB free, 134217728.00 MB total
-[2020.02.21-10.56.08:237][  0]LogInit: Using OS detected language (en-US).
-[2020.02.21-10.56.08:237][  0]LogInit: Using OS detected locale (es-ES).
-[2020.02.21-10.56.08:239][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2020.02.21-10.56.08:409][  0]LogInit: Setting process to per monitor DPI aware
-[2020.02.21-10.56.08:450][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2020.02.21-10.56.08:450][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2020.02.21-10.56.08:859][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.02.21-10.56.08:859][  0]LogD3D11RHI: D3D11 adapters:
-[2020.02.21-10.56.08:941][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
-[2020.02.21-10.56.08:941][  0]LogD3D11RHI:       2988/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2020.02.21-10.56.08:943][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2020.02.21-10.56.08:943][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2020.02.21-10.56.08:943][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2020.02.21-10.56.08:951][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2020.02.21-10.56.08:951][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
-[2020.02.21-10.56.08:951][  0]LogWindows: EnumDisplayDevices:
-[2020.02.21-10.56.08:951][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
-[2020.02.21-10.56.08:951][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
-[2020.02.21-10.56.08:952][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
-[2020.02.21-10.56.08:952][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
-[2020.02.21-10.56.08:952][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2020.02.21-10.56.08:952][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
-[2020.02.21-10.56.08:952][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
-[2020.02.21-10.56.08:952][  0]LogD3D11RHI:      Driver Date: 9-5-2018
-[2020.02.21-10.56.08:952][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
-[2020.02.21-10.56.09:012][  0]LogD3D11RHI: Async texture creation enabled
-[2020.02.21-10.56.09:016][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.02.21-10.56.09:016][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.02.21-10.56.09:016][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.02.21-10.56.09:030][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2020.02.21-10.56.09:355][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
-[2020.02.21-10.56.09:376][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
-[2020.02.21-10.56.09:398][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
-[2020.02.21-10.56.09:420][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
-[2020.02.21-10.56.09:443][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
-[2020.02.21-10.56.09:465][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
-[2020.02.21-10.56.09:486][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
-[2020.02.21-10.56.09:508][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
-[2020.02.21-10.56.09:519][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
-[2020.02.21-10.56.09:650][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
-[2020.02.21-10.56.09:651][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
-[2020.02.21-10.56.09:651][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
-[2020.02.21-10.56.09:651][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
-[2020.02.21-10.56.09:656][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
-[2020.02.21-10.56.09:720][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
-[2020.02.21-10.56.09:720][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
-[2020.02.21-10.56.09:756][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
-[2020.02.21-10.56.09:757][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
-[2020.02.21-10.56.09:776][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
-[2020.02.21-10.56.09:795][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
-[2020.02.21-10.56.09:814][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
-[2020.02.21-10.56.09:836][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
-[2020.02.21-10.56.09:906][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
-[2020.02.21-10.56.09:906][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
-[2020.02.21-10.56.09:906][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2020.02.21-10.56.09:921][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2020.02.21-10.56.10:029][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Intermediate/Shaders/WorkingDirectory/5052/).
-[2020.02.21-10.56.10:030][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alejandro.munoz/AppData/Local/Temp/UnrealShaderWorkingDir/8D234CB44870AFA309CB66AFAEF7B581/'.
-[2020.02.21-10.56.10:033][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2020.02.21-10.56.10:033][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2020.02.21-10.56.10:033][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2020.02.21-10.56.10:693][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2020.02.21-10.56.10:741][  0]LogDerivedDataCache: Loaded boot cache 0.05s 72MB C:/Users/alejandro.munoz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2020.02.21-10.56.10:741][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alejandro.munoz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
-[2020.02.21-10.56.10:741][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2020.02.21-10.56.10:741][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2020.02.21-10.56.10:742][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.02.21-10.56.10:742][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2020.02.21-10.56.10:756][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2020.02.21-10.56.10:760][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
-[2020.02.21-10.56.10:772][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alejandro.munoz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2020.02.21-10.56.10:772][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2020.02.21-10.56.10:772][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2020.02.21-10.56.10:797][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2020.02.21-10.56.10:798][  0]LogSlate: Using FreeType 2.6.0
-[2020.02.21-10.56.10:799][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.02.21-10.56.10:922][  0]LogAssetRegistry: FAssetRegistry took 0.0412 seconds to start up
-[2020.02.21-10.56.11:466][  0]LogInit: Selected Device Profile: [Windows]
-[2020.02.21-10.56.11:649][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2020.02.21-10.56.11:649][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2020.02.21-10.56.11:649][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2020.02.21-10.56.11:649][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2020.02.21-10.56.11:649][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2020.02.21-10.56.11:667][  0]LogNetVersion: MoiraProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3284360939)
-[2020.02.21-10.56.12:229][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.096501 seconds
-[2020.02.21-10.56.12:238][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
-[2020.02.21-10.56.12:238][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
-[2020.02.21-10.56.12:238][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2020.02.21-10.56.13:505][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2020.02.21-10.56.13:519][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2020.02.21-10.56.13:650][  0]SourceControl: Source control is disabled
-[2020.02.21-10.56.13:650][  0]SourceControl: Source control is disabled
-[2020.02.21-10.56.13:652][  0]SourceControl: Source control is disabled
-[2020.02.21-10.56.13:654][  0]SourceControl: Source control is disabled
-[2020.02.21-10.56.13:939][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2020.02.21-10.56.14:010][  0]LogOcInput: OculusInput pre-init called
-[2020.02.21-10.56.17:627][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
-[2020.02.21-10.56.17:627][  0]LogWindows: File 'libalias_api.dll' does not exist
-[2020.02.21-10.56.17:630][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
-[2020.02.21-10.56.17:630][  0]LogWindows: File 'libalias_api.dll' does not exist
-[2020.02.21-10.56.17:785][  0]LogEngine: Initializing Engine...
-[2020.02.21-10.56.17:787][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.02.21-10.56.17:789][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
-[2020.02.21-10.56.18:035][  0]LogInit: Initializing FReadOnlyCVARCache
-[2020.02.21-10.56.18:054][  0]LogAIModule: Creating AISystem for world Untitled
-[2020.02.21-10.56.18:065][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2020.02.21-10.56.18:101][  0]LogInit: FAudioDevice initialized.
-[2020.02.21-10.56.18:101][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2020.02.21-10.56.18:195][  0]LogDerivedDataCache: Saved boot cache 0.09s 72MB C:/Users/alejandro.munoz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2020.02.21-10.56.18:205][  0]LogInit: Texture streaming: Enabled
-[2020.02.21-10.56.18:230][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2020.02.21-10.56.18:257][  0]LogInit: Transaction tracking system initialized
-[2020.02.21-10.56.18:288][  0]BlueprintLog: New page: Editor Load
-[2020.02.21-10.56.18:405][  0]LocalizationService: Localization service is disabled
-[2020.02.21-10.56.18:846][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Content/' took 0.02s
-[2020.02.21-10.56.18:846][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2020.02.21-10.56.18:846][  0]LogCook: Display: Mobile HDR setting 1
-[2020.02.21-10.56.18:974][  0]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Cube.uasset'.
-[2020.02.21-10.56.18:974][  0]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Cube.uasset'.
-[2020.02.21-10.56.18:975][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cube.Cube'
-[2020.02.21-10.56.21:032][  0]SourceControl: Source control is disabled
-[2020.02.21-10.56.21:114][  0]LogSlate: Took 0.000470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2020.02.21-10.56.58:433][  0]LogSlate: Window 'Restore Packages' being destroyed
-[2020.02.21-10.56.58:433][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2020.02.21-10.56.58:435][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2020.02.21-10.56.58:440][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.02.21-10.56.58:441][  0]LightingResults: New page: Lighting Build
-[2020.02.21-10.56.58:444][  0]MapCheck: New page: Map Check
-[2020.02.21-10.56.58:444][  0]LightingResults: New page: Lighting Build
-[2020.02.21-10.56.58:484][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
-[2020.02.21-10.56.58:695][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2020.02.21-10.56.58:704][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.02.21-10.56.58:744][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
-[2020.02.21-10.56.58:744][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.02.21-10.56.58:745][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,481ms to complete.
-[2020.02.21-10.56.58:745][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.305
-[2020.02.21-10.56.58:793][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.02.21-10.56.58:800][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.02.21-10.56.58:810][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.02.21-10.56.58:817][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.02.21-10.56.58:826][  0]LogCollectionManager: Loaded 0 collections in 0.002245 seconds
-[2020.02.21-10.56.58:867][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Collections/' took 0.01s
-[2020.02.21-10.56.58:867][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Content/Developers/alejandromunoz/Collections/' took 0.01s
-[2020.02.21-10.56.58:867][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Content/Collections/' took 0.01s
-[2020.02.21-10.56.58:867][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2020.02.21-10.56.58:879][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2864 classes and 726 folders.
-[2020.02.21-10.56.58:887][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2020.02.21-10.56.58:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:897][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:900][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:901][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:926][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.58:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.02.21-10.56.59:030][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2020.02.21-10.56.59:034][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 0 folders.
-[2020.02.21-10.56.59:048][  0]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2020.02.21-10.56.59:054][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2020.02.21-10.56.59:106][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
-[2020.02.21-10.56.59:230][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2020.02.21-10.56.59:230][  0]LogLoad: (Engine Initialization) Total time: 54.90 seconds
-[2020.02.21-10.56.59:230][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2020.02.21-10.56.59:242][  0]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Cube.uasset'.
-[2020.02.21-10.56.59:242][  0]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Cube.uasset'.
-[2020.02.21-10.56.59:266][  0]LogAssetRegistry: Asset discovery search completed in 48.3670 seconds
-[2020.02.21-10.56.59:268][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2020.02.21-10.56.59:268][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
-[2020.02.21-10.56.59:270][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2020.02.21-10.56.59:370][  0]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.02.21-10.56.59:379][  1]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Cube.uasset'.
-[2020.02.21-10.57.00:253][101]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.02.21-10.57.46:966][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.02.21-10.57.48:107][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.02.21-11.07.27:410][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
-[2020.02.21-11.07.37:686][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2020.02.21-11.07.39:207][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
-[2020.02.21-11.07.39:214][210]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2020.02.21-11.07.39:261][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
-[2020.02.21-11.07.39:452][210]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/FirstPersonExampleMapBA3152AD483DE8492DA32BBDA239C27C.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
-[2020.02.21-11.07.39:482][210]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.261
-[2020.02.21-11.07.40:433][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.02.21-11.14.47:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.21-11.14.47:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.02.21-11.14.47:643][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.02.21-11.14.47:646][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.21-11.14.47:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.21-11.14.47:647][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.21-11.14.47:647][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.21-11.14.47:647][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.21-11.14.47:667][  0]LogHAL: Display: Platform has ~ 16 GB [17110818816 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.21-11.14.47:667][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.21-11.14.47:667][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.21-11.14.47:667][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.21-11.14.47:668][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.02.21-11.14.47:669][  0]LogInit: Computer: S2-05
+[2020.02.21-11.14.47:669][  0]LogInit: User: alejandromunoz
+[2020.02.21-11.14.47:669][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.02.21-11.14.47:669][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.21-11.14.47:669][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.21-11.14.47:669][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.21-11.14.47:669][  0]LogMemory: Process Physical Memory: 97.23 MB used, 97.23 MB peak
+[2020.02.21-11.14.47:669][  0]LogMemory: Process Virtual Memory: 89.81 MB used, 89.81 MB peak
+[2020.02.21-11.14.47:669][  0]LogMemory: Physical Memory: 5341.11 MB used,  10977.04 MB free, 16318.15 MB total
+[2020.02.21-11.14.47:669][  0]LogMemory: Virtual Memory: 4674.64 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.02.21-11.14.47:702][  0]LogInit: Using OS detected language (en-US).
+[2020.02.21-11.14.47:702][  0]LogInit: Using OS detected locale (es-ES).
+[2020.02.21-11.14.47:703][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.21-11.14.47:877][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.21-11.14.47:921][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.21-11.14.47:921][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.21-11.14.48:300][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.21-11.14.48:300][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.21-11.14.48:377][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2020.02.21-11.14.48:377][  0]LogD3D11RHI:       2988/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.21-11.14.48:380][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.21-11.14.48:380][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.21-11.14.48:380][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.21-11.14.48:387][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.21-11.14.48:387][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.21-11.14.48:387][  0]LogWindows: EnumDisplayDevices:
+[2020.02.21-11.14.48:387][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2020.02.21-11.14.48:388][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.02.21-11.14.48:388][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.02.21-11.14.48:388][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.02.21-11.14.48:388][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.21-11.14.48:388][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2020.02.21-11.14.48:388][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2020.02.21-11.14.48:388][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2020.02.21-11.14.48:388][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2020.02.21-11.14.48:439][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.21-11.14.48:443][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.21-11.14.48:443][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.21-11.14.48:443][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.21-11.14.48:456][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.02.21-11.14.48:794][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.21-11.14.48:817][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.21-11.14.48:838][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.21-11.14.48:859][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.21-11.14.48:882][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.21-11.14.48:904][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.21-11.14.48:925][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.21-11.14.48:946][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.21-11.14.48:957][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.21-11.14.49:088][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.21-11.14.49:094][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.21-11.14.49:164][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.21-11.14.49:164][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.21-11.14.49:203][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.21-11.14.49:203][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.21-11.14.49:225][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.21-11.14.49:247][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.21-11.14.49:269][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.21-11.14.49:292][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.21-11.14.49:364][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.21-11.14.49:364][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.21-11.14.49:364][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.21-11.14.49:378][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.21-11.14.49:488][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Intermediate/Shaders/WorkingDirectory/13072/).
+[2020.02.21-11.14.49:489][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alejandro.munoz/AppData/Local/Temp/UnrealShaderWorkingDir/F9C24BDD413CD62919F4428B6E53FF33/'.
+[2020.02.21-11.14.49:492][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.21-11.14.49:493][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.21-11.14.49:493][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.21-11.14.50:151][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.21-11.14.50:196][  0]LogDerivedDataCache: Loaded boot cache 0.04s 72MB C:/Users/alejandro.munoz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.21-11.14.50:196][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alejandro.munoz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.21-11.14.50:196][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.21-11.14.50:196][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.21-11.14.50:196][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.21-11.14.50:196][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.21-11.14.50:210][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.21-11.14.50:214][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.02.21-11.14.50:227][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alejandro.munoz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.21-11.14.50:227][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.21-11.14.50:227][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.21-11.14.50:252][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.21-11.14.50:253][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.21-11.14.50:254][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.21-11.14.50:374][  0]LogAssetRegistry: FAssetRegistry took 0.0396 seconds to start up
+[2020.02.21-11.14.50:918][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.21-11.14.51:094][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.21-11.14.51:094][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.21-11.14.51:094][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.21-11.14.51:094][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.21-11.14.51:094][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.21-11.14.51:113][  0]LogNetVersion: MoiraProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3284360939)
+[2020.02.21-11.14.51:696][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.091116 seconds
+[2020.02.21-11.14.51:703][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.21-11.14.51:703][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.21-11.14.51:704][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.21-11.14.52:959][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.21-11.14.52:974][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.21-11.14.53:109][  0]SourceControl: Source control is disabled
+[2020.02.21-11.14.53:109][  0]SourceControl: Source control is disabled
+[2020.02.21-11.14.53:111][  0]SourceControl: Source control is disabled
+[2020.02.21-11.14.53:113][  0]SourceControl: Source control is disabled
+[2020.02.21-11.14.53:418][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.21-11.14.53:487][  0]LogOcInput: OculusInput pre-init called
+[2020.02.21-11.14.57:166][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2020.02.21-11.14.57:166][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2020.02.21-11.14.57:169][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2020.02.21-11.14.57:169][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2020.02.21-11.14.57:329][  0]LogEngine: Initializing Engine...
+[2020.02.21-11.14.57:331][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.21-11.14.57:333][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.21-11.14.57:583][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.21-11.14.57:600][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.21-11.14.57:612][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.21-11.14.57:649][  0]LogInit: FAudioDevice initialized.
+[2020.02.21-11.14.57:649][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.21-11.14.57:743][  0]LogDerivedDataCache: Saved boot cache 0.09s 72MB C:/Users/alejandro.munoz/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.21-11.14.57:754][  0]LogInit: Texture streaming: Enabled
+[2020.02.21-11.14.57:779][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.21-11.14.57:807][  0]LogInit: Transaction tracking system initialized
+[2020.02.21-11.14.57:840][  0]BlueprintLog: New page: Editor Load
+[2020.02.21-11.14.57:960][  0]LocalizationService: Localization service is disabled
+[2020.02.21-11.14.58:397][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Content/' took 0.02s
+[2020.02.21-11.14.58:397][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.21-11.14.58:397][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.21-11.14.58:519][  0]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Cube.uasset'.
+[2020.02.21-11.14.58:520][  0]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Cube.uasset'.
+[2020.02.21-11.14.58:520][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cube.Cube'
+[2020.02.21-11.15.00:589][  0]SourceControl: Source control is disabled
+[2020.02.21-11.15.00:590][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-11.15.00:590][  0]LightingResults: New page: Lighting Build
+[2020.02.21-11.15.00:594][  0]MapCheck: New page: Map Check
+[2020.02.21-11.15.00:594][  0]LightingResults: New page: Lighting Build
+[2020.02.21-11.15.00:633][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.02.21-11.15.00:830][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.21-11.15.00:837][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-11.15.00:877][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.02.21-11.15.00:877][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-11.15.00:878][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,449ms to complete.
+[2020.02.21-11.15.00:878][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.288
+[2020.02.21-11.15.00:993][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.21-11.15.01:001][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.21-11.15.01:009][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.21-11.15.01:017][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.21-11.15.01:026][  0]LogCollectionManager: Loaded 0 collections in 0.002194 seconds
+[2020.02.21-11.15.01:067][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Collections/' took 0.01s
+[2020.02.21-11.15.01:067][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Content/Developers/alejandromunoz/Collections/' took 0.01s
+[2020.02.21-11.15.01:067][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Content/Collections/' took 0.01s
+[2020.02.21-11.15.01:067][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.21-11.15.01:078][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2864 classes and 726 folders.
+[2020.02.21-11.15.01:086][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.21-11.15.01:089][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:091][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:092][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:093][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:094][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:095][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:116][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-11.15.01:214][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.21-11.15.01:218][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.02.21-11.15.01:233][  0]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.21-11.15.01:235][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.21-11.15.01:241][  0]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.21-11.15.01:315][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.02.21-11.15.01:460][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.21-11.15.01:460][  0]LogLoad: (Engine Initialization) Total time: 17.63 seconds
+[2020.02.21-11.15.01:460][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.21-11.15.01:471][  0]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Cube.uasset'.
+[2020.02.21-11.15.01:472][  0]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Cube.uasset'.
+[2020.02.21-11.15.01:496][  0]LogAssetRegistry: Asset discovery search completed in 11.1435 seconds
+[2020.02.21-11.15.01:498][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.02.21-11.15.01:498][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2020.02.21-11.15.01:499][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.21-11.15.01:528][  0]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.21-11.15.01:536][  1]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Cube.uasset'.
+[2020.02.21-11.15.20:583][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
