@@ -1511,3 +1511,7 @@ Script Stack (0 frames):
 [2020.03.06-11.10.26:457][630]BlueprintLog: New page: Compile FirstPersonCharacter
 [2020.03.06-11.10.26:709][630]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
 [2020.03.06-11.10.27:218][670]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/FirstPersonCharacterA0986E8B4668703788F97F96B213641A.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.06-11.12.42:095][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.03.06-11.12.42:358][356]LogSavePackage: Moving '../../../../../../Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/FirstPersonExampleMap_Auto90B1FB0834BFCDD062F40ECBD5E5B170E.tmp' to '../../../../../../Users/alejandro.munoz/Desktop/MoiraProject/MoiraProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto9.umap'
+[2020.03.06-11.12.42:362][356]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.307
+[2020.03.06-11.12.42:362][356]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.307
