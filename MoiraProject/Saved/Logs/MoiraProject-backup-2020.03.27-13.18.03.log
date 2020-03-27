@@ -1,0 +1,1537 @@
+﻿Log file open, 03/27/20 10:40:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MoiraProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.260835
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogWmfMedia: Failed to load mf.dll
+LogWmfMedia: Failed to load required Windows Media Foundation libraries
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-4771 CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames/UnrealEngine/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.27-09.40.30:671][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.27-09.40.30:671][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.27-09.40.30:671][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.03.27-09.40.30:671][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.27-09.40.30:671][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.03.27-09.40.30:671][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.03.27-09.40.30:671][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.27-09.40.30:671][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.27-09.40.30:671][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.27-09.40.30:671][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.27-09.40.30:671][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.27-09.40.30:671][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.27-09.40.30:671][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.27-09.40.30:671][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.27-09.40.30:671][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.27-09.40.30:671][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.27-09.40.30:672][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.03.27-09.40.30:672][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.03.27-09.40.30:678][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.27-09.40.30:678][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.27-09.40.30:679][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.27-09.40.30:679][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.27-09.40.30:679][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.27-09.40.30:690][  0]LogHAL: Display: Platform has ~ 16 GB [17113055232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.27-09.40.30:690][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.27-09.40.30:690][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.27-09.40.30:691][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.27-09.40.30:691][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.27-09.40.30:692][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.27-09.40.30:692][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.27-09.40.30:692][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.27-09.40.30:692][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.03.27-09.40.30:692][  0]LogInit: Computer: DESKTOP-D0K3E2O
+[2020.03.27-09.40.30:692][  0]LogInit: User: Narukyn
+[2020.03.27-09.40.30:692][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.27-09.40.30:692][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.27-09.40.30:692][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.27-09.40.30:692][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.27-09.40.30:692][  0]LogMemory: Process Physical Memory: 96.64 MB used, 96.65 MB peak
+[2020.03.27-09.40.30:692][  0]LogMemory: Process Virtual Memory: 92.26 MB used, 92.26 MB peak
+[2020.03.27-09.40.30:692][  0]LogMemory: Physical Memory: 5673.62 MB used,  10646.66 MB free, 16320.28 MB total
+[2020.03.27-09.40.30:692][  0]LogMemory: Virtual Memory: 4637.79 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.03.27-09.40.30:707][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.03.27-09.40.30:707][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.03.27-09.40.30:862][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.27-09.40.30:890][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.27-09.40.30:890][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.27-09.40.31:063][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.27-09.40.31:063][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.27-09.40.31:136][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.03.27-09.40.31:136][  0]LogD3D11RHI:       8088/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.03.27-09.40.31:138][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.27-09.40.31:138][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.27-09.40.31:138][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.27-09.40.31:143][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.27-09.40.31:144][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.27-09.40.31:144][  0]LogWindows: EnumDisplayDevices:
+[2020.03.27-09.40.31:144][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.03.27-09.40.31:144][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.03.27-09.40.31:144][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.03.27-09.40.31:144][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.03.27-09.40.31:144][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.27-09.40.31:144][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.03.27-09.40.31:144][  0]LogD3D11RHI:   Driver Version: 442.59 (internal:26.21.14.4259, unified:442.59)
+[2020.03.27-09.40.31:144][  0]LogD3D11RHI:      Driver Date: 3-4-2020
+[2020.03.27-09.40.31:144][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.03.27-09.40.31:184][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.27-09.40.31:188][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.27-09.40.31:188][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.27-09.40.31:188][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.27-09.40.31:196][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.27-09.40.31:429][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.27-09.40.31:440][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.27-09.40.31:452][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.27-09.40.31:463][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.27-09.40.31:475][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.27-09.40.31:485][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.27-09.40.31:496][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.27-09.40.31:507][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.27-09.40.31:512][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.27-09.40.31:582][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.27-09.40.31:584][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.27-09.40.31:630][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.27-09.40.31:630][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.27-09.40.31:653][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.27-09.40.31:653][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.27-09.40.31:666][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.27-09.40.31:677][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.27-09.40.31:688][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.27-09.40.31:703][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.27-09.40.31:744][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.27-09.40.31:744][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.27-09.40.31:744][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.27-09.40.31:750][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.27-09.40.31:777][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Intermediate/Shaders/WorkingDirectory/10236/).
+[2020.03.27-09.40.31:777][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Narukyn/AppData/Local/Temp/UnrealShaderWorkingDir/EA87E4FD4F792391EA9BE3AD2F12A802/'.
+[2020.03.27-09.40.31:778][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.27-09.40.31:778][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.27-09.40.31:778][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.27-09.40.32:373][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.27-09.40.32:415][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Narukyn/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.27-09.40.32:415][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Narukyn/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.27-09.40.32:416][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../2DAMVIOD/MoiraProject/MoiraProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.27-09.40.32:416][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.27-09.40.32:416][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../2DAMVIOD/MoiraProject/MoiraProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.27-09.40.32:416][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.27-09.40.32:428][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.27-09.40.32:428][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.27-09.40.32:428][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.27-09.40.32:440][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Narukyn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.27-09.40.32:440][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.27-09.40.32:440][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.27-09.40.32:466][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.27-09.40.32:467][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.27-09.40.32:468][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.27-09.40.32:546][  0]LogAssetRegistry: FAssetRegistry took 0.0324 seconds to start up
+[2020.03.27-09.40.32:858][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.27-09.40.32:977][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.27-09.40.32:977][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.27-09.40.32:977][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.27-09.40.32:977][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.27-09.40.32:977][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.27-09.40.32:985][  0]LogNetVersion: MoiraProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3284360939)
+[2020.03.27-09.40.33:330][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.028005 seconds
+[2020.03.27-09.40.33:335][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.27-09.40.33:335][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.27-09.40.33:335][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.27-09.40.33:832][  0]LogWindowsMoviePlayer: Could not load mf.dll. Library not found.
+[2020.03.27-09.40.33:833][  0]LogWindowsMoviePlayer: Could not load mfplat.dll. Library not found.
+[2020.03.27-09.40.33:833][  0]LogWindowsMoviePlayer: Could not load mfplay.dll. Library not found.
+[2020.03.27-09.40.34:041][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.27-09.40.34:054][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.27-09.40.34:156][  0]SourceControl: Source control is disabled
+[2020.03.27-09.40.34:156][  0]SourceControl: Source control is disabled
+[2020.03.27-09.40.34:157][  0]SourceControl: Source control is disabled
+[2020.03.27-09.40.34:157][  0]SourceControl: Source control is disabled
+[2020.03.27-09.40.34:217][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.27-09.40.34:330][  0]LogOcInput: OculusInput pre-init called
+[2020.03.27-09.40.34:931][  0]LogEngine: Initializing Engine...
+[2020.03.27-09.40.34:931][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.27-09.40.34:932][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.27-09.40.35:118][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.27-09.40.35:127][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.27-09.40.35:168][  0]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.27-09.40.35:211][  0]LogInit: FAudioDevice initialized.
+[2020.03.27-09.40.35:211][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.27-09.40.35:328][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/Narukyn/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.27-09.40.35:332][  0]LogInit: Texture streaming: Enabled
+[2020.03.27-09.40.35:343][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.27-09.40.35:356][  0]LogInit: Transaction tracking system initialized
+[2020.03.27-09.40.35:369][  0]BlueprintLog: New page: Editor Load
+[2020.03.27-09.40.35:415][  0]LocalizationService: Localization service is disabled
+[2020.03.27-09.40.35:642][  0]LogFileCache: Scanning file cache for directory 'D:/2DAMVIOD/MoiraProject/MoiraProject/Content/' took 0.01s
+[2020.03.27-09.40.35:642][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.27-09.40.35:642][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.27-09.40.35:776][  0]SourceControl: Source control is disabled
+[2020.03.27-09.40.35:777][  0]Cmd: MAP LOAD FILE="../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.27-09.40.35:777][  0]LightingResults: New page: Lighting Build
+[2020.03.27-09.40.35:778][  0]MapCheck: New page: Map Check
+[2020.03.27-09.40.35:778][  0]LightingResults: New page: Lighting Build
+[2020.03.27-09.40.35:799][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.03.27-09.40.36:009][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.27-09.40.36:016][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.27-09.40.36:042][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.03.27-09.40.36:042][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.27-09.40.36:042][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2020.03.27-09.40.36:043][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.267
+[2020.03.27-09.40.36:159][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-09.40.36:166][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-09.40.36:172][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-09.40.36:179][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-09.40.36:182][  0]LogCollectionManager: Loaded 0 collections in 0.000642 seconds
+[2020.03.27-09.40.36:208][  0]LogFileCache: Scanning file cache for directory 'D:/2DAMVIOD/MoiraProject/MoiraProject/Saved/Collections/' took 0.01s
+[2020.03.27-09.40.36:208][  0]LogFileCache: Scanning file cache for directory 'D:/2DAMVIOD/MoiraProject/MoiraProject/Content/Developers/Narukyn/Collections/' took 0.01s
+[2020.03.27-09.40.36:208][  0]LogFileCache: Scanning file cache for directory 'D:/2DAMVIOD/MoiraProject/MoiraProject/Content/Collections/' took 0.00s
+[2020.03.27-09.40.36:208][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.27-09.40.36:216][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2732 classes and 659 folders.
+[2020.03.27-09.40.36:220][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.27-09.40.36:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:229][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:229][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:232][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.27-09.40.36:255][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.27-09.40.36:261][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.27-09.40.36:275][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.27-09.40.36:277][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.27-09.40.36:282][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.27-09.40.36:344][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.03.27-09.40.36:483][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.27-09.40.36:484][  0]LogLoad: (Engine Initialization) Total time: 8.19 seconds
+[2020.03.27-09.40.36:484][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.27-09.40.36:530][  0]LogAssetRegistry: Asset discovery search completed in 4.0077 seconds
+[2020.03.27-09.40.36:532][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.27-09.40.36:532][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2020.03.27-09.40.36:533][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.27-09.40.36:586][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.27-09.40.36:591][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/2DAMVIOD/MoiraProject/MoiraProject/Content/' took 0.08s
+[2020.03.27-09.40.37:507][103]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.27-09.42.50:409][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.27-09.42.50:537][ 60]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows.InventoryWindows
+[2020.03.27-09.42.50:766][ 60]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.03.27-09.42.51:428][ 60]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.03.27-09.42.51:477][ 60]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot
+[2020.03.27-09.42.52:059][ 60]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.27-09.43.06:243][747]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.27-09.45.02:460][617]LogSlate: Took 0.019243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.27-09.48.43:231][ 41]BlueprintLog: New page: Compile InventoryWindows
+[2020.03.27-09.48.43:302][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2020.03.27-09.48.48:766][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.27-09.50.40:973][ 80]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Devs/Narukyn/InventorySystem/InventoryComponent.InventoryComponent
+[2020.03.27-09.51.06:378][ 79]BlueprintLog: New page: Compile InventorySlot
+[2020.03.27-09.51.06:445][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.03.27-09.53.02:494][988]BlueprintLog: New page: Compile InventorySlot
+[2020.03.27-09.53.02:532][988]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.03.27-09.53.47:330][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.03.27-09.53.47:330][828]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.034
+[2020.03.27-09.53.47:331][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows] ([1] browsable assets)...
+[2020.03.27-09.53.47:331][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows]
+[2020.03.27-09.53.47:366][828]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventoryWindows_Auto19BA31E8542309787C06A09AC8A2975A6.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows_Auto1.uasset'
+[2020.03.27-09.53.47:367][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot] ([1] browsable assets)...
+[2020.03.27-09.53.47:367][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot]
+[2020.03.27-09.53.47:388][828]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventorySlot_Auto1488E531E415385AFF575B8BED00D68D2.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot_Auto1.uasset'
+[2020.03.27-09.53.47:389][828]LogFileHelpers: Auto-saving content packages took 0.058
+[2020.03.27-09.55.00:278][570]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-09.55.00:301][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-09.55.00:301][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-09.55.00:302][570]PIE: New page: PIE session: FirstPersonExampleMap (Mar 27, 2020, 11:55:00 AM)
+[2020.03.27-09.55.00:314][570]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.27-09.55.00:328][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014144s)
+[2020.03.27-09.55.00:329][570]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.27-09.55.00:329][570]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2020.03.27-09.55.00:329][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015240s)
+[2020.03.27-09.55.00:370][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.03.27-09.55.00:403][570]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.27-09.55.00:436][570]LogInit: FAudioDevice initialized.
+[2020.03.27-09.55.00:442][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-09.55.00:486][570]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.27-09.55.00:488][570]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.27-10.55.00
+[2020.03.27-09.55.00:489][570]LogWorld: Bringing up level for play took: 0.002482
+[2020.03.27-09.55.00:505][570]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.03.27-09.55.00:508][570]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.03.27-09.55.00:508][570]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.27-09.55.00:510][570]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.011
+[2020.03.27-09.55.00:510][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-09.55.00:799][572]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2020.03.27-09.55.01:363][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-09.55.03:081][842]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-09.55.03:494][892]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_5
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:0060
+[2020.03.27-09.55.03:494][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-09.55.03:678][914]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_0
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:0060
+[2020.03.27-09.55.03:679][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-09.55.04:802][ 49]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_3
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:0060
+[2020.03.27-09.55.04:802][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-09.55.05:220][ 99]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-09.55.05:221][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-09.55.05:234][ 99]LogSlate: Window 'MoiraProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-09.55.05:269][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-09.55.05:269][ 99]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-09.55.05:356][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2020.03.27-09.55.05:402][100]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.03.27-09.55.32:759][358]LogEditorTransaction: Undo Move Node
+[2020.03.27-09.57.03:414][162]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-09.57.03:436][162]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-09.57.03:436][162]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.27-09.57.03:439][162]LogPlayLevel: [PlayLevel] Compiling InventorySlot before play...
+[2020.03.27-09.57.03:654][162]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.03.27-09.57.03:654][162]LogPlayLevel: PlayLevel: Blueprint regeneration took 218 ms (1 blueprints)
+[2020.03.27-09.57.03:654][162]PIE: New page: PIE session: FirstPersonExampleMap (Mar 27, 2020, 11:57:03 AM)
+[2020.03.27-09.57.03:655][162]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.27-09.57.03:665][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010361s)
+[2020.03.27-09.57.03:666][162]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.27-09.57.03:666][162]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2020.03.27-09.57.03:666][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011548s)
+[2020.03.27-09.57.03:704][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.03.27-09.57.03:735][162]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.27-09.57.03:765][162]LogInit: FAudioDevice initialized.
+[2020.03.27-09.57.03:771][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-09.57.03:800][162]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.27-09.57.03:802][162]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.27-10.57.03
+[2020.03.27-09.57.03:803][162]LogWorld: Bringing up level for play took: 0.001453
+[2020.03.27-09.57.03:816][162]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.317
+[2020.03.27-09.57.03:817][162]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-09.57.05:200][320]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-09.57.08:082][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-09.57.09:913][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-09.57.09:913][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-09.57.09:927][885]LogSlate: Window 'MoiraProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-09.57.09:960][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-09.57.09:960][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-09.57.10:003][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.03.27-09.57.10:019][886]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.03.27-09.57.45:996][175]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-09.57.46:024][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-09.57.46:024][175]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.27-09.57.46:025][175]LogPlayLevel: [PlayLevel] Compiling InventorySlot before play...
+[2020.03.27-09.57.46:188][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.03.27-09.57.46:188][175]LogPlayLevel: PlayLevel: Blueprint regeneration took 163 ms (1 blueprints)
+[2020.03.27-09.57.46:188][175]PIE: New page: PIE session: FirstPersonExampleMap (Mar 27, 2020, 11:57:46 AM)
+[2020.03.27-09.57.46:188][175]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.27-09.57.46:198][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009523s)
+[2020.03.27-09.57.46:198][175]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.27-09.57.46:199][175]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2020.03.27-09.57.46:199][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010709s)
+[2020.03.27-09.57.46:234][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.03.27-09.57.46:265][175]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.27-09.57.46:295][175]LogInit: FAudioDevice initialized.
+[2020.03.27-09.57.46:306][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-09.57.46:338][175]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.27-09.57.46:340][175]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.27-10.57.46
+[2020.03.27-09.57.46:341][175]LogWorld: Bringing up level for play took: 0.001466
+[2020.03.27-09.57.46:354][175]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.855
+[2020.03.27-09.57.46:354][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-09.57.48:337][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-09.57.55:471][262]LogSlate: Window 'MoiraProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-09.57.55:474][262]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-09.57.55:505][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-09.57.55:505][262]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-09.57.55:547][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.03.27-09.57.55:564][264]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.03.27-09.58.38:009][242]LogSlate: Window 'Message Log' being destroyed
+[2020.03.27-09.58.38:012][242]LogSlate: Window 'Message Log' being destroyed
+[2020.03.27-09.59.04:078][357]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UPanelWidget::GetChildIndex' [No se ha encontrado el elemento.]
+[2020.03.27-09.59.28:292][257]BlueprintLog: New page: Compile InventoryWindows
+[2020.03.27-09.59.28:339][257]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.03.27-10.00.06:946][880]BlueprintLog: New page: Compile InventorySlot
+[2020.03.27-10.00.07:103][880]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.03.27-10.00.18:431][231]LogSlate: Took 0.001346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.03.27-10.04.08:217][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.03.27-10.04.08:217][724]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.036
+[2020.03.27-10.04.08:218][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows] ([1] browsable assets)...
+[2020.03.27-10.04.08:218][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows]
+[2020.03.27-10.04.08:260][724]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventoryWindows_Auto2D988CC7844DCA43DB444ADA16997A978.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows_Auto2.uasset'
+[2020.03.27-10.04.08:260][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot] ([1] browsable assets)...
+[2020.03.27-10.04.08:260][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot]
+[2020.03.27-10.04.08:283][724]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventorySlot_Auto2671EC03B4D5126E9AF4B5B9AAF3544FE.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot_Auto2.uasset'
+[2020.03.27-10.04.08:284][724]LogFileHelpers: Auto-saving content packages took 0.066
+[2020.03.27-10.11.39:620][413]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-10.11.39:642][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.11.39:642][413]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.27-10.11.39:646][413]LogPlayLevel: [PlayLevel] Compiling InventorySlot before play...
+[2020.03.27-10.11.39:789][413]LogPlayLevel: [PlayLevel] Compiling InventoryWindows before play...
+[2020.03.27-10.11.39:975][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.03.27-10.11.39:975][413]LogPlayLevel: PlayLevel: Blueprint regeneration took 333 ms (2 blueprints)
+[2020.03.27-10.11.39:976][413]PIE: New page: PIE session: FirstPersonExampleMap (Mar 27, 2020, 12:11:39 PM)
+[2020.03.27-10.11.39:976][413]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.27-10.11.39:986][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010404s)
+[2020.03.27-10.11.39:987][413]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.27-10.11.39:987][413]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2020.03.27-10.11.39:987][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011247s)
+[2020.03.27-10.11.40:021][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.03.27-10.11.40:058][413]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.27-10.11.40:090][413]LogInit: FAudioDevice initialized.
+[2020.03.27-10.11.40:096][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-10.11.40:127][413]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.27-10.11.40:129][413]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.27-11.11.40
+[2020.03.27-10.11.40:129][413]LogWorld: Bringing up level for play took: 0.001883
+[2020.03.27-10.11.40:142][413]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.644
+[2020.03.27-10.11.40:143][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.11.40:995][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-10.11.41:676][591]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_0.WidgetTree_0.InventorySlot_C_3
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.41:676][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.41:676][591]LogBlueprintUserMessages: [InventorySlot_C_3] Hello
+[2020.03.27-10.11.41:723][593]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_0.WidgetTree_0.InventorySlot_C_0
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.41:723][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.41:723][593]LogBlueprintUserMessages: [InventorySlot_C_0] Hello
+[2020.03.27-10.11.45:496][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-10.11.46:192][129]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_0
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.46:192][129]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.46:192][129]LogBlueprintUserMessages: [InventorySlot_C_0] Hello
+[2020.03.27-10.11.48:651][424]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_0
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.48:651][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.48:651][424]LogBlueprintUserMessages: [InventorySlot_C_0] Hello
+[2020.03.27-10.11.50:176][607]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_3
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.50:176][607]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.50:176][607]LogBlueprintUserMessages: [InventorySlot_C_3] Hello
+[2020.03.27-10.11.50:418][636]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_3
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.50:418][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.50:418][636]LogBlueprintUserMessages: [InventorySlot_C_3] Hello
+[2020.03.27-10.11.51:435][758]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_6
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.51:435][758]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.51:435][758]LogBlueprintUserMessages: [InventorySlot_C_6] Hello
+[2020.03.27-10.11.51:910][815]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_7
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.51:910][815]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.51:910][815]LogBlueprintUserMessages: [InventorySlot_C_7] Hello
+[2020.03.27-10.11.52:353][868]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_4
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.52:353][868]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.52:353][868]LogBlueprintUserMessages: [InventorySlot_C_4] Hello
+[2020.03.27-10.11.52:710][911]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_1
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.52:710][911]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.52:710][911]LogBlueprintUserMessages: [InventorySlot_C_1] Hello
+[2020.03.27-10.11.53:010][947]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_2
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.53:011][947]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.53:011][947]LogBlueprintUserMessages: [InventorySlot_C_2] Hello
+[2020.03.27-10.11.53:319][984]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_5
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.53:319][984]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.53:319][984]LogBlueprintUserMessages: [InventorySlot_C_5] Hello
+[2020.03.27-10.11.53:568][ 14]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_8
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.53:568][ 14]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.53:568][ 14]LogBlueprintUserMessages: [InventorySlot_C_8] Hello
+[2020.03.27-10.11.53:802][ 42]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_7
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.53:802][ 42]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.53:802][ 42]LogBlueprintUserMessages: [InventorySlot_C_7] Hello
+[2020.03.27-10.11.53:893][ 53]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_6
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.53:893][ 53]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.53:893][ 53]LogBlueprintUserMessages: [InventorySlot_C_6] Hello
+[2020.03.27-10.11.54:120][ 80]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_3
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.54:120][ 80]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.54:120][ 80]LogBlueprintUserMessages: [InventorySlot_C_3] Hello
+[2020.03.27-10.11.54:302][102]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_4
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.54:302][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.54:302][102]LogBlueprintUserMessages: [InventorySlot_C_4] Hello
+[2020.03.27-10.11.54:502][126]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_1
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.54:502][126]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.54:502][126]LogBlueprintUserMessages: [InventorySlot_C_1] Hello
+[2020.03.27-10.11.54:686][148]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_1
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.54:686][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.54:686][148]LogBlueprintUserMessages: [InventorySlot_C_1] Hello
+[2020.03.27-10.11.54:713][151]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_2
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.54:713][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.54:713][151]LogBlueprintUserMessages: [InventorySlot_C_2] Hello
+[2020.03.27-10.11.54:893][173]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_5
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.54:893][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.54:893][173]LogBlueprintUserMessages: [InventorySlot_C_5] Hello
+[2020.03.27-10.11.54:985][184]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_8
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.54:985][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.54:985][184]LogBlueprintUserMessages: [InventorySlot_C_8] Hello
+[2020.03.27-10.11.55:154][204]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_7
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.55:154][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.55:154][204]LogBlueprintUserMessages: [InventorySlot_C_7] Hello
+[2020.03.27-10.11.55:211][211]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_6
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.55:211][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.55:211][211]LogBlueprintUserMessages: [InventorySlot_C_6] Hello
+[2020.03.27-10.11.55:369][230]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_3
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.55:369][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.55:369][230]LogBlueprintUserMessages: [InventorySlot_C_3] Hello
+[2020.03.27-10.11.55:537][250]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_4
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.55:537][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.55:537][250]LogBlueprintUserMessages: [InventorySlot_C_4] Hello
+[2020.03.27-10.11.55:738][274]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_1
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.55:738][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.55:738][274]LogBlueprintUserMessages: [InventorySlot_C_1] Hello
+[2020.03.27-10.11.55:929][297]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_2
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.55:929][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.55:929][297]LogBlueprintUserMessages: [InventorySlot_C_2] Hello
+[2020.03.27-10.11.56:129][321]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_5
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.56:130][321]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.56:130][321]LogBlueprintUserMessages: [InventorySlot_C_5] Hello
+[2020.03.27-10.11.56:261][337]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_8
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.56:261][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.56:261][337]LogBlueprintUserMessages: [InventorySlot_C_8] Hello
+[2020.03.27-10.11.56:386][352]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_7
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.56:386][352]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.56:386][352]LogBlueprintUserMessages: [InventorySlot_C_7] Hello
+[2020.03.27-10.11.56:436][358]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_6
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.56:436][358]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.56:436][358]LogBlueprintUserMessages: [InventorySlot_C_6] Hello
+[2020.03.27-10.11.56:669][386]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.InventoryWindows_C_1.WidgetTree_0.InventorySlot_C_0
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00B8
+[2020.03.27-10.11.56:669][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.11.56:669][386]LogBlueprintUserMessages: [InventorySlot_C_0] Hello
+[2020.03.27-10.12.14:026][468]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.12.14:026][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-10.12.14:040][468]LogSlate: Window 'MoiraProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-10.12.14:075][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-10.12.14:075][468]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.12.14:119][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.03.27-10.12.14:172][469]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.03.27-10.12.17:925][909]LogSlate: Window 'Message Log' being destroyed
+[2020.03.27-10.12.17:928][909]LogSlate: Window 'Message Log' being destroyed
+[2020.03.27-10.12.21:706][362]LogEditorTransaction: Undo Move Node
+[2020.03.27-10.12.24:906][743]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-10.12.24:929][743]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.12.24:929][743]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.27-10.12.24:930][743]LogPlayLevel: [PlayLevel] Compiling InventorySlot before play...
+[2020.03.27-10.12.25:099][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.03.27-10.12.25:099][743]LogPlayLevel: PlayLevel: Blueprint regeneration took 169 ms (1 blueprints)
+[2020.03.27-10.12.25:099][743]PIE: New page: PIE session: FirstPersonExampleMap (Mar 27, 2020, 12:12:25 PM)
+[2020.03.27-10.12.25:099][743]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.27-10.12.25:110][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010449s)
+[2020.03.27-10.12.25:110][743]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.27-10.12.25:110][743]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2020.03.27-10.12.25:110][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011098s)
+[2020.03.27-10.12.25:147][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.03.27-10.12.25:180][743]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.27-10.12.25:211][743]LogInit: FAudioDevice initialized.
+[2020.03.27-10.12.25:217][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-10.12.25:247][743]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.27-10.12.25:249][743]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.27-11.12.25
+[2020.03.27-10.12.25:249][743]LogWorld: Bringing up level for play took: 0.001751
+[2020.03.27-10.12.25:262][743]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.236
+[2020.03.27-10.12.25:262][743]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.12.26:071][830]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-10.12.26:359][865]LogBlueprintUserMessages: [InventorySlot_C_5] Hello
+[2020.03.27-10.12.26:409][871]LogBlueprintUserMessages: [InventorySlot_C_2] Hello
+[2020.03.27-10.12.26:459][877]LogBlueprintUserMessages: [InventorySlot_C_1] Hello
+[2020.03.27-10.12.26:517][884]LogBlueprintUserMessages: [InventorySlot_C_0] Hello
+[2020.03.27-10.12.28:372][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-10.12.28:793][157]LogBlueprintUserMessages: [InventorySlot_C_0] Hello
+[2020.03.27-10.12.29:483][240]LogBlueprintUserMessages: [InventorySlot_C_0] Hello
+[2020.03.27-10.12.30:419][352]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.12.30:419][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-10.12.30:433][352]LogSlate: Window 'MoiraProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-10.12.30:464][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-10.12.30:464][352]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.12.30:508][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.03.27-10.12.30:525][354]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.03.27-10.12.59:262][779]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.27-10.15.45:060][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.03.27-10.15.45:060][647]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.032
+[2020.03.27-10.15.45:061][647]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows] ([1] browsable assets)...
+[2020.03.27-10.15.45:061][647]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows]
+[2020.03.27-10.15.45:110][647]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventoryWindows_Auto356631A384728DED8EEE6C792BDE4179A.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows_Auto3.uasset'
+[2020.03.27-10.15.45:110][647]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot] ([1] browsable assets)...
+[2020.03.27-10.15.45:110][647]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot]
+[2020.03.27-10.15.45:134][647]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventorySlot_Auto30A3B56234B3E4F8A61285CB3B3DDC4E5.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot_Auto3.uasset'
+[2020.03.27-10.15.45:181][647]LogFileHelpers: Auto-saving content packages took 0.120
+[2020.03.27-10.41.21:629][106]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-10.41.21:652][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.41.21:652][106]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.27-10.41.21:653][106]LogPlayLevel: [PlayLevel] Compiling InventorySlot before play...
+[2020.03.27-10.41.21:661][106]LogBlueprint: Error: [Compiler InventorySlot] The type of  Object  is undetermined.  Connect something to  Cast To InventoryWindows  to imply a specific type.
+[2020.03.27-10.41.21:661][106]LogBlueprint: Error: [Compiler InventorySlot] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.03.27-10.41.21:662][106]LogBlueprint: Warning: [Compiler InventorySlot] [3653.36] Compile of InventorySlot failed. 2 Fatal Issue(s) 0 Warning(s) [in 10 ms] (/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot)
+[2020.03.27-10.41.21:864][106]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.03.27-10.41.21:864][106]LogPlayLevel: PlayLevel: Blueprint regeneration took 212 ms (1 blueprints)
+[2020.03.27-10.41.21:864][106]BlueprintLog: Blueprint InventorySlot failed to compile
+[2020.03.27-10.41.23:597][106]LogSlate: Window 'Message' being destroyed
+[2020.03.27-10.41.51:702][470]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-10.41.51:723][470]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.41.51:723][470]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.27-10.41.51:724][470]LogPlayLevel: [PlayLevel] Compiling InventorySlot before play...
+[2020.03.27-10.41.51:922][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.03.27-10.41.51:922][470]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (1 blueprints)
+[2020.03.27-10.41.51:922][470]PIE: New page: PIE session: FirstPersonExampleMap (Mar 27, 2020, 12:41:51 PM)
+[2020.03.27-10.41.51:922][470]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.27-10.41.51:934][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011682s)
+[2020.03.27-10.41.51:934][470]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.27-10.41.51:935][470]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2020.03.27-10.41.51:935][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012736s)
+[2020.03.27-10.41.51:975][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.03.27-10.41.52:005][470]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.27-10.41.52:036][470]LogInit: FAudioDevice initialized.
+[2020.03.27-10.41.52:042][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-10.41.52:073][470]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.27-10.41.52:075][470]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.27-11.41.52
+[2020.03.27-10.41.52:075][470]LogWorld: Bringing up level for play took: 0.001677
+[2020.03.27-10.41.52:089][470]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.59
+[2020.03.27-10.41.52:089][470]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.41.54:469][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-10.41.54:475][748]LogBlueprintUserMessages: [InventorySlot_C_7] Hello
+[2020.03.27-10.41.54:832][791]LogBlueprintUserMessages: [InventorySlot_C_4] Hello
+[2020.03.27-10.41.55:117][825]LogBlueprintUserMessages: [InventorySlot_C_0] Hello
+[2020.03.27-10.41.56:440][984]LogBlueprintUserMessages: [InventorySlot_C_0] Hello
+[2020.03.27-10.41.56:848][ 33]LogBlueprintUserMessages: [InventorySlot_C_0] Hello
+[2020.03.27-10.41.57:399][ 99]LogBlueprintUserMessages: [InventorySlot_C_0] Hello
+[2020.03.27-10.41.59:124][306]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.41.59:125][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-10.41.59:138][306]LogSlate: Window 'MoiraProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-10.41.59:168][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-10.41.59:169][306]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.41.59:212][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.03.27-10.41.59:230][307]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.03.27-10.42.38:135][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.03.27-10.42.38:135][968]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.032
+[2020.03.27-10.42.38:136][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows] ([1] browsable assets)...
+[2020.03.27-10.42.38:136][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows]
+[2020.03.27-10.42.38:174][968]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventoryWindows_Auto4A8178BC64F2CFEE6D6C32199C2CD9B7E.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows_Auto4.uasset'
+[2020.03.27-10.42.38:174][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot] ([1] browsable assets)...
+[2020.03.27-10.42.38:174][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot]
+[2020.03.27-10.42.38:199][968]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventorySlot_Auto4762785AE4409AF3512D07BB8C0AB4378.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot_Auto4.uasset'
+[2020.03.27-10.42.38:200][968]LogFileHelpers: Auto-saving content packages took 0.064
+[2020.03.27-10.43.11:794][957]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-10.43.11:816][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.43.11:817][957]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.27-10.43.11:818][957]LogPlayLevel: [PlayLevel] Compiling InventorySlot before play...
+[2020.03.27-10.43.12:015][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.03.27-10.43.12:015][957]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (1 blueprints)
+[2020.03.27-10.43.12:015][957]PIE: New page: PIE session: FirstPersonExampleMap (Mar 27, 2020, 12:43:12 PM)
+[2020.03.27-10.43.12:015][957]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.27-10.43.12:025][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010354s)
+[2020.03.27-10.43.12:026][957]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.27-10.43.12:026][957]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2020.03.27-10.43.12:026][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011099s)
+[2020.03.27-10.43.12:062][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.03.27-10.43.12:096][957]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.27-10.43.12:129][957]LogInit: FAudioDevice initialized.
+[2020.03.27-10.43.12:134][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-10.43.12:166][957]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.27-10.43.12:168][957]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.27-11.43.12
+[2020.03.27-10.43.12:169][957]LogWorld: Bringing up level for play took: 0.001521
+[2020.03.27-10.43.12:182][957]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.684
+[2020.03.27-10.43.12:183][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.43.14:116][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-10.43.14:696][254]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.InventoryWindows_C_0.WidgetTree_0.InventorySlot_C_0
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00C7
+[2020.03.27-10.43.14:696][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.43.14:696][254]LogBlueprintUserMessages: [InventorySlot_C_0] Hello
+[2020.03.27-10.43.16:038][415]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.InventoryWindows_C_0.WidgetTree_0.InventorySlot_C_0
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00C7
+[2020.03.27-10.43.16:038][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.43.16:038][415]LogBlueprintUserMessages: [InventorySlot_C_0] Hello
+[2020.03.27-10.43.16:930][522]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.InventoryWindows_C_0.WidgetTree_0.InventorySlot_C_3
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:00C7
+[2020.03.27-10.43.16:930][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-10.43.16:930][522]LogBlueprintUserMessages: [InventorySlot_C_3] Hello
+[2020.03.27-10.43.18:131][666]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.43.18:131][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-10.43.18:146][666]LogSlate: Window 'MoiraProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-10.43.18:176][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-10.43.18:176][666]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-10.43.18:219][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.03.27-10.43.18:252][667]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.03.27-10.43.32:321][186]LogSlate: Window 'Message Log' being destroyed
+[2020.03.27-10.43.32:324][186]LogSlate: Window 'Message Log' being destroyed
+[2020.03.27-10.44.16:697][542]BlueprintLog: New page: Compile InventoryWindows
+[2020.03.27-10.44.16:744][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.03.27-10.52.45:064][177]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.03.27-10.52.45:064][177]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.042
+[2020.03.27-10.52.45:065][177]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows] ([1] browsable assets)...
+[2020.03.27-10.52.45:065][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows]
+[2020.03.27-10.52.45:101][177]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventoryWindows_Auto5780494704C97977C0E897698C2F7F01C.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows_Auto5.uasset'
+[2020.03.27-10.52.45:136][177]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot] ([1] browsable assets)...
+[2020.03.27-10.52.45:136][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot]
+[2020.03.27-10.52.45:162][177]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventorySlot_Auto56F117234446FC0CBDB1975A87B25E694.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot_Auto5.uasset'
+[2020.03.27-10.52.45:163][177]LogFileHelpers: Auto-saving content packages took 0.098
+[2020.03.27-11.14.11:991][840]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-11.14.12:014][840]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-11.14.12:014][840]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.27-11.14.12:015][840]LogPlayLevel: [PlayLevel] Compiling InventorySlot before play...
+[2020.03.27-11.14.12:192][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.03.27-11.14.12:192][840]LogPlayLevel: PlayLevel: Blueprint regeneration took 178 ms (1 blueprints)
+[2020.03.27-11.14.12:192][840]PIE: New page: PIE session: FirstPersonExampleMap (Mar 27, 2020, 1:14:12 PM)
+[2020.03.27-11.14.12:192][840]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.27-11.14.12:204][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011276s)
+[2020.03.27-11.14.12:204][840]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.27-11.14.12:205][840]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2020.03.27-11.14.12:205][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012475s)
+[2020.03.27-11.14.12:244][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.03.27-11.14.12:275][840]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.27-11.14.12:308][840]LogInit: FAudioDevice initialized.
+[2020.03.27-11.14.12:315][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-11.14.12:349][840]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.27-11.14.12:352][840]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.27-12.14.12
+[2020.03.27-11.14.12:353][840]LogWorld: Bringing up level for play took: 0.002469
+[2020.03.27-11.14.12:365][840]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.867
+[2020.03.27-11.14.12:365][840]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-11.14.14:945][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-11.14.16:750][356]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-11.14.16:750][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-11.14.16:764][356]LogSlate: Window 'MoiraProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-11.14.16:798][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-11.14.16:798][356]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-11.14.16:841][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.03.27-11.14.16:853][357]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.03.27-11.14.20:777][828]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-11.14.20:798][828]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-11.14.20:798][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-11.14.20:798][828]PIE: New page: PIE session: FirstPersonExampleMap (Mar 27, 2020, 1:14:20 PM)
+[2020.03.27-11.14.20:798][828]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.27-11.14.20:809][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011092s)
+[2020.03.27-11.14.20:810][828]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.27-11.14.20:811][828]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2020.03.27-11.14.20:811][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012355s)
+[2020.03.27-11.14.20:850][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.03.27-11.14.20:881][828]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.27-11.14.20:912][828]LogInit: FAudioDevice initialized.
+[2020.03.27-11.14.20:919][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-11.14.20:950][828]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.27-11.14.20:953][828]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.27-12.14.20
+[2020.03.27-11.14.20:953][828]LogWorld: Bringing up level for play took: 0.002164
+[2020.03.27-11.14.20:967][828]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.532
+[2020.03.27-11.14.20:967][828]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-11.14.21:800][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-11.14.25:545][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-11.14.25:545][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-11.14.25:559][374]LogSlate: Window 'MoiraProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-11.14.25:592][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-11.14.25:593][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-11.14.25:636][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.03.27-11.14.25:645][375]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.27-11.14.29:243][805]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-11.14.29:264][805]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-11.14.29:264][805]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.27-11.14.29:265][805]LogPlayLevel: [PlayLevel] Compiling InventorySlot before play...
+[2020.03.27-11.14.29:434][805]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.03.27-11.14.29:434][805]LogPlayLevel: PlayLevel: Blueprint regeneration took 170 ms (1 blueprints)
+[2020.03.27-11.14.29:434][805]PIE: New page: PIE session: FirstPersonExampleMap (Mar 27, 2020, 1:14:29 PM)
+[2020.03.27-11.14.29:434][805]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.27-11.14.29:445][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010147s)
+[2020.03.27-11.14.29:445][805]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.27-11.14.29:445][805]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2020.03.27-11.14.29:445][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010835s)
+[2020.03.27-11.14.29:479][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.03.27-11.14.29:509][805]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.27-11.14.29:540][805]LogInit: FAudioDevice initialized.
+[2020.03.27-11.14.29:545][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-11.14.29:579][805]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.27-11.14.29:580][805]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.27-12.14.29
+[2020.03.27-11.14.29:581][805]LogWorld: Bringing up level for play took: 0.001397
+[2020.03.27-11.14.29:594][805]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.096
+[2020.03.27-11.14.29:595][805]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-11.14.29:939][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-11.14.29:945][845]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.InventoryWindows_C_0.WidgetTree_0.InventorySlot_C_3
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:007C
+[2020.03.27-11.14.29:945][845]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-11.14.29:945][845]LogBlueprintUserMessages: [InventorySlot_C_3] Hello
+[2020.03.27-11.14.30:385][898]LogScript: Warning: Accessed None trying to read property InventoryUI
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.InventoryWindows_C_0.WidgetTree_0.InventorySlot_C_0
+	Function /Game/Devs/Narukyn/InventorySystem/UI/InventorySlot.InventorySlot_C:ExecuteUbergraph_InventorySlot:007C
+[2020.03.27-11.14.30:386][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryUI". Blueprint:  InventorySlot Function:  Execute Ubergraph Inventory Slot Graph:  EventGraph Node:  Set Image and Description
+[2020.03.27-11.14.30:386][898]LogBlueprintUserMessages: [InventorySlot_C_0] Hello
+[2020.03.27-11.14.31:303][  8]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-11.14.31:303][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-11.14.31:317][  8]LogSlate: Window 'MoiraProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-11.14.31:346][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-11.14.31:347][  8]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.27-11.14.31:386][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.03.27-11.14.31:411][  9]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.27-11.14.38:620][874]LogSlate: Window 'Message Log' being destroyed
+[2020.03.27-11.14.38:624][874]LogSlate: Window 'Message Log' being destroyed
+[2020.03.27-11.15.18:314][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.03.27-11.15.18:314][629]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.032
+[2020.03.27-11.15.18:316][629]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows] ([1] browsable assets)...
+[2020.03.27-11.15.18:316][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows]
+[2020.03.27-11.15.18:352][629]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventoryWindows_Auto663EDFA914EB0549F02D6FAA5AE5CB403.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows_Auto6.uasset'
+[2020.03.27-11.15.18:387][629]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot] ([1] browsable assets)...
+[2020.03.27-11.15.18:387][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot]
+[2020.03.27-11.15.18:412][629]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventorySlot_Auto6187C760A4496C4D7486A66B5C476405E.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Narukyn/InventorySystem/UI/InventorySlot_Auto6.uasset'
+[2020.03.27-11.15.18:413][629]LogFileHelpers: Auto-saving content packages took 0.098
+[2020.03.27-11.18.59:833][188]BlueprintLog: New page: Compile InventorySlot
+[2020.03.27-11.18.59:997][188]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.03.27-11.25.18:792][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.03.27-11.25.18:792][ 50]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.046
+[2020.03.27-11.25.18:794][ 50]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows] ([1] browsable assets)...
+[2020.03.27-11.25.18:794][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows]
+[2020.03.27-11.25.18:835][ 50]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventoryWindows_Auto7C066B4724645FDF6620DECAF83655D00.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Narukyn/InventorySystem/UI/InventoryWindows_Auto7.uasset'
+[2020.03.27-11.25.18:835][ 50]LogFileHelpers: Auto-saving content packages took 0.042
+[2020.03.27-13.03.24:720][731]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{38168625-76cc-4482-8673-b38ab5fdced8} was removed. Shutting down audio device.
+[2020.03.27-13.03.24:720][731]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.27-13.03.25:512][733]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.27-13.03.25:807][734]LogInit: XAudio2 using 'Auriculares (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.27-13.17.59:611][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.03.27-13.18.00:251][722]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventoryWindowsDDE34ED6430027C270C7D6BF54792651.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Content/Devs/Narukyn/InventorySystem/UI/InventoryWindows.uasset'
+[2020.03.27-13.18.00:287][722]LogSavePackage: Moving '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Saved/InventorySlot5E4AB403490EB28CC3DB46A96C80965F.tmp' to '../../../../../../2DAMVIOD/MoiraProject/MoiraProject/Content/Devs/Narukyn/InventorySystem/UI/InventorySlot.uasset'
+[2020.03.27-13.18.01:008][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.03.27-13.18.01:156][801]LogSlate: Window 'MoiraProject - Unreal Editor' being destroyed
+[2020.03.27-13.18.01:352][802]Cmd: QUIT_EDITOR
+[2020.03.27-13.18.01:615][802]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.27-13.18.01:631][802]LogExit: Preparing to exit.
+[2020.03.27-13.18.01:950][802]LogExit: Editor shut down
+[2020.03.27-13.18.01:950][802]LogExit: Transaction tracking system shut down
+[2020.03.27-13.18.02:170][802]LogExit: Object subsystem successfully closed.
+[2020.03.27-13.18.02:188][802]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.27-13.18.02:191][802]LogD3D11RHI: Shutdown
+[2020.03.27-13.18.02:191][802]LogD3D11RHI: CleanupD3DDevice
+[2020.03.27-13.18.02:191][802]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.27-13.18.02:191][802]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.27-13.18.02:192][802]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.27-13.18.02:192][802]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.27-13.18.02:192][802]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.27-13.18.02:192][802]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.27-13.18.02:303][802]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.27-13.18.02:314][802]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2020.03.27-13.18.02:314][802]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2020.03.27-13.18.02:314][802]LogModuleManager: Shutting down and abandoning module SequencerWidgets (646)
+[2020.03.27-13.18.02:314][802]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2020.03.27-13.18.02:314][802]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2020.03.27-13.18.02:314][802]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2020.03.27-13.18.02:314][802]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2020.03.27-13.18.02:314][802]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2020.03.27-13.18.02:314][802]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2020.03.27-13.18.02:314][802]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2020.03.27-13.18.02:314][802]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.03.27-13.18.02:315][802]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.03.27-13.18.02:316][802]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.03.27-13.18.02:316][802]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.03.27-13.18.02:316][802]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.03.27-13.18.02:316][802]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.03.27-13.18.02:316][802]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.03.27-13.18.02:316][802]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.03.27-13.18.02:316][802]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.03.27-13.18.02:316][802]LogModuleManager: Shutting down and abandoning module Media (557)
+[2020.03.27-13.18.02:322][802]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (554)
+[2020.03.27-13.18.02:322][802]LogModuleManager: Shutting down and abandoning module CharacterAI (552)
+[2020.03.27-13.18.02:322][802]LogModuleManager: Shutting down and abandoning module SmartSnapping (550)
+[2020.03.27-13.18.02:322][802]LogModuleManager: Shutting down and abandoning module SessionServices (548)
+[2020.03.27-13.18.02:322][802]LogModuleManager: Shutting down and abandoning module MeshPaint (546)
+[2020.03.27-13.18.02:322][802]LogModuleManager: Shutting down and abandoning module ViewportSnapping (544)
+[2020.03.27-13.18.02:322][802]LogModuleManager: Shutting down and abandoning module ViewportInteraction (542)
+[2020.03.27-13.18.02:322][802]LogModuleManager: Shutting down and abandoning module ClothPainter (540)
+[2020.03.27-13.18.02:323][802]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (539)
+[2020.03.27-13.18.02:323][802]LogModuleManager: Shutting down and abandoning module LogVisualizer (536)
+[2020.03.27-13.18.02:323][802]LogModuleManager: Shutting down and abandoning module IntroTutorials (534)
+[2020.03.27-13.18.02:323][802]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (533)
+[2020.03.27-13.18.02:323][802]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (530)
+[2020.03.27-13.18.02:323][802]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (528)
+[2020.03.27-13.18.02:323][802]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (526)
+[2020.03.27-13.18.02:323][802]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (524)
+[2020.03.27-13.18.02:323][802]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (523)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (520)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (518)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (516)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (514)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (512)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module InputBindingEditor (510)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module MergeActors (508)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (506)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module LocalizationService (505)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module HardwareTargeting (502)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (500)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module UndoHistory (498)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module XmlParser (496)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module Blutility (494)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (492)
+[2020.03.27-13.18.02:451][802]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (491)
+[2020.03.27-13.18.02:452][802]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (488)
+[2020.03.27-13.18.02:452][802]LogModuleManager: Shutting down and abandoning module SettingsEditor (486)
+[2020.03.27-13.18.02:452][802]LogModuleManager: Shutting down and abandoning module ProjectLauncher (484)
+[2020.03.27-13.18.02:452][802]LogModuleManager: Shutting down and abandoning module SessionFrontend (482)
+[2020.03.27-13.18.02:452][802]LogModuleManager: Shutting down and abandoning module ProfilerClient (480)
+[2020.03.27-13.18.02:452][802]LogModuleManager: Shutting down and abandoning module DeviceManager (478)
+[2020.03.27-13.18.02:452][802]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (477)
+[2020.03.27-13.18.02:495][802]LogModuleManager: Shutting down and abandoning module AutomationController (474)
+[2020.03.27-13.18.02:495][802]LogModuleManager: Shutting down and abandoning module AutomationWindow (472)
+[2020.03.27-13.18.02:495][802]LogModuleManager: Shutting down and abandoning module Layers (470)
+[2020.03.27-13.18.02:495][802]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (468)
+[2020.03.27-13.18.02:495][802]LogModuleManager: Shutting down and abandoning module DetailCustomizations (466)
+[2020.03.27-13.18.02:495][802]LogModuleManager: Shutting down and abandoning module PackagesDialog (464)
+[2020.03.27-13.18.02:495][802]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (462)
+[2020.03.27-13.18.02:495][802]LogModuleManager: Shutting down and abandoning module Persona (460)
+[2020.03.27-13.18.02:495][802]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (459)
+[2020.03.27-13.18.02:495][802]LogModuleManager: Shutting down and abandoning module AnimGraph (457)
+[2020.03.27-13.18.02:495][802]LogModuleManager: Shutting down and abandoning module Kismet (454)
+[2020.03.27-13.18.02:500][802]LogModuleManager: Shutting down and abandoning module GraphEditor (452)
+[2020.03.27-13.18.02:500][802]LogModuleManager: Shutting down and abandoning module ClassViewer (450)
+[2020.03.27-13.18.02:501][802]LogModuleManager: Shutting down and abandoning module Toolbox (448)
+[2020.03.27-13.18.02:501][802]LogModuleManager: Shutting down and abandoning module ModuleUI (446)
+[2020.03.27-13.18.02:501][802]LogModuleManager: Shutting down and abandoning module MovieSceneTools (444)
+[2020.03.27-13.18.02:501][802]LogModuleManager: Shutting down and abandoning module OutputLog (442)
+[2020.03.27-13.18.02:501][802]LogModuleManager: Shutting down and abandoning module GammaUI (440)
+[2020.03.27-13.18.02:501][802]LogModuleManager: Shutting down and abandoning module Documentation (438)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module LiveCoding (436)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module LevelSequence (434)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (432)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module MovieScene (430)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (428)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module LauncherPlatform (426)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module AnalyticsET (424)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module PortalServices (422)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module PortalRpc (420)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module MessagingRpc (418)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module AIModule (416)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module GameplayDebugger (415)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module AITestSuite (413)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module NavigationSystem (411)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module DesktopPlatform (408)
+[2020.03.27-13.18.02:502][802]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (406)
+[2020.03.27-13.18.02:505][802]LogModuleManager: Shutting down and abandoning module ProfilerService (404)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module TaskGraph (402)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module SteamVRController (400)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (398)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (396)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module OculusEditor (394)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2020.03.27-13.18.02:686][802]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (366)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (364)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (362)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module HTML5Networking (360)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (358)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (356)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module BackChannel (354)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module AppleVision (352)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (350)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module AppleImageUtils (348)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module AlembicImporter (346)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module AlembicLibrary (345)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module GeometryCache (344)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (343)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module VariantManagerContent (338)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (336)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (334)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module PluginBrowser (332)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (330)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (328)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (326)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module CryptoKeys (324)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (322)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (320)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module UObjectPlugin (318)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (316)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (314)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module GitSourceControl (312)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module SourceControl (311)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (308)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (306)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (304)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (302)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module SignificanceManager (292)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (290)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (288)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module PhysXVehicles (286)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (284)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module ActorSequence (282)
+[2020.03.27-13.18.02:687][802]LogModuleManager: Shutting down and abandoning module UdpMessaging (280)
+[2020.03.27-13.18.02:788][802]LogModuleManager: Shutting down and abandoning module TcpMessaging (278)
+[2020.03.27-13.18.02:888][802]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (276)
+[2020.03.27-13.18.02:888][802]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (274)
+[2020.03.27-13.18.02:888][802]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (272)
+[2020.03.27-13.18.02:888][802]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (270)
+[2020.03.27-13.18.02:888][802]LogModuleManager: Shutting down and abandoning module MagicLeapController (268)
+[2020.03.27-13.18.02:888][802]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.27-13.18.02:888][802]LogModuleManager: Shutting down and abandoning module MagicLeapAR (266)
+[2020.03.27-13.18.02:888][802]LogModuleManager: Shutting down and abandoning module AugmentedReality (265)
+[2020.03.27-13.18.02:888][802]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (262)
+[2020.03.27-13.18.02:888][802]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (260)
+[2020.03.27-13.18.02:888][802]LogModuleManager: Shutting down and abandoning module FacialAnimation (258)
+[2020.03.27-13.18.02:888][802]LogModuleManager: Shutting down and abandoning module DataValidation (256)
+[2020.03.27-13.18.02:888][802]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (254)
+[2020.03.27-13.18.02:888][802]LogModuleManager: Shutting down and abandoning module LevelEditor (253)
+[2020.03.27-13.18.02:889][802]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (252)
+[2020.03.27-13.18.02:889][802]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (250)
+[2020.03.27-13.18.02:889][802]LogModuleManager: Shutting down and abandoning module MainFrame (248)
+[2020.03.27-13.18.02:889][802]LogModuleManager: Shutting down and abandoning module HotReload (247)
+[2020.03.27-13.18.02:889][802]LogModuleManager: Shutting down and abandoning module ContentBrowser (243)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module TreeMap (241)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module AnimationSharing (238)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (236)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module AISupportModule (234)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (228)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module PacketHandler (226)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (224)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (222)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module MediaAssets (220)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2020.03.27-13.18.02:890][802]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module UnrealEd (184)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module MRMesh (182)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (180)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (178)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module XAudio2 (176)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module Networking (174)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module Core (172)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (165)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (163)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2020.03.27-13.18.02:892][802]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2020.03.27-13.18.02:893][802]LogModuleManager: Shutting down and abandoning module DerivedDataCache (152)
+[2020.03.27-13.18.02:929][802]LogDerivedDataCache: Shutdown
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module XGEController (150)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2020.03.27-13.18.02:929][802]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (117)
+[2020.03.27-13.18.02:930][802]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2020.03.27-13.18.02:930][802]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2020.03.27-13.18.02:930][802]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2020.03.27-13.18.02:930][802]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2020.03.27-13.18.02:930][802]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2020.03.27-13.18.02:931][802]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2020.03.27-13.18.02:931][802]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2020.03.27-13.18.02:932][802]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2020.03.27-13.18.02:932][802]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2020.03.27-13.18.02:939][802]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (97)
+[2020.03.27-13.18.02:939][802]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (95)
+[2020.03.27-13.18.02:939][802]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (93)
+[2020.03.27-13.18.02:939][802]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (91)
+[2020.03.27-13.18.02:939][802]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (89)
+[2020.03.27-13.18.02:939][802]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (87)
+[2020.03.27-13.18.02:939][802]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (85)
+[2020.03.27-13.18.02:939][802]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (83)
+[2020.03.27-13.18.02:939][802]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (81)
+[2020.03.27-13.18.02:939][802]LogModuleManager: Shutting down and abandoning module InputCore (78)
+[2020.03.27-13.18.02:939][802]LogModuleManager: Shutting down and abandoning module Settings (76)
+[2020.03.27-13.18.02:940][802]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2020.03.27-13.18.02:940][802]LogModuleManager: Shutting down and abandoning module PhysXCooking (72)
+[2020.03.27-13.18.02:940][802]LogModuleManager: Shutting down and abandoning module SteamVR (70)
+[2020.03.27-13.18.02:940][802]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.27-13.18.02:940][802]LogModuleManager: Shutting down and abandoning module OculusHMD (68)
+[2020.03.27-13.18.02:940][802]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (66)
+[2020.03.27-13.18.02:940][802]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (64)
+[2020.03.27-13.18.02:940][802]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (62)
+[2020.03.27-13.18.02:940][802]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (58)
+[2020.03.27-13.18.02:940][802]LogModuleManager: Shutting down and abandoning module XMPP (53)
+[2020.03.27-13.18.02:940][802]LogModuleManager: Shutting down and abandoning module WebSockets (52)
+[2020.03.27-13.18.02:949][802]LogModuleManager: Shutting down and abandoning module HTTP (49)
+[2020.03.27-13.18.02:949][802]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.27-13.18.02:949][802]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF89AE148-4FC2-6534-10A6-D581AA40A612%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3e685bdd4ecbcdcb49073885733d9bb3%7C1564fcc0ae2c49579ac14154f6d101a7%7Cfa2de9d3-982b-4a94-a2cb-35e415c15107&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.27-13.18.02:965][802]LogModuleManager: Shutting down and abandoning module SSL (48)
+[2020.03.27-13.18.02:966][802]LogModuleManager: Shutting down and abandoning module WmfMedia (44)
+[2020.03.27-13.18.02:966][802]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.03.27-13.18.02:966][802]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.03.27-13.18.02:966][802]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.27-13.18.02:966][802]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.27-13.18.02:966][802]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.27-13.18.02:966][802]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.27-13.18.02:966][802]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.27-13.18.02:966][802]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.27-13.18.02:966][802]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.27-13.18.02:967][802]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.27-13.18.02:967][802]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.27-13.18.02:967][802]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.27-13.18.02:967][802]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.27-13.18.02:967][802]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.27-13.18.02:967][802]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.27-13.18.02:967][802]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.27-13.18.02:967][802]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.27-13.18.02:967][802]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.27-13.18.02:967][802]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.27-13.18.02:967][802]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.27-13.18.02:967][802]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.27-13.18.02:973][802]LogExit: Exiting.
+[2020.03.27-13.18.03:019][802]Log file closed, 03/27/20 14:18:03
