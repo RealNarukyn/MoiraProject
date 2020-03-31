@@ -1,0 +1,1247 @@
+﻿Log file open, 03/31/20 10:01:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MoiraProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.383182
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=almorax -epicuserid=51cf67fba372485d909ea88f52cb1e50 -epiclocale=es
+LogInit: Base Directory: G:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-08.01.39:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.31-08.01.39:969][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.31-08.01.39:970][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.31-08.01.39:970][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.31-08.01.39:970][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-08.01.39:970][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-08.01.39:972][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.31-08.01.39:972][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.31-08.01.39:973][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.31-08.01.39:973][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.31-08.01.39:973][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.31-08.01.39:978][  0]LogHAL: Display: Platform has ~ 16 GB [17111027712 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.31-08.01.39:978][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.31-08.01.39:978][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.31-08.01.39:978][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.31-08.01.39:979][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-08.01.39:979][  0]LogInit: Computer: DESKTOP-10LTK5T
+[2020.03.31-08.01.39:979][  0]LogInit: User: Usuario
+[2020.03.31-08.01.39:979][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.31-08.01.39:979][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.31-08.01.39:979][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.31-08.01.39:979][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.31-08.01.39:979][  0]LogMemory: Process Physical Memory: 98.51 MB used, 98.52 MB peak
+[2020.03.31-08.01.39:979][  0]LogMemory: Process Virtual Memory: 86.36 MB used, 86.36 MB peak
+[2020.03.31-08.01.39:979][  0]LogMemory: Physical Memory: 6842.12 MB used,  9476.23 MB free, 16318.35 MB total
+[2020.03.31-08.01.39:979][  0]LogMemory: Virtual Memory: 4657.11 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.03.31-08.01.39:992][  0]LogInit: Using OS detected language (es-ES).
+[2020.03.31-08.01.39:992][  0]LogInit: Using OS detected locale (es-ES).
+[2020.03.31-08.01.39:993][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2020.03.31-08.01.40:023][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.31-08.01.40:043][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.31-08.01.40:043][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.31-08.01.40:154][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.31-08.01.40:154][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.31-08.01.40:211][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.03.31-08.01.40:211][  0]LogD3D11RHI:       5980/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.31-08.01.40:213][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.31-08.01.40:213][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.31-08.01.40:213][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.31-08.01.40:218][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.31-08.01.40:219][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.31-08.01.40:219][  0]LogWindows: EnumDisplayDevices:
+[2020.03.31-08.01.40:219][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.03.31-08.01.40:219][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.03.31-08.01.40:219][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.03.31-08.01.40:219][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.03.31-08.01.40:219][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.31-08.01.40:219][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.03.31-08.01.40:219][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.03.31-08.01.40:219][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.03.31-08.01.40:219][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.03.31-08.01.40:253][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.31-08.01.40:255][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.31-08.01.40:256][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.31-08.01.40:256][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.31-08.01.40:263][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.31-08.01.40:532][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.31-08.01.40:541][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.31-08.01.40:551][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.31-08.01.40:561][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.31-08.01.40:571][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.31-08.01.40:579][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.31-08.01.40:589][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.31-08.01.40:598][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.31-08.01.40:603][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.31-08.01.40:663][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.31-08.01.40:664][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.31-08.01.40:707][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.31-08.01.40:707][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.31-08.01.40:725][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.31-08.01.40:725][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.31-08.01.40:735][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.31-08.01.40:745][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.31-08.01.40:755][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.31-08.01.40:763][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.31-08.01.40:796][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.31-08.01.40:796][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.31-08.01.40:796][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.31-08.01.40:803][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.31-08.01.40:834][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../ENTI/Unreal/MoiraProject/MoiraProject/Intermediate/Shaders/WorkingDirectory/2636/).
+[2020.03.31-08.01.40:834][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Usuario/AppData/Local/Temp/UnrealShaderWorkingDir/3D0962484ADAC66B875FDD8BC4039E7C/'.
+[2020.03.31-08.01.40:835][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.31-08.01.40:835][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.31-08.01.40:835][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.31-08.01.41:257][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.31-08.01.41:292][  0]LogDerivedDataCache: Loaded boot cache 0.03s 71MB C:/Users/Usuario/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.31-08.01.41:292][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Usuario/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.31-08.01.41:292][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../ENTI/Unreal/MoiraProject/MoiraProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.31-08.01.41:292][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.31-08.01.41:292][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../ENTI/Unreal/MoiraProject/MoiraProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.31-08.01.41:292][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.31-08.01.41:302][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.31-08.01.41:302][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.31-08.01.41:302][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.31-08.01.41:313][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.31-08.01.41:313][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.31-08.01.41:313][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.31-08.01.41:329][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.31-08.01.41:330][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.31-08.01.41:330][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.31-08.01.41:395][  0]LogAssetRegistry: FAssetRegistry took 0.0298 seconds to start up
+[2020.03.31-08.01.41:623][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.31-08.01.41:717][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.31-08.01.41:717][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.31-08.01.41:717][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.31-08.01.41:717][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.31-08.01.41:717][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.31-08.01.41:724][  0]LogNetVersion: MoiraProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3284360939)
+[2020.03.31-08.01.41:992][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.018246 seconds
+[2020.03.31-08.01.41:997][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.31-08.01.41:997][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.31-08.01.41:997][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.31-08.01.42:574][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.31-08.01.42:587][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.31-08.01.42:676][  0]SourceControl: El control de código fuente está desactivado
+[2020.03.31-08.01.42:676][  0]SourceControl: El control de código fuente está desactivado
+[2020.03.31-08.01.42:677][  0]SourceControl: El control de código fuente está desactivado
+[2020.03.31-08.01.42:678][  0]SourceControl: El control de código fuente está desactivado
+[2020.03.31-08.01.42:721][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.31-08.01.42:779][  0]LogOcInput: OculusInput pre-init called
+[2020.03.31-08.01.43:273][  0]LogEngine: Initializing Engine...
+[2020.03.31-08.01.43:274][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.31-08.01.43:275][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.31-08.01.43:422][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.31-08.01.43:429][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.31-08.01.43:442][  0]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.31-08.01.43:452][  0]LogInit: FAudioDevice initialized.
+[2020.03.31-08.01.43:452][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.31-08.01.43:536][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Usuario/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.31-08.01.43:539][  0]LogInit: Texture streaming: Enabled
+[2020.03.31-08.01.43:548][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.31-08.01.43:559][  0]LogInit: Transaction tracking system initialized
+[2020.03.31-08.01.43:571][  0]BlueprintLog: New page: Cargar el editor
+[2020.03.31-08.01.43:612][  0]LocalizationService: Localization service is disabled
+[2020.03.31-08.01.43:803][  0]LogFileCache: Scanning file cache for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Content/' took 0.01s
+[2020.03.31-08.01.43:803][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.31-08.01.43:803][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.31-08.01.43:910][  0]SourceControl: El control de código fuente está desactivado
+[2020.03.31-08.01.43:910][  0]Cmd: MAP LOAD FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.31-08.01.43:911][  0]LightingResults: New page: Diseñar la iluminación
+[2020.03.31-08.01.43:912][  0]MapCheck: New page: Revisión del mapa
+[2020.03.31-08.01.43:912][  0]LightingResults: New page: Diseñar la iluminación
+[2020.03.31-08.01.43:935][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.03.31-08.01.44:033][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.03.31-08.01.44:033][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.03.31-08.01.44:036][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.03.31-08.01.44:036][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.03.31-08.01.44:037][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.03.31-08.01.44:037][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.03.31-08.01.44:037][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.03.31-08.01.44:037][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.03.31-08.01.44:041][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.03.31-08.01.44:041][  0]LoadErrors: Error al cargar /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenciado por PersistentLevel
+[2020.03.31-08.01.44:041][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.03.31-08.01.44:072][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.31-08.01.44:078][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.31-08.01.44:103][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.03.31-08.01.44:103][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.31-08.01.44:103][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,064ms to complete.
+[2020.03.31-08.01.44:103][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.193
+[2020.03.31-08.01.44:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-08.01.44:207][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-08.01.44:213][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-08.01.44:218][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-08.01.44:221][  0]LogCollectionManager: Loaded 0 collections in 0.000659 seconds
+[2020.03.31-08.01.44:235][  0]LogFileCache: Scanning file cache for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Collections/' took 0.01s
+[2020.03.31-08.01.44:235][  0]LogFileCache: Scanning file cache for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Content/Developers/Usuario/Collections/' took 0.00s
+[2020.03.31-08.01.44:235][  0]LogFileCache: Scanning file cache for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Content/Collections/' took 0.00s
+[2020.03.31-08.01.44:235][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.31-08.01.44:242][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2732 classes and 659 folders.
+[2020.03.31-08.01.44:245][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.31-08.01.44:246][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:246][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:247][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:247][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:247][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:247][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:248][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:248][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:248][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:249][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:249][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:249][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:249][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:250][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:250][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:250][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:250][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:251][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:251][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:251][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:252][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:252][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:252][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:252][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:253][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:253][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.31-08.01.44:269][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.31-08.01.44:272][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.03.31-08.01.44:317][  0]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.31-08.01.44:319][  0]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.31-08.01.44:323][  0]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.31-08.01.44:367][  0]LogRenderer: Reallocating scene render targets to support 1128x536 Format 10 NumSamples 1 (Frame:1).
+[2020.03.31-08.01.44:450][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.31-08.01.44:450][  0]LogLoad: (Engine Initialization) Total time: 5.81 seconds
+[2020.03.31-08.01.44:450][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.31-08.01.44:592][  0]LogAssetRegistry: Asset discovery search completed in 3.2197 seconds
+[2020.03.31-08.01.44:594][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.31-08.01.44:594][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2020.03.31-08.01.44:594][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.31-08.01.44:602][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.31-08.01.44:646][  0]LogRenderer: Reallocating scene render targets to support 1128x552 Format 10 NumSamples 1 (Frame:2).
+[2020.03.31-08.01.44:646][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.31-08.01.44:653][  1]LogFileCache: Retrieving MD5 hashes for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Content/' took 0.08s
+[2020.03.31-08.01.46:476][203]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.03.31-08.01.46:480][203]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.03.31-08.03.05:384][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-08.03.09:038][552]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.31-08.03.09:044][552]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Devs/Almorax/W_Inventory.W_Inventory
+[2020.03.31-08.03.09:213][552]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.03.31-08.03.09:768][552]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.03.31-08.03.10:036][552]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.31-08.03.50:612][200]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.03.31-08.03.50:622][200]LogMetaData: Removing '/Game/Devs/Almorax/W_MainMenu.SKEL_W_MainMenu_C' ref from Metadata '/Game/Devs/Almorax/MainMenu.PackageMetaData'
+[2020.03.31-08.03.50:622][200]LogMetaData: Removing '/Game/Devs/Almorax/W_MainMenu.W_MainMenu_C' ref from Metadata '/Game/Devs/Almorax/MainMenu.PackageMetaData'
+[2020.03.31-08.03.50:622][200]LogMetaData: Removing '/Game/Devs/Almorax/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Devs/Almorax/MainMenu.PackageMetaData'
+[2020.03.31-08.03.50:622][200]LogMetaData: Removing '/Game/Devs/Almorax/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Devs/Almorax/MainMenu.PackageMetaData'
+[2020.03.31-08.03.50:622][200]LogMetaData: Removing '/Game/Devs/Almorax/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Devs/Almorax/MainMenu.PackageMetaData'
+[2020.03.31-08.03.50:635][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/W_MainMenu" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/W_MainMenu.uasset" SILENT=true
+[2020.03.31-08.03.50:639][200]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_MainMenuBC50D6B14C282B38B7AD7CA22DE85769.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/W_MainMenu.uasset'
+[2020.03.31-08.03.50:767][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.03.31-08.03.50:796][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.03.31-08.03.50:823][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.31-08.03.53:333][498]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Devs/Almorax/W_MainMenu.W_MainMenu
+[2020.03.31-08.04.13:510][592]LogSlate: Window 'W_MainMenu' being destroyed
+[2020.03.31-08.04.16:963][999]LogLinker: No puede encontrar el archivo '/Game/spacestation'
+[2020.03.31-08.04.16:964][999]LogLinker: No puede encontrar el archivo '/Game/spacestation'
+[2020.03.31-08.04.16:964][999]LogProperty: Warning: ObjectProperty /Script/SlateCore.SlateBrush:ResourceObject: unresolved reference to 'Texture2D'"/Game/spacestation.spacestation"')'
+[2020.03.31-08.04.16:964][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory_C:WidgetTree.CanvasPanel_0
+[2020.03.31-08.04.16:964][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.CanvasPanel_0
+[2020.03.31-08.04.16:964][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_MainMenu.W_MainMenu_C:WidgetTree.CanvasPanel_0
+[2020.03.31-08.04.16:964][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:W_Inventory_C_2.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.04.16:964][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_0.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.04.16:964][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_1.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.04.16:964][999]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0) from referencer (Image /Engine/UMG/Editor/Transient.Image_139).  Import failed...
+[2020.03.31-08.04.16:964][999]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_0"''
+[2020.03.31-08.04.16:964][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory_C:WidgetTree.CanvasPanel_0
+[2020.03.31-08.04.16:964][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.CanvasPanel_0
+[2020.03.31-08.04.16:964][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_MainMenu.W_MainMenu_C:WidgetTree.CanvasPanel_0
+[2020.03.31-08.04.16:964][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:W_Inventory_C_2.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.04.16:964][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_0.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.04.16:964][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_1.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.04.16:964][999]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_2"''
+[2020.03.31-08.04.16:965][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory_C:WidgetTree.CanvasPanel_0
+[2020.03.31-08.04.16:965][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.CanvasPanel_0
+[2020.03.31-08.04.16:965][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_MainMenu.W_MainMenu_C:WidgetTree.CanvasPanel_0
+[2020.03.31-08.04.16:965][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:W_Inventory_C_2.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.04.16:965][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_0.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.04.16:965][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_1.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.04.16:965][999]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7) from referencer (VerticalBox /Engine/UMG/Editor/Transient.MainMenu).  Import failed...
+[2020.03.31-08.04.16:965][999]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_7"''
+[2020.03.31-08.04.16:966][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory_C:WidgetTree.CanvasPanel_0
+[2020.03.31-08.04.16:966][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.CanvasPanel_0
+[2020.03.31-08.04.16:966][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_MainMenu.W_MainMenu_C:WidgetTree.CanvasPanel_0
+[2020.03.31-08.04.16:966][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:W_Inventory_C_2.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.04.16:966][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_0.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.04.16:966][999]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_1.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.04.16:966][999]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_4"''
+[2020.03.31-08.08.28:677][733]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.03.31-08.11.44:843][804]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.03.31-08.11.44:843][804]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.050
+[2020.03.31-08.11.44:844][804]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Almorax/W_MainMenu] ([1] browsable assets)...
+[2020.03.31-08.11.44:844][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Almorax/W_MainMenu]
+[2020.03.31-08.11.44:844][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/W_MainMenu" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Almorax/W_MainMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.03.31-08.11.44:862][804]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_MainMenu_Auto162F0FA7B4767BC813662ABA3132D1367.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Almorax/W_MainMenu_Auto1.uasset'
+[2020.03.31-08.11.44:863][804]LogFileHelpers: Auto-saving content packages took 0.019
+[2020.03.31-08.20.03:227][681]LogSlate: Took 0.001110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.03.31-08.20.13:862][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/W_MainMenu" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/W_MainMenu.uasset" SILENT=true
+[2020.03.31-08.20.13:876][954]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_MainMenuBE447DCE417B472D367362A24FA182EA.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/W_MainMenu.uasset'
+[2020.03.31-08.20.14:328][  7]BlueprintLog: New page: Compilar W_MainMenu
+[2020.03.31-08.20.14:372][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.03.31-08.25.04:671][781]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Usuario\Downloads\Moira_Logo.png)
+[2020.03.31-08.25.04:731][781]LogTexture: Display: Building textures: Moira_Logo (BGRA8, 1573X1666)
+[2020.03.31-08.25.07:540][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Moira_Logo" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Moira_Logo.uasset" SILENT=true
+[2020.03.31-08.25.07:635][ 92]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Moira_LogoFD1D33A9497FF4AA3ABCBCB17715977B.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Moira_Logo.uasset'
+[2020.03.31-08.26.48:836][800]BlueprintLog: New page: Compilar W_MainMenu
+[2020.03.31-08.26.48:868][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.03.31-08.26.49:650][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/W_MainMenu" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/W_MainMenu.uasset" SILENT=true
+[2020.03.31-08.26.49:665][892]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_MainMenu5A68281A49EFE89096F2D1A7BD798484.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/W_MainMenu.uasset'
+[2020.03.31-08.28.21:391][673]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Devs/Moira_Logo.Moira_Logo
+[2020.03.31-08.28.21:452][673]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2020.03.31-08.28.21:453][673]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.03.31-08.28.45:116][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Moira_Logo" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Moira_Logo.uasset" SILENT=true
+[2020.03.31-08.28.45:125][458]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Moira_Logo9093A4314B978FEC782E52BD4AA8E300.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Moira_Logo.uasset'
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory_C:WidgetTree.CanvasPanel_0
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_5.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_6.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.CanvasPanel_0
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_12.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_4.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_2.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_3.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_7.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_W_MainMenu_C_9:WidgetTree.CanvasPanel_0
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_MainMenu.W_MainMenu_C:WidgetTree.CanvasPanel_0
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_W_MainMenu_C_15:WidgetTree.CanvasPanel_0
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_13.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_11.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.28.51:834][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_14.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.28.51:835][259]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_15.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.28.51:835][259]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0) from referencer (Image /Engine/UMG/Editor/Transient.Image_139).  Import failed...
+[2020.03.31-08.28.51:835][259]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_0"''
+[2020.03.31-08.31.05:281][659]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Usuario\Downloads\MockupMainMenu.jpg)
+[2020.03.31-08.31.05:293][659]LogTexture: Display: Building textures: MockupMainMenu (AutoDXT, 1920X1080)
+[2020.03.31-08.31.06:513][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/MockupMainMenu" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/MockupMainMenu.uasset" SILENT=true
+[2020.03.31-08.31.06:575][792]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/MockupMainMenu12AA29E64CDF203610B90792FC41BB9C.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/MockupMainMenu.uasset'
+[2020.03.31-08.31.11:162][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory_C:WidgetTree.CanvasPanel_0
+[2020.03.31-08.31.11:162][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_5.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:162][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_6.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:162][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.CanvasPanel_0
+[2020.03.31-08.31.11:162][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_12.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:162][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_4.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:162][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_2.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:162][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_3.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:162][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_7.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:162][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_W_MainMenu_C_9:WidgetTree.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_MainMenu.W_MainMenu_C:WidgetTree.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_W_MainMenu_C_15:WidgetTree.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_13.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_11.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_14.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_15.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_16.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_17.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_18.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_19.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_20.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_21.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_22.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_23.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_24.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_25.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_26.WidgetTree_0.CanvasPanel_0
+[2020.03.31-08.31.11:163][339]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0) from referencer (Image /Engine/UMG/Editor/Transient.Image_139).  Import failed...
+[2020.03.31-08.31.11:163][339]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_0"''
+[2020.03.31-08.31.41:839][771]LogEditorTransaction: Undo Mover Widget
+[2020.03.31-08.32.21:242][374]LogEditorTransaction: Undo Mover Widget
+[2020.03.31-08.33.30:834][147]LogEditorTransaction: Undo Mover Widget
+[2020.03.31-08.34.16:312][937]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2020.03.31-08.34.16:313][937]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.054
+[2020.03.31-08.34.16:313][937]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Devs/Almorax/W_MainMenu] ([1] browsable assets)...
+[2020.03.31-08.34.16:313][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Almorax/W_MainMenu]
+[2020.03.31-08.34.16:314][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/W_MainMenu" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Almorax/W_MainMenu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.31-08.34.16:335][937]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_MainMenu_Auto262A2D56A4402315C7A714FBEF11E7B77.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Almorax/W_MainMenu_Auto2.uasset'
+[2020.03.31-08.34.16:335][937]LogFileHelpers: Auto-saving content packages took 0.022
+[2020.03.31-08.34.22:311][602]LogEditorTransaction: Undo Mover Widget
+[2020.03.31-08.35.42:197][491]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\Usuario\Downloads\zekton\zekton rg.ttf)
+[2020.03.31-08.35.47:664][491]LogSlate: Window 'Font Face Import Options' being destroyed
+[2020.03.31-08.35.47:751][491]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2020.03.31-08.35.47:786][492]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.31-08.35.47:787][492]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.31-08.35.47:789][492]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.31-08.35.47:792][492]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.31-08.35.51:103][869]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.31-08.35.51:110][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/zekton_rg" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/zekton_rg.uasset" SILENT=true
+[2020.03.31-08.35.51:111][869]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/zekton_rg4B0F3E10467706EDC748AA85BD24FA65.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/zekton_rg.uasset'
+[2020.03.31-08.35.51:729][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/zekton_rg_Font" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/zekton_rg_Font.uasset" SILENT=true
+[2020.03.31-08.35.51:732][941]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/zekton_rg_Font59AACCE14FB4933544D8ACB1FE6AC261.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/zekton_rg_Font.uasset'
+[2020.03.31-08.35.53:971][208]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.31-08.36.02:699][250]LogSlate: Took 0.000975 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.03.31-08.36.07:706][850]LogEditorTransaction: Undo Eliminar Widget
+[2020.03.31-08.36.14:143][614]LogEditorTransaction: Undo Mover Widget
+[2020.03.31-08.36.22:793][644]Cmd: TRANSACTION UNDO
+[2020.03.31-08.36.22:793][644]LogEditorTransaction: Undo Editar A
+[2020.03.31-08.36.34:059][981]Cmd: TRANSACTION UNDO
+[2020.03.31-08.36.34:059][981]LogEditorTransaction: Undo Editar A
+[2020.03.31-08.36.43:778][140]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.03.31-08.36.44:553][233]LogEditorTransaction: Undo Editar Color y opacidad
+[2020.03.31-08.36.44:950][276]LogEditorTransaction: Undo Mover Widget
+[2020.03.31-08.37.17:801][213]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.03.31-08.38.22:462][395]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.31-08.38.22:474][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.31-08.38.22:474][395]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.31-08.38.22:475][395]LogPlayLevel: [PlayLevel] Compiling W_MainMenu before play...
+[2020.03.31-08.38.22:697][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.03.31-08.38.22:697][395]LogPlayLevel: PlayLevel: Blueprint regeneration took 223 ms (1 blueprints)
+[2020.03.31-08.38.22:697][395]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (31/3/2020 12:38:22)
+[2020.03.31-08.38.22:711][395]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.03.31-08.38.22:723][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011783s)
+[2020.03.31-08.38.22:723][395]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.03.31-08.38.22:724][395]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2020.03.31-08.38.22:724][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012770s)
+[2020.03.31-08.38.22:751][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.03.31-08.38.22:761][395]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.31-08.38.22:768][395]LogInit: FAudioDevice initialized.
+[2020.03.31-08.38.22:774][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-08.38.22:822][395]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.31-08.38.22:824][395]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.03.31-10.38.22
+[2020.03.31-08.38.22:824][395]LogWorld: Bringing up level for play took: 0.001493
+[2020.03.31-08.38.22:838][395]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.03.31-08.38.22:839][395]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.03.31-08.38.22:839][395]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.31-08.38.22:840][395]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,629
+[2020.03.31-08.38.22:841][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.31-08.38.22:871][396]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2020.03.31-08.38.24:704][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.31-08.38.24:705][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-08.38.24:716][582]LogSlate: Window 'MoiraProject Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.31-08.38.24:749][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-08.38.24:749][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.03.31-08.38.24:818][582]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.03.31-08.38.24:830][583]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.03.31-08.41.07:647][148]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.03.31-08.41.15:771][122]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.03.31-08.41.31:104][958]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.03.31-08.41.38:528][848]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.03.31-08.41.47:995][983]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_4.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_5.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Game/Devs/Almorax/W_MainMenu.SKEL_W_MainMenu_C:MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_6.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_11.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_7.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Game/Devs/Almorax/W_MainMenu.W_MainMenu_C:MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_12.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_59.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.REINST_W_MainMenu_C_15:WidgetTree.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Engine/Transient.REINST_W_MainMenu_C_15:MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_13.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_45.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_44.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_16.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_43.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_17.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_42.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_39.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_38.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_19.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_36.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_20.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_34.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_21.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_31.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_22.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_29.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_28.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_27.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_24.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_47.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_25.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu_C:WidgetTree.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.REINST_W_MainMenu_C_62:WidgetTree.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Engine/Transient.REINST_W_MainMenu_C_62:MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_62.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_61.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_50.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_66.WidgetTree_0.MainMenu
+[2020.03.31-08.43.47:370][539]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu.VerticalBoxSlot_7) from referencer (Button /Engine/UMG/Editor/Transient.QuitButton).  Import failed...
+[2020.03.31-08.43.47:370][539]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"MainMenu.VerticalBoxSlot_7"''
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_4.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_5.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Game/Devs/Almorax/W_MainMenu.SKEL_W_MainMenu_C:MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_6.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_11.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_7.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Game/Devs/Almorax/W_MainMenu.W_MainMenu_C:MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_12.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_59.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.REINST_W_MainMenu_C_15:WidgetTree.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Engine/Transient.REINST_W_MainMenu_C_15:MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_13.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_45.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_44.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_16.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_43.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_17.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_42.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_39.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_38.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_19.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_36.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_20.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_34.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_21.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_31.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_22.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_29.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_28.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_27.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_24.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_47.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_25.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu_C:WidgetTree.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.REINST_W_MainMenu_C_62:WidgetTree.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Engine/Transient.REINST_W_MainMenu_C_62:MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_62.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_61.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_50.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_66.WidgetTree_0.MainMenu
+[2020.03.31-08.43.53:601][278]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu.VerticalBoxSlot_7) from referencer (Button /Engine/UMG/Editor/Transient.QuitButton).  Import failed...
+[2020.03.31-08.43.53:601][278]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"MainMenu.VerticalBoxSlot_7"''
+[2020.03.31-08.44.21:959][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_4.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_5.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Game/Devs/Almorax/W_MainMenu.SKEL_W_MainMenu_C:MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_6.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_11.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_7.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Game/Devs/Almorax/W_MainMenu.W_MainMenu_C:MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_12.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_59.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.REINST_W_MainMenu_C_15:WidgetTree.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Engine/Transient.REINST_W_MainMenu_C_15:MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_13.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_45.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_44.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_16.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_43.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_17.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_42.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_39.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_38.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_19.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_36.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_20.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_34.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_21.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_31.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_22.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_29.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_28.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_27.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_24.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_47.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_25.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu_C:WidgetTree.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.REINST_W_MainMenu_C_62:WidgetTree.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Engine/Transient.REINST_W_MainMenu_C_62:MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_62.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_61.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_50.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_66.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_67.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Engine/Transient.REINST_SKEL_W_MainMenu_C_63:MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_68.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Engine/Transient.REINST_SKEL_W_MainMenu_C_64:MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_69.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or ObjectProperty /Engine/Transient.REINST_SKEL_W_MainMenu_C_65:MainMenu
+[2020.03.31-08.44.21:960][652]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu or VerticalBox /Engine/Transient.World_3:W_MainMenu_C_70.WidgetTree_0.MainMenu
+[2020.03.31-08.44.21:960][652]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.MainMenu.VerticalBoxSlot_2) from referencer (Button /Engine/UMG/Editor/Transient.OptionButton).  Import failed...
+[2020.03.31-08.44.21:960][652]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"MainMenu.VerticalBoxSlot_2"''
+[2020.03.31-08.44.58:566][ 14]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.03.31-08.45.06:790][  0]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.03.31-08.45.16:607][177]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.03.31-08.45.22:049][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/W_MainMenu" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/W_MainMenu.uasset" SILENT=true
+[2020.03.31-08.45.22:068][827]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_MainMenu6D5B3069434B41C1511E4E987BF6A8D2.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/W_MainMenu.uasset'
+[2020.03.31-08.45.22:645][895]BlueprintLog: New page: Compilar W_MainMenu
+[2020.03.31-08.45.22:692][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.03.31-08.46.03:006][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/MainMenu" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.31-08.46.03:031][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.03.31-08.46.03:036][376]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/MainMenuD6D208E6440960842A6DF3B028B845B0.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/MainMenu.umap'
+[2020.03.31-08.46.03:038][376]LogFileHelpers: Saving map 'MainMenu' took 0.031
+[2020.03.31-08.46.03:726][457]LogAssetEditorManager: Opening Asset editor for World /Game/Devs/Almorax/MainMenu.MainMenu
+[2020.03.31-08.46.03:750][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.03.31-08.46.03:752][457]Cmd: MAP LOAD FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.31-08.46.03:752][457]LightingResults: New page: Diseñar la iluminación
+[2020.03.31-08.46.03:756][457]LoadErrors: New page: Cargando mapa: MainMenu.umap
+[2020.03.31-08.46.03:757][457]MapCheck: New page: Revisión del mapa
+[2020.03.31-08.46.03:757][457]LightingResults: New page: Diseñar la iluminación
+[2020.03.31-08.46.03:791][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.03.31-08.46.03:841][457]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.31-08.46.03:841][457]LogAIModule: Creating AISystem for world MainMenu
+[2020.03.31-08.46.03:870][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.03.31-08.46.03:886][457]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.31-08.46.03:886][457]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,052ms to complete.
+[2020.03.31-08.46.03:887][457]LogFileHelpers: Loading map 'MainMenu' took 0.135
+[2020.03.31-08.47.18:604][419]LogAssetEditorManager: Opening Asset editor for World /Game/Devs/Almorax/MainMenu.MainMenu
+[2020.03.31-08.47.18:630][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.03.31-08.47.18:631][419]Cmd: MAP LOAD FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.31-08.47.18:631][419]LightingResults: New page: Diseñar la iluminación
+[2020.03.31-08.47.18:631][419]LoadErrors: New page: Cargando mapa: MainMenu.umap
+[2020.03.31-08.47.18:632][419]MapCheck: New page: Revisión del mapa
+[2020.03.31-08.47.18:632][419]LightingResults: New page: Diseñar la iluminación
+[2020.03.31-08.47.18:659][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.03.31-08.47.18:662][419]LogAIModule: Creating AISystem for world MainMenu
+[2020.03.31-08.47.18:721][419]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.31-08.47.18:749][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.03.31-08.47.18:765][419]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.31-08.47.18:765][419]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,05ms to complete.
+[2020.03.31-08.47.18:766][419]LogFileHelpers: Loading map 'MainMenu' took 0.136
+[2020.03.31-08.47.26:020][228]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.03.31-08.47.55:649][619]LogLinker: No puede encontrar el archivo '/Game/FirstPersonBP/Blueprints/MainMenu'
+[2020.03.31-08.47.55:649][619]LogLinker: No puede encontrar el archivo '/Game/FirstPersonBP/Blueprints/MainMenu'
+[2020.03.31-08.47.55:665][620]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.31-08.48.13:773][787]BlueprintLog: New page: Compilar MainMenu
+[2020.03.31-08.48.13:915][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.03.31-08.48.14:263][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/MainMenu" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.31-08.48.14:291][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.03.31-08.48.14:420][827]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/MainMenu97142AD44804463844DDA18BD8193381.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/MainMenu.umap'
+[2020.03.31-08.48.14:437][827]LogFileHelpers: Saving map 'MainMenu' took 0.174
+[2020.03.31-08.48.16:663][ 92]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.31-08.48.16:674][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.48.16:674][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.31-08.48.16:674][ 92]PIE: New page: Sesión PIE (reproducción en el editor): MainMenu (31/3/2020 12:48:16)
+[2020.03.31-08.48.16:674][ 92]LogPlayLevel: Creating play world package: /Game/Devs/Almorax/UEDPIE_0_MainMenu
+[2020.03.31-08.48.16:675][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000721s)
+[2020.03.31-08.48.16:675][ 92]LogAIModule: Creating AISystem for world MainMenu
+[2020.03.31-08.48.16:675][ 92]LogPlayLevel: PIE: World Init took: (0.000364s)
+[2020.03.31-08.48.16:675][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Devs/Almorax/MainMenu.MainMenu to /Game/Devs/Almorax/UEDPIE_0_MainMenu.MainMenu (0.001229s)
+[2020.03.31-08.48.16:705][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.03.31-08.48.16:716][ 92]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.31-08.48.16:722][ 92]LogInit: FAudioDevice initialized.
+[2020.03.31-08.48.16:728][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-08.48.16:754][ 92]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.31-08.48.16:755][ 92]LogWorld: Bringing World /Game/Devs/Almorax/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.03.31-10.48.16
+[2020.03.31-08.48.16:755][ 92]LogWorld: Bringing up level for play took: 0.000239
+[2020.03.31-08.48.16:776][ 92]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Devs/Almorax/UEDPIE_0_MainMenu -0,694
+[2020.03.31-08.48.16:776][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.48.42:321][155]LogSlate: Window 'MoiraProject Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.31-08.48.42:325][155]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.48.42:357][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-08.48.42:357][155]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.48.42:392][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.03.31-08.48.42:418][158]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.03.31-08.49.00:092][244]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.03.31-08.49.01:460][408]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.31-08.49.01:475][408]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.49.01:475][408]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.31-08.49.01:486][408]LogPlayLevel: [PlayLevel] Compiling W_MainMenu before play...
+[2020.03.31-08.49.01:677][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.03.31-08.49.01:677][408]LogPlayLevel: PlayLevel: Blueprint regeneration took 202 ms (1 blueprints)
+[2020.03.31-08.49.01:677][408]PIE: New page: Sesión PIE (reproducción en el editor): MainMenu (31/3/2020 12:49:01)
+[2020.03.31-08.49.01:677][408]LogPlayLevel: Creating play world package: /Game/Devs/Almorax/UEDPIE_0_MainMenu
+[2020.03.31-08.49.01:678][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000700s)
+[2020.03.31-08.49.01:678][408]LogAIModule: Creating AISystem for world MainMenu
+[2020.03.31-08.49.01:678][408]LogPlayLevel: PIE: World Init took: (0.000361s)
+[2020.03.31-08.49.01:678][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Devs/Almorax/MainMenu.MainMenu to /Game/Devs/Almorax/UEDPIE_0_MainMenu.MainMenu (0.001133s)
+[2020.03.31-08.49.01:707][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.31-08.49.01:718][408]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.31-08.49.01:723][408]LogInit: FAudioDevice initialized.
+[2020.03.31-08.49.01:729][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-08.49.01:760][408]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.31-08.49.01:761][408]LogWorld: Bringing World /Game/Devs/Almorax/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.03.31-10.49.01
+[2020.03.31-08.49.01:761][408]LogWorld: Bringing up level for play took: 0.000229
+[2020.03.31-08.49.01:773][408]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.31-08.49.01:776][408]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Devs/Almorax/UEDPIE_0_MainMenu 0,306
+[2020.03.31-08.49.01:776][408]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.49.06:484][967]LogSlate: Window 'MoiraProject Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.31-08.49.06:487][967]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.49.06:516][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-08.49.06:516][967]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.49.06:553][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.03.31-08.49.06:578][970]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.03.31-08.49.22:968][933]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.03.31-08.49.33:085][146]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.03.31-08.49.34:803][352]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.31-08.49.34:812][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.49.34:812][352]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.31-08.49.34:814][352]LogPlayLevel: [PlayLevel] Compiling W_MainMenu before play...
+[2020.03.31-08.49.35:004][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.03.31-08.49.35:004][352]LogPlayLevel: PlayLevel: Blueprint regeneration took 191 ms (1 blueprints)
+[2020.03.31-08.49.35:004][352]PIE: New page: Sesión PIE (reproducción en el editor): MainMenu (31/3/2020 12:49:35)
+[2020.03.31-08.49.35:004][352]LogPlayLevel: Creating play world package: /Game/Devs/Almorax/UEDPIE_0_MainMenu
+[2020.03.31-08.49.35:005][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000710s)
+[2020.03.31-08.49.35:005][352]LogAIModule: Creating AISystem for world MainMenu
+[2020.03.31-08.49.35:005][352]LogPlayLevel: PIE: World Init took: (0.000417s)
+[2020.03.31-08.49.35:005][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Devs/Almorax/MainMenu.MainMenu to /Game/Devs/Almorax/UEDPIE_0_MainMenu.MainMenu (0.001200s)
+[2020.03.31-08.49.35:031][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.03.31-08.49.35:041][352]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.31-08.49.35:047][352]LogInit: FAudioDevice initialized.
+[2020.03.31-08.49.35:053][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-08.49.35:081][352]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.31-08.49.35:082][352]LogWorld: Bringing World /Game/Devs/Almorax/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.03.31-10.49.35
+[2020.03.31-08.49.35:082][352]LogWorld: Bringing up level for play took: 0.000235
+[2020.03.31-08.49.35:094][352]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.31-08.49.35:097][352]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Devs/Almorax/UEDPIE_0_MainMenu -0,373
+[2020.03.31-08.49.35:097][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.49.50:152][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.31-08.49.50:267][166]LogSlate: Window 'MoiraProject Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.31-08.49.50:271][166]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.49.50:298][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-08.49.50:298][166]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.49.50:335][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.03.31-08.49.50:362][169]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.03.31-08.53.29:666][673]BlueprintLog: New page: Compilar W_MainMenu
+[2020.03.31-08.53.29:716][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.03.31-08.53.30:385][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/W_MainMenu" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/W_MainMenu.uasset" SILENT=true
+[2020.03.31-08.53.30:410][749]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_MainMenuD9293B4F4749A9BA978561A35CDCFD2C.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/W_MainMenu.uasset'
+[2020.03.31-08.53.32:177][960]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.31-08.53.32:189][960]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.53.32:190][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.31-08.53.32:190][960]PIE: New page: Sesión PIE (reproducción en el editor): MainMenu (31/3/2020 12:53:32)
+[2020.03.31-08.53.32:190][960]LogPlayLevel: Creating play world package: /Game/Devs/Almorax/UEDPIE_0_MainMenu
+[2020.03.31-08.53.32:191][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001088s)
+[2020.03.31-08.53.32:191][960]LogAIModule: Creating AISystem for world MainMenu
+[2020.03.31-08.53.32:191][960]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2020.03.31-08.53.32:191][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Devs/Almorax/MainMenu.MainMenu to /Game/Devs/Almorax/UEDPIE_0_MainMenu.MainMenu (0.001706s)
+[2020.03.31-08.53.32:222][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.03.31-08.53.32:232][960]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.31-08.53.32:238][960]LogInit: FAudioDevice initialized.
+[2020.03.31-08.53.32:244][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-08.53.32:273][960]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.31-08.53.32:274][960]LogWorld: Bringing World /Game/Devs/Almorax/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.03.31-10.53.32
+[2020.03.31-08.53.32:274][960]LogWorld: Bringing up level for play took: 0.000284
+[2020.03.31-08.53.32:289][960]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Devs/Almorax/UEDPIE_0_MainMenu 0,82
+[2020.03.31-08.53.32:289][960]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.53.36:183][427]LogNet: Browse: /Game/MainLevel/Chapter1
+[2020.03.31-08.53.36:183][427]LogLoad: LoadMap: /Game/MainLevel/Chapter1
+[2020.03.31-08.53.36:215][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.03.31-08.53.36:315][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.03.31-08.53.36:316][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.03.31-08.53.36:316][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.03.31-08.53.36:316][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.03.31-08.53.36:317][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/01_-_Default'
+[2020.03.31-08.53.36:317][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/01_-_Default' mientras carga NULL.
+[2020.03.31-08.53.36:317][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/01_-_Default'
+[2020.03.31-08.53.36:317][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/01_-_Default' mientras carga NULL.
+[2020.03.31-08.53.36:318][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/Wall_Paint'
+[2020.03.31-08.53.36:318][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/Wall_Paint' mientras carga NULL.
+[2020.03.31-08.53.36:318][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/Wall_Paint'
+[2020.03.31-08.53.36:318][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/Wall_Paint' mientras carga NULL.
+[2020.03.31-08.53.36:320][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.03.31-08.53.36:320][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.03.31-08.53.36:320][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.03.31-08.53.36:320][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.03.31-08.53.36:438][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.03.31-08.53.36:438][427]LoadErrors: Error al cargar /Game/NewFolder/02_-_Default.02_-_Default Referenciado por montacargas_Box002
+[2020.03.31-08.53.36:438][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.03.31-08.53.36:438][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.03.31-08.53.36:439][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.03.31-08.53.36:439][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/Wall_Paint'
+[2020.03.31-08.53.36:439][427]LoadErrors: Error al cargar /Game/NewFolder/Wall_Paint.Wall_Paint Referenciado por Door_Object003
+[2020.03.31-08.53.36:439][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/Wall_Paint' mientras carga NULL.
+[2020.03.31-08.53.36:439][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/Wall_Paint'
+[2020.03.31-08.53.36:440][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/Wall_Paint' mientras carga NULL.
+[2020.03.31-08.53.36:440][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/01_-_Default'
+[2020.03.31-08.53.36:440][427]LoadErrors: Error al cargar /Game/NewFolder/01_-_Default.01_-_Default Referenciado por Door_Object002
+[2020.03.31-08.53.36:440][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/01_-_Default' mientras carga NULL.
+[2020.03.31-08.53.36:440][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/01_-_Default'
+[2020.03.31-08.53.36:440][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/01_-_Default' mientras carga NULL.
+[2020.03.31-08.53.36:441][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.03.31-08.53.36:441][427]LoadErrors: Error al cargar /Game/NewFolder/02_-_Default.02_-_Default Referenciado por Door_Object001
+[2020.03.31-08.53.36:441][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.03.31-08.53.36:441][427]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.03.31-08.53.36:441][427]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.03.31-08.53.36:505][427]LogMaterial: Display: Missing cached shader map for material 03_-_Default, compiling. 
+[2020.03.31-08.53.36:611][427]LogMaterial: Display: Missing cached shader map for material sci1_4, compiling. 
+[2020.03.31-08.53.36:650][427]LogMaterial: Display: Missing cached shader map for material Techo, compiling. 
+[2020.03.31-08.53.36:996][427]LogMaterial: Display: Missing cached shader map for material 02_-_Default, compiling. 
+[2020.03.31-08.53.37:078][427]LogMaterial: Display: Missing cached shader map for material 09_-_Default, compiling. 
+[2020.03.31-08.53.37:106][427]LogMaterial: Display: Missing cached shader map for material 09_-_Default, compiling. 
+[2020.03.31-08.53.37:120][427]LogPhysics: Warning: Failed to cook TriMesh: /Game/MainLevel/Props/props_carceles/texture_tube/tuberia_Cylinder007.tuberia_Cylinder007.
+[2020.03.31-08.53.37:120][427]LogPhysics: Warning: Attempt to build physics data for /Game/MainLevel/Props/props_carceles/texture_tube/tuberia_Cylinder007.tuberia_Cylinder007:BodySetup_0 when we are unable to.
+[2020.03.31-08.53.37:242][427]LogAIModule: Creating AISystem for world Chapter1
+[2020.03.31-08.53.37:242][427]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.31-08.53.37:246][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:246][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:246][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:246][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:246][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:246][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:246][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:246][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:246][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:246][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:247][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:247][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:247][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:247][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:247][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:247][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:247][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:247][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:248][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:249][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:249][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:249][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:249][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:249][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:249][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:249][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:249][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:249][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:250][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:250][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:250][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:250][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:250][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:250][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:250][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:250][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:250][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:250][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:250][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:250][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:250][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:251][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:252][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:252][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:252][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:252][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:252][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:252][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:252][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:252][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:254][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.03.31-08.53.37:254][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.31-08.53.37:265][427]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_Chapter1.Chapter1 up for play (max tick rate 0) at 2020.03.31-10.53.37
+[2020.03.31-08.53.37:266][427]LogWorld: Bringing up level for play took: 0.023370
+[2020.03.31-08.53.37:267][427]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.31-08.53.37:297][427]LogLoad: Took 1.113285 seconds to LoadMap(/Game/MainLevel/Chapter1)
+[2020.03.31-08.53.55:718][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.53.55:718][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-08.53.55:726][546]LogSlate: Window 'MoiraProject Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.31-08.53.55:760][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-08.53.55:760][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Devs/Almorax/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Devs/Almorax/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.03.31-08.53.55:800][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.03.31-08.53.55:824][549]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.03.31-09.18.05:832][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory_C:WidgetTree.CanvasPanel_0
+[2020.03.31-09.18.05:832][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.CanvasPanel_0
+[2020.03.31-09.18.05:832][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_W_MainMenu_C_72:WidgetTree.CanvasPanel_0
+[2020.03.31-09.18.05:832][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Devs/Almorax/W_MainMenu.W_MainMenu_C:WidgetTree.CanvasPanel_0
+[2020.03.31-09.18.05:832][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:REINST_W_MainMenu_C_0.WidgetTree_0.CanvasPanel_0
+[2020.03.31-09.18.05:832][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:REINST_W_MainMenu_C_1.WidgetTree_0.CanvasPanel_0
+[2020.03.31-09.18.05:832][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_W_MainMenu_C_74:WidgetTree.CanvasPanel_0
+[2020.03.31-09.18.05:832][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_W_MainMenu_C_78:WidgetTree.CanvasPanel_0
+[2020.03.31-09.18.05:832][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_91.WidgetTree_0.CanvasPanel_0
+[2020.03.31-09.18.05:832][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_98.WidgetTree_0.CanvasPanel_0
+[2020.03.31-09.18.05:832][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Devs/Almorax/W_Inventory.W_Inventory:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:W_MainMenu_C_99.WidgetTree_0.CanvasPanel_0
+[2020.03.31-09.18.05:833][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.REINST_W_MainMenu_C_72:WidgetTree.CanvasPanel_0.CanvasPanelSlot_35 or CanvasPanelSlot /Game/Devs/Almorax/W_MainMenu.W_MainMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_35
+[2020.03.31-09.18.05:833][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.REINST_W_MainMenu_C_72:WidgetTree.CanvasPanel_0.CanvasPanelSlot_35 or CanvasPanelSlot /Game/Devs/Almorax/W_MainMenu.W_MainMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_35
+[2020.03.31-09.18.05:833][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.REINST_W_MainMenu_C_72:WidgetTree.CanvasPanel_0.CanvasPanelSlot_35 or CanvasPanelSlot /Engine/Transient.World_3:REINST_W_MainMenu_C_0.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_35
+[2020.03.31-09.18.05:833][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.REINST_W_MainMenu_C_72:WidgetTree.CanvasPanel_0.CanvasPanelSlot_35 or CanvasPanelSlot /Engine/Transient.World_3:REINST_W_MainMenu_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_35
+[2020.03.31-09.18.05:833][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.REINST_W_MainMenu_C_72:WidgetTree.CanvasPanel_0.CanvasPanelSlot_35 or CanvasPanelSlot /Engine/Transient.REINST_W_MainMenu_C_74:WidgetTree.CanvasPanel_0.CanvasPanelSlot_35
+[2020.03.31-09.18.05:833][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.REINST_W_MainMenu_C_72:WidgetTree.CanvasPanel_0.CanvasPanelSlot_35 or CanvasPanelSlot /Engine/Transient.REINST_W_MainMenu_C_78:WidgetTree.CanvasPanel_0.CanvasPanelSlot_35
+[2020.03.31-09.18.05:833][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.REINST_W_MainMenu_C_72:WidgetTree.CanvasPanel_0.CanvasPanelSlot_35 or CanvasPanelSlot /Engine/Transient.World_3:W_MainMenu_C_91.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_35
+[2020.03.31-09.18.05:833][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.REINST_W_MainMenu_C_72:WidgetTree.CanvasPanel_0.CanvasPanelSlot_35 or CanvasPanelSlot /Engine/Transient.World_3:W_MainMenu_C_98.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_35
+[2020.03.31-09.18.05:833][685]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Engine/Transient.REINST_W_MainMenu_C_72:WidgetTree.CanvasPanel_0.CanvasPanelSlot_35 or CanvasPanelSlot /Engine/Transient.World_3:W_MainMenu_C_99.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_35
+[2020.03.31-09.18.05:833][685]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Engine/Transient.REINST_W_MainMenu_C_72:WidgetTree.CanvasPanel_0.CanvasPanelSlot_35) from referencer (VerticalBox /Engine/UMG/Editor/Transient.MainMenu).  Import failed...
+[2020.03.31-09.18.05:833][685]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_35"''
+[2020.03.31-09.18.39:101][581]LogEditorTransaction: Undo Mover Widget
+[2020.03.31-09.18.39:103][581]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.31-09.18.39:498][581]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.394 s
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: 
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2124]
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: 
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: Stack: 
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7e961639 UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7d9383b1 UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7b6c4e85 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7b6e6366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7b6d2f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7b72ac53 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7b76ae98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7b70929f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc78869188 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7ccc71ea UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7ccf743e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7bea769e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7be96e41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7cc91e66 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7ccf8dcd UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffc7ccef1ce UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffcc4c5b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffcc4c4ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffcc4c5d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffcc4c4c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffce4e95c0d USER32.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffce4e95602 USER32.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffcc4c5e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ff65ba35d3e UE4Editor.exe!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ff65ba4554c UE4Editor.exe!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ff65ba455ca UE4Editor.exe!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ff65ba5316c UE4Editor.exe!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ff65ba55b8e UE4Editor.exe!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffce3ff7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: [Callstack] 0x00007ffce55aced1 ntdll.dll!UnknownFunction []
+[2020.03.31-09.18.39:498][581]LogOutputDevice: Error: 
+[2020.03.31-09.18.39:504][581]LogStats:                SubmitErrorReport -  0.000 s
