@@ -1,0 +1,858 @@
+﻿Log file open, 04/01/20 19:10:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MoiraProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.386946
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=almorax -epicuserid=51cf67fba372485d909ea88f52cb1e50 -epiclocale=es
+LogInit: Base Directory: G:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.04.01-17.10.24:921][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.01-17.10.24:921][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.04.01-17.10.24:921][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.01-17.10.24:922][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.01-17.10.24:922][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.01-17.10.24:922][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.01-17.10.24:922][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.01-17.10.24:922][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.01-17.10.24:922][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.01-17.10.24:922][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.01-17.10.24:922][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.01-17.10.24:922][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.01-17.10.24:922][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.01-17.10.24:922][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.01-17.10.24:922][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.01-17.10.24:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.04.01-17.10.24:922][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.04.01-17.10.24:924][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.01-17.10.24:924][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.01-17.10.24:924][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.01-17.10.24:924][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.01-17.10.24:930][  0]LogHAL: Display: Platform has ~ 16 GB [17111027712 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.04.01-17.10.24:930][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.01-17.10.24:930][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.01-17.10.24:930][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.01-17.10.24:931][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.04.01-17.10.24:931][  0]LogInit: Computer: DESKTOP-10LTK5T
+[2020.04.01-17.10.24:931][  0]LogInit: User: Usuario
+[2020.04.01-17.10.24:931][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.01-17.10.24:931][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.01-17.10.24:931][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.01-17.10.24:931][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.01-17.10.24:931][  0]LogMemory: Process Physical Memory: 98.79 MB used, 98.79 MB peak
+[2020.04.01-17.10.24:931][  0]LogMemory: Process Virtual Memory: 98.66 MB used, 98.66 MB peak
+[2020.04.01-17.10.24:931][  0]LogMemory: Physical Memory: 7686.84 MB used,  8631.51 MB free, 16318.35 MB total
+[2020.04.01-17.10.24:931][  0]LogMemory: Virtual Memory: 4669.11 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.04.01-17.10.24:944][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.04.01-17.10.24:944][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.04.01-17.10.24:944][  0]LogInit: Using OS detected locale (es-ES).
+[2020.04.01-17.10.25:069][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.01-17.10.25:088][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.01-17.10.25:088][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.01-17.10.25:207][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.01-17.10.25:207][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.01-17.10.25:265][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.04.01-17.10.25:265][  0]LogD3D11RHI:       5980/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.01-17.10.25:266][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.01-17.10.25:267][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.01-17.10.25:267][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.01-17.10.25:273][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.01-17.10.25:273][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.01-17.10.25:273][  0]LogWindows: EnumDisplayDevices:
+[2020.04.01-17.10.25:273][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.04.01-17.10.25:273][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.04.01-17.10.25:273][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.04.01-17.10.25:274][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.04.01-17.10.25:274][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.01-17.10.25:274][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.04.01-17.10.25:274][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.04.01-17.10.25:274][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.04.01-17.10.25:274][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.04.01-17.10.25:308][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.01-17.10.25:310][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.01-17.10.25:310][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.01-17.10.25:310][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.01-17.10.25:317][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.01-17.10.25:596][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.01-17.10.25:609][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.01-17.10.25:620][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.01-17.10.25:635][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.01-17.10.25:644][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.01-17.10.25:654][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.01-17.10.25:664][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.01-17.10.25:674][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.01-17.10.25:678][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.01-17.10.25:737][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.01-17.10.25:738][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.01-17.10.25:781][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.01-17.10.25:782][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.01-17.10.25:801][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.01-17.10.25:801][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.01-17.10.25:810][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.01-17.10.25:819][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.01-17.10.25:829][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.01-17.10.25:838][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.01-17.10.25:870][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.01-17.10.25:870][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.01-17.10.25:870][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.01-17.10.25:875][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.01-17.10.25:904][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../ENTI/Unreal/MoiraProject/MoiraProject/Intermediate/Shaders/WorkingDirectory/3884/).
+[2020.04.01-17.10.25:904][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Usuario/AppData/Local/Temp/UnrealShaderWorkingDir/CB70EE0140F5BBA68E62E093C85DDF4F/'.
+[2020.04.01-17.10.25:905][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.01-17.10.25:905][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.01-17.10.25:905][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.01-17.10.26:367][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.01-17.10.26:403][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Usuario/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.01-17.10.26:403][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Usuario/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.04.01-17.10.26:403][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../ENTI/Unreal/MoiraProject/MoiraProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.01-17.10.26:403][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.01-17.10.26:403][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../ENTI/Unreal/MoiraProject/MoiraProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.01-17.10.26:403][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.01-17.10.26:412][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.01-17.10.26:412][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.01-17.10.26:412][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.01-17.10.26:424][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.01-17.10.26:424][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.01-17.10.26:424][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.01-17.10.26:440][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.01-17.10.26:441][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.01-17.10.26:441][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.01-17.10.26:507][  0]LogAssetRegistry: FAssetRegistry took 0.0311 seconds to start up
+[2020.04.01-17.10.26:753][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.01-17.10.26:796][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.01-17.10.26:796][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.01-17.10.26:796][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.01-17.10.26:796][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.01-17.10.26:796][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.01-17.10.26:870][  0]LogNetVersion: MoiraProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3284360939)
+[2020.04.01-17.10.27:186][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.018562 seconds
+[2020.04.01-17.10.27:192][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.04.01-17.10.27:192][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.04.01-17.10.27:192][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.01-17.10.27:768][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.01-17.10.27:780][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.01-17.10.27:868][  0]SourceControl: Source control is disabled
+[2020.04.01-17.10.27:868][  0]SourceControl: Source control is disabled
+[2020.04.01-17.10.27:869][  0]SourceControl: Source control is disabled
+[2020.04.01-17.10.27:869][  0]SourceControl: Source control is disabled
+[2020.04.01-17.10.27:914][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.01-17.10.27:973][  0]LogOcInput: OculusInput pre-init called
+[2020.04.01-17.10.28:477][  0]LogEngine: Initializing Engine...
+[2020.04.01-17.10.28:477][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.01-17.10.28:478][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.01-17.10.28:628][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.01-17.10.28:635][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.01-17.10.28:699][  0]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.01-17.10.28:708][  0]LogInit: FAudioDevice initialized.
+[2020.04.01-17.10.28:708][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.01-17.10.28:797][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Usuario/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.01-17.10.28:802][  0]LogInit: Texture streaming: Enabled
+[2020.04.01-17.10.28:811][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.01-17.10.28:826][  0]LogInit: Transaction tracking system initialized
+[2020.04.01-17.10.28:838][  0]BlueprintLog: New page: Editor Load
+[2020.04.01-17.10.28:882][  0]LocalizationService: Localization service is disabled
+[2020.04.01-17.10.29:083][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.01-17.10.29:083][  0]LogFileCache: Scanning file cache for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Content/' took 0.02s
+[2020.04.01-17.10.29:083][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.01-17.10.29:190][  0]SourceControl: Source control is disabled
+[2020.04.01-17.10.29:190][  0]Cmd: MAP LOAD FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.01-17.10.29:190][  0]LightingResults: New page: Lighting Build
+[2020.04.01-17.10.29:192][  0]MapCheck: New page: Map Check
+[2020.04.01-17.10.29:192][  0]LightingResults: New page: Lighting Build
+[2020.04.01-17.10.29:215][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.04.01-17.10.29:364][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.04.01-17.10.29:364][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2020.04.01-17.10.29:369][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.04.01-17.10.29:369][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2020.04.01-17.10.29:369][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.04.01-17.10.29:369][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2020.04.01-17.10.29:369][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.04.01-17.10.29:369][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2020.04.01-17.10.29:378][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.04.01-17.10.29:378][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2020.04.01-17.10.29:378][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2020.04.01-17.10.29:432][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.01-17.10.29:492][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.01-17.10.29:517][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.04.01-17.10.29:517][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.01-17.10.29:517][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,066ms to complete.
+[2020.04.01-17.10.29:517][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.328
+[2020.04.01-17.10.29:605][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-17.10.29:610][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-17.10.29:616][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-17.10.29:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-17.10.29:625][  0]LogCollectionManager: Loaded 0 collections in 0.000651 seconds
+[2020.04.01-17.10.29:639][  0]LogFileCache: Scanning file cache for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Collections/' took 0.01s
+[2020.04.01-17.10.29:639][  0]LogFileCache: Scanning file cache for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Content/Developers/Usuario/Collections/' took 0.00s
+[2020.04.01-17.10.29:639][  0]LogFileCache: Scanning file cache for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Content/Collections/' took 0.00s
+[2020.04.01-17.10.29:639][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.01-17.10.29:645][  0]LogContentBrowser: Native class hierarchy populated in 0.0063 seconds. Added 2732 classes and 659 folders.
+[2020.04.01-17.10.29:651][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.01-17.10.29:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:655][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:666][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:666][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-17.10.29:706][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.01-17.10.29:710][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.04.01-17.10.29:764][  0]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.01-17.10.29:766][  0]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.01-17.10.29:771][  0]LogSlate: Took 0.000511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.01-17.10.29:821][  0]LogRenderer: Reallocating scene render targets to support 1128x536 Format 10 NumSamples 1 (Frame:1).
+[2020.04.01-17.10.29:968][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.01-17.10.29:968][  0]LogLoad: (Engine Initialization) Total time: 6.41 seconds
+[2020.04.01-17.10.29:968][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.01-17.10.30:015][  0]LogAssetRegistry: Asset discovery search completed in 3.5308 seconds
+[2020.04.01-17.10.30:017][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.01-17.10.30:017][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2020.04.01-17.10.30:018][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.01-17.10.30:026][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.01-17.10.30:103][  0]LogRenderer: Reallocating scene render targets to support 1128x552 Format 10 NumSamples 1 (Frame:5).
+[2020.04.01-17.10.30:103][  0]LogSlate: Took 0.000586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.01-17.10.30:134][  1]LogFileCache: Retrieving MD5 hashes for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Content/' took 0.14s
+[2020.04.01-17.10.30:991][ 96]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.01-17.10.32:035][221]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-17.10.32:038][221]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-17.10.55:472][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-17.10.55:681][ 56]LogLinker: Warning: Can't find file '/Game/Templates/StarterContent/Materials/M_Basic_Wall'
+[2020.04.01-17.10.55:682][ 56]LogLinker: Warning: Can't find file for asset '/Game/Templates/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2020.04.01-17.10.55:682][ 56]LogLinker: Warning: Can't find file '/Game/Templates/StarterContent/Materials/M_Basic_Wall'
+[2020.04.01-17.10.55:682][ 56]LogLinker: Warning: Can't find file for asset '/Game/Templates/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2020.04.01-17.10.55:861][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/02_-_Default'
+[2020.04.01-17.10.55:861][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/02_-_Default' while loading NULL.
+[2020.04.01-17.10.55:861][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/02_-_Default'
+[2020.04.01-17.10.55:861][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/02_-_Default' while loading NULL.
+[2020.04.01-17.10.55:862][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/01_-_Default'
+[2020.04.01-17.10.55:862][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/01_-_Default' while loading NULL.
+[2020.04.01-17.10.55:863][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/01_-_Default'
+[2020.04.01-17.10.55:863][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/01_-_Default' while loading NULL.
+[2020.04.01-17.10.55:863][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/Wall_Paint'
+[2020.04.01-17.10.55:864][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/Wall_Paint' while loading NULL.
+[2020.04.01-17.10.55:864][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/Wall_Paint'
+[2020.04.01-17.10.55:864][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/Wall_Paint' while loading NULL.
+[2020.04.01-17.10.55:866][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/02_-_Default'
+[2020.04.01-17.10.55:866][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/02_-_Default' while loading NULL.
+[2020.04.01-17.10.55:866][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/02_-_Default'
+[2020.04.01-17.10.55:866][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/02_-_Default' while loading NULL.
+[2020.04.01-17.10.55:982][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/02_-_Default'
+[2020.04.01-17.10.55:982][ 56]LoadErrors: Failed to load /Game/NewFolder/02_-_Default.02_-_Default Referenced by montacargas_Box002
+[2020.04.01-17.10.55:982][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/02_-_Default' while loading NULL.
+[2020.04.01-17.10.55:982][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/02_-_Default'
+[2020.04.01-17.10.55:983][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/02_-_Default' while loading NULL.
+[2020.04.01-17.10.55:992][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/Wall_Paint'
+[2020.04.01-17.10.55:992][ 56]LoadErrors: Failed to load /Game/NewFolder/Wall_Paint.Wall_Paint Referenced by Door_Object003
+[2020.04.01-17.10.55:992][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/Wall_Paint' while loading NULL.
+[2020.04.01-17.10.55:992][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/Wall_Paint'
+[2020.04.01-17.10.55:992][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/Wall_Paint' while loading NULL.
+[2020.04.01-17.10.55:992][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/01_-_Default'
+[2020.04.01-17.10.55:992][ 56]LoadErrors: Failed to load /Game/NewFolder/01_-_Default.01_-_Default Referenced by Door_Object002
+[2020.04.01-17.10.55:993][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/01_-_Default' while loading NULL.
+[2020.04.01-17.10.55:993][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/01_-_Default'
+[2020.04.01-17.10.55:993][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/01_-_Default' while loading NULL.
+[2020.04.01-17.10.55:993][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/02_-_Default'
+[2020.04.01-17.10.55:993][ 56]LoadErrors: Failed to load /Game/NewFolder/02_-_Default.02_-_Default Referenced by Door_Object001
+[2020.04.01-17.10.55:993][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/02_-_Default' while loading NULL.
+[2020.04.01-17.10.55:993][ 56]LogLinker: Warning: Can't find file '/Game/NewFolder/02_-_Default'
+[2020.04.01-17.10.55:993][ 56]LogLinker: Warning: Can't find file for asset '/Game/NewFolder/02_-_Default' while loading NULL.
+[2020.04.01-17.10.56:006][ 56]LogLinker: Warning: Can't find file '/Game/Templates/StarterContent/Materials/M_Basic_Wall'
+[2020.04.01-17.10.56:007][ 56]LoadErrors: Failed to load /Game/Templates/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2020.04.01-17.10.56:007][ 56]LogLinker: Warning: Can't find file for asset '/Game/Templates/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2020.04.01-17.10.56:007][ 56]LogLinker: Warning: Can't find file '/Game/Templates/StarterContent/Materials/M_Basic_Wall'
+[2020.04.01-17.10.56:007][ 56]LogLinker: Warning: Can't find file for asset '/Game/Templates/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2020.04.01-17.10.56:214][ 56]LogPhysics: Warning: Failed to cook TriMesh: /Game/MainLevel/Props/props_carceles/texture_tube/tuberia_Cylinder007.tuberia_Cylinder007.
+[2020.04.01-17.10.56:214][ 56]LogPhysics: Warning: Attempt to build physics data for /Game/MainLevel/Props/props_carceles/texture_tube/tuberia_Cylinder007.tuberia_Cylinder007:BodySetup_0 when we are unable to.
+[2020.04.01-17.10.56:345][ 56]LogAIModule: Creating AISystem for world Chapter1
+[2020.04.01-17.10.56:362][ 56]LogAssetEditorManager: Opening Asset editor for World /Game/Devs/Almorax/Chapter1.Chapter1
+[2020.04.01-17.10.56:393][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.04.01-17.10.56:393][ 56]Cmd: MAP LOAD FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/Chapter1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.01-17.10.56:393][ 56]LightingResults: New page: Lighting Build
+[2020.04.01-17.10.56:394][ 56]LoadErrors: New page: Loading map: Chapter1.umap
+[2020.04.01-17.10.56:394][ 56]MapCheck: New page: Map Check
+[2020.04.01-17.10.56:394][ 56]LightingResults: New page: Lighting Build
+[2020.04.01-17.10.56:417][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.04.01-17.10.56:420][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:420][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:420][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:420][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:420][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:420][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:420][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:420][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:420][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:420][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:421][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:422][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:422][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:422][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:422][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:422][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:422][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:422][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:422][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:422][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:422][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:422][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:422][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:422][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:422][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:423][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:423][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:423][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:423][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:423][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:423][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:423][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:423][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:423][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-17.10.56:423][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-17.10.56:503][ 56]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.01-17.10.56:527][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.04.01-17.10.56:543][ 56]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.01-17.10.56:543][ 56]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,109ms to complete.
+[2020.04.01-17.10.56:543][ 56]LogFileHelpers: Loading map 'Chapter1' took 0.151
+[2020.04.01-17.11.17:676][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-17.11.17:887][592]LogActorFactory: Actor Factory created Cube
+[2020.04.01-17.11.18:585][675]LogActorFactory: Actor Factory created Cube
+[2020.04.01-17.11.19:151][738]LogSlate: Took 0.000609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.01-17.11.20:432][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-17.11.56:044][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-17.12.08:783][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-17.12.23:247][748]LogEditorViewport: Clicking Background
+[2020.04.01-17.12.23:814][815]LogEditorViewport: Clicking Background
+[2020.04.01-17.12.24:811][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2020.04.01-17.12.32:396][837]Cmd: DELETE
+[2020.04.01-17.12.32:396][837]Cmd: ACTOR DELETE
+[2020.04.01-17.12.32:410][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.01-17.12.32:434][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.04.01-17.12.32:434][837]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.04.01-17.12.33:653][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-17.12.36:054][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/Chapter1" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/Chapter1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.01-17.12.36:076][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.04.01-17.12.36:646][270]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Chapter1129FF82A4318CFD6403B6396708FBBDA.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/Chapter1.umap'
+[2020.04.01-17.12.40:526][414]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.01-17.12.45:694][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/Elevator" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/Elevator.uasset" SILENT=true
+[2020.04.01-17.12.45:699][ 18]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Elevator819BB46847CDF12E254591B20ECB34AD.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/Elevator.uasset'
+[2020.04.01-17.12.46:445][106]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Devs/Almorax/Elevator.Elevator
+[2020.04.01-17.12.46:632][106]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.04.01-17.12.47:310][106]LogRenderer: Reallocating scene render targets to support 1144x692 Format 10 NumSamples 1 (Frame:1).
+[2020.04.01-17.13.04:963][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-17.13.05:055][ 51]BlueprintLog: New page: Compile Elevator
+[2020.04.01-17.13.05:194][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.04.01-17.13.05:445][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/Elevator" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/Elevator.uasset" SILENT=true
+[2020.04.01-17.13.05:456][ 75]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/ElevatorBDF06DF342D44C012654668DB4CA446F.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/Elevator.uasset'
+[2020.04.01-17.16.18:682][363]LogSlate: Window 'Elevator' being destroyed
+[2020.04.01-17.16.19:746][483]LogSlate: Window 'Elevator' being destroyed
+[2020.04.01-17.22.36:407][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.04.01-17.22.36:407][801]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Devs/Almorax/Chapter1' took 0.030
+[2020.04.01-17.22.36:408][801]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Devs/Almorax/Elevator] ([1] browsable assets)...
+[2020.04.01-17.22.36:422][801]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Devs/Almorax/Elevator.Elevator]
+[2020.04.01-17.22.36:422][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Almorax/Elevator]
+[2020.04.01-17.22.36:422][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/Elevator" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Almorax/Elevator_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.01-17.22.36:434][801]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Elevator_Auto1E17C26854F817C0A36E4B4A460E77F0F.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Almorax/Elevator_Auto1.uasset'
+[2020.04.01-17.22.36:435][801]LogFileHelpers: Auto-saving content packages took 0.027
+[2020.04.01-17.36.31:127][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.04.01-17.36.32:003][133]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Devs/Almorax/HUD/cap1_7.cap1_7
+[2020.04.01-17.36.32:201][133]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.04.01-17.36.32:452][133]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.01-17.36.43:584][440]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.04.01-17.36.43:588][440]LogMetaData: Removing '/Game/Devs/Almorax/HUD/W_ElevatorDialogue.SKEL_W_ElevatorDialogue_C' ref from Metadata '/Game/Devs/Almorax/HUD/cap1_7.PackageMetaData'
+[2020.04.01-17.36.43:588][440]LogMetaData: Removing '/Game/Devs/Almorax/HUD/W_ElevatorDialogue.W_ElevatorDialogue_C' ref from Metadata '/Game/Devs/Almorax/HUD/cap1_7.PackageMetaData'
+[2020.04.01-17.36.43:600][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/HUD/W_ElevatorDialogue" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset" SILENT=true
+[2020.04.01-17.36.43:604][440]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_ElevatorDialogue8236DD354238885A1B551AAEDF4700D0.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset'
+[2020.04.01-17.36.43:731][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.04.01-17.36.43:762][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.04.01-17.36.43:791][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.04.01-17.36.44:437][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/HUD/W_ElevatorDialogue" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset" SILENT=true
+[2020.04.01-17.36.44:441][512]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_ElevatorDialogueDFD98E19409F00C8AEE0ADBA665CA513.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset'
+[2020.04.01-17.37.08:860][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.04.01-17.37.08:860][436]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Devs/Almorax/Chapter1' took 0.030
+[2020.04.01-17.37.08:861][436]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Devs/Almorax/Elevator] ([1] browsable assets)...
+[2020.04.01-17.37.08:872][436]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Devs/Almorax/Elevator.Elevator]
+[2020.04.01-17.37.08:872][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/Devs/Almorax/Elevator]
+[2020.04.01-17.37.08:872][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/Elevator" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Almorax/Elevator_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.04.01-17.37.08:884][436]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Elevator_Auto29B9146CD4B0CD9752AF7ED894308A048.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Almorax/Elevator_Auto2.uasset'
+[2020.04.01-17.37.08:884][436]LogFileHelpers: Auto-saving content packages took 0.023
+[2020.04.01-17.37.33:698][404]LogSlate: Took 0.000799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.01-17.37.47:411][ 47]BlueprintLog: New page: Compile W_ElevatorDialogue
+[2020.04.01-17.37.47:444][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.04.01-17.37.47:749][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/HUD/W_ElevatorDialogue" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset" SILENT=true
+[2020.04.01-17.37.47:754][ 82]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_ElevatorDialogue0BD23F1F41AD2B6BFA58388DB274EA90.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset'
+[2020.04.01-17.37.58:482][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/HUD/W_ElevatorDialogue" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset" SILENT=true
+[2020.04.01-17.37.58:487][364]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_ElevatorDialogue5735765D41B433CA921725B9C316E25E.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset'
+[2020.04.01-17.37.58:815][403]BlueprintLog: New page: Compile W_ElevatorDialogue
+[2020.04.01-17.37.58:848][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.04.01-17.39.41:351][578]BlueprintLog: New page: Compile W_ElevatorDialogue
+[2020.04.01-17.39.41:352][578]LogBlueprint: Error: [Compiler W_ElevatorDialogue] The type of  Object  is undetermined.  Connect something to  Cast To Elevator  to imply a specific type.
+[2020.04.01-17.39.41:353][578]LogBlueprint: Error: [Compiler W_ElevatorDialogue] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.04.01-17.39.41:385][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.04.01-17.39.41:390][578]LogBlueprint: Warning: [Compiler W_ElevatorDialogue] [1757,83] Compile of W_ElevatorDialogue failed. 2 Fatal Issue(s) 0 Warning(s) [in 38 ms] (/Game/Devs/Almorax/HUD/W_ElevatorDialogue.W_ElevatorDialogue)
+[2020.04.01-17.39.42:334][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/HUD/W_ElevatorDialogue" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset" SILENT=true
+[2020.04.01-17.39.42:342][690]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_ElevatorDialogueBE21C496485939F21D3C659DD89C8DED.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset'
+[2020.04.01-17.39.51:790][810]BlueprintLog: New page: Compile W_ElevatorDialogue
+[2020.04.01-17.39.51:792][810]LogBlueprint: Error: [Compiler W_ElevatorDialogue] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2020.04.01-17.39.51:825][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.04.01-17.39.51:830][810]LogBlueprint: Warning: [Compiler W_ElevatorDialogue] [1768,27] Compile of W_ElevatorDialogue failed. 1 Fatal Issue(s) 0 Warning(s) [in 38 ms] (/Game/Devs/Almorax/HUD/W_ElevatorDialogue.W_ElevatorDialogue)
+[2020.04.01-17.39.52:833][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/HUD/W_ElevatorDialogue" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset" SILENT=true
+[2020.04.01-17.39.52:841][929]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_ElevatorDialogue891B52D7427E0A51D95A809931C44010.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset'
+[2020.04.01-17.40.13:488][377]LogEditorTransaction: Undo Move Nodes
+[2020.04.01-17.40.24:627][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/HUD/W_ElevatorDialogue" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset" SILENT=true
+[2020.04.01-17.40.24:635][709]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_ElevatorDialogue486AA88D4A3352F1300DBDB10D8D82B6.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset'
+[2020.04.01-17.40.25:860][855]BlueprintLog: New page: Compile W_ElevatorDialogue
+[2020.04.01-17.40.25:862][855]LogBlueprint: Error: [Compiler W_ElevatorDialogue] The type of  Object  is undetermined.  Connect something to  Cast To FirstPersonCharacter  to imply a specific type.
+[2020.04.01-17.40.25:862][855]LogBlueprint: Error: [Compiler W_ElevatorDialogue] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.04.01-17.40.25:893][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.04.01-17.40.25:899][855]LogBlueprint: Warning: [Compiler W_ElevatorDialogue] [1802,34] Compile of W_ElevatorDialogue failed. 2 Fatal Issue(s) 0 Warning(s) [in 39 ms] (/Game/Devs/Almorax/HUD/W_ElevatorDialogue.W_ElevatorDialogue)
+[2020.04.01-17.40.26:721][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/HUD/W_ElevatorDialogue" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset" SILENT=true
+[2020.04.01-17.40.26:728][952]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_ElevatorDialogue89517F9944E597924E3B7C9C8B147621.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset'
+[2020.04.01-17.40.34:397][859]BlueprintLog: New page: Compile W_ElevatorDialogue
+[2020.04.01-17.40.34:398][859]LogBlueprint: Warning: [Compiler W_ElevatorDialogue] 'First Person Character' does not inherit from 'Player Controller' ( Cast To FirstPersonCharacter  would always fail).
+[2020.04.01-17.40.34:432][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.04.01-17.40.34:437][859]LogBlueprint: Warning: [Compiler W_ElevatorDialogue] [1810,87] Compile of W_ElevatorDialogue successful, but with 1 Warning(s) [in 39 ms] (/Game/Devs/Almorax/HUD/W_ElevatorDialogue.W_ElevatorDialogue)
+[2020.04.01-17.40.35:116][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/HUD/W_ElevatorDialogue" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset" SILENT=true
+[2020.04.01-17.40.35:124][939]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_ElevatorDialogue4D3C4B5A4EBDFAF34BEBFAB727B23FC4.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset'
+[2020.04.01-17.41.07:746][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/HUD/W_ElevatorDialogue" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset" SILENT=true
+[2020.04.01-17.41.07:755][843]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_ElevatorDialogue28C91D644B10869A05F1F9B97AFF8D2E.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset'
+[2020.04.01-17.41.09:051][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/HUD/W_ElevatorDialogue" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset" SILENT=true
+[2020.04.01-17.41.09:059][997]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/W_ElevatorDialogueD1698E28424D15471F115C9FE5E97990.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/HUD/W_ElevatorDialogue.uasset'
+[2020.04.01-17.41.10:976][225]BlueprintLog: New page: Compile Elevator
+[2020.04.01-17.41.11:125][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.04.01-17.41.11:560][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/Elevator" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/Elevator.uasset" SILENT=true
+[2020.04.01-17.41.11:572][274]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Elevator1D28D4DE4CAFC023F210A0A14C7CBFFC.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/Elevator.uasset'
+[2020.04.01-17.41.28:907][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/Elevator" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/Elevator.uasset" SILENT=true
+[2020.04.01-17.41.28:919][347]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Elevator6358A5E74713FB9970E1BE948E32A6D8.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/Elevator.uasset'
+[2020.04.01-17.41.30:277][509]BlueprintLog: New page: Compile Elevator
+[2020.04.01-17.41.30:289][509]LogClass: Warning: Type mismatch in UI of Elevator_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2020.04.01-17.41.30:295][509]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.01-17.41.30:738][509]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.442 s
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: 
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp] [Line: 46]
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name 'False'! You must pass in fully qualified package names
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: Stack: 
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc96984a77 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc968c7a66 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc96809457 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc9681b07a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc96814841 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc9686683e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc965cdef4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc8d411e14 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc8c0c047d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc8c0f16a8 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc8c4c8613 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc8c47f561 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc8c4320f6 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc8d455644 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc8c51dde6 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc8c539188 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc960d180a UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc961a9122 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc9618aa84 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc96242a12 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc96094021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc96110301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc960faaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffc960f0414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffcc3f9b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffcc3f8ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffcc3f9d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffcc3f8c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffce4e95c0d USER32.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffce4e95602 USER32.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffcc3f9e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ff62ceb5d3e UE4Editor.exe!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ff62cec554c UE4Editor.exe!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ff62cec55ca UE4Editor.exe!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ff62ced316c UE4Editor.exe!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ff62ced5b8e UE4Editor.exe!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffce3ff7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: [Callstack] 0x00007ffce55aced1 ntdll.dll!UnknownFunction []
+[2020.04.01-17.41.30:738][509]LogOutputDevice: Error: 
+[2020.04.01-17.41.30:744][509]LogStats:                SubmitErrorReport -  0.000 s
