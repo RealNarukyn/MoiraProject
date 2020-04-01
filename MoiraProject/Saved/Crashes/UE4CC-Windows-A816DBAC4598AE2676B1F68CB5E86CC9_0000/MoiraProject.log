@@ -1,0 +1,1760 @@
+﻿Log file open, 04/01/20 10:03:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MoiraProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.382371
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=almorax -epicuserid=51cf67fba372485d909ea88f52cb1e50 -epiclocale=es
+LogInit: Base Directory: G:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.04.01-08.03.06:131][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.01-08.03.06:131][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.01-08.03.06:132][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.01-08.03.06:132][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.01-08.03.06:132][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.01-08.03.06:132][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.04.01-08.03.06:132][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.04.01-08.03.06:133][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.01-08.03.06:133][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.01-08.03.06:134][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.01-08.03.06:134][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.01-08.03.06:134][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.01-08.03.06:140][  0]LogHAL: Display: Platform has ~ 16 GB [17111027712 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.04.01-08.03.06:140][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.01-08.03.06:140][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.01-08.03.06:140][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.01-08.03.06:141][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.01-08.03.06:141][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.01-08.03.06:141][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.01-08.03.06:141][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.01-08.03.06:141][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.01-08.03.06:141][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-08.03.06:141][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.01-08.03.06:141][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.01-08.03.06:141][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.01-08.03.06:141][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.01-08.03.06:141][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.01-08.03.06:141][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Config/Windows/Engine.ini]
+[2020.04.01-08.03.06:141][  0]LogInit: Computer: DESKTOP-10LTK5T
+[2020.04.01-08.03.06:141][  0]LogInit: User: Usuario
+[2020.04.01-08.03.06:141][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.01-08.03.06:141][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.01-08.03.06:141][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.01-08.03.06:141][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.01-08.03.06:141][  0]LogMemory: Process Physical Memory: 98.40 MB used, 98.41 MB peak
+[2020.04.01-08.03.06:141][  0]LogMemory: Process Virtual Memory: 96.79 MB used, 96.79 MB peak
+[2020.04.01-08.03.06:141][  0]LogMemory: Physical Memory: 6704.71 MB used,  9613.64 MB free, 16318.35 MB total
+[2020.04.01-08.03.06:141][  0]LogMemory: Virtual Memory: 4667.55 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.04.01-08.03.06:154][  0]LogInit: Using OS detected language (es-ES).
+[2020.04.01-08.03.06:154][  0]LogInit: Using OS detected locale (es-ES).
+[2020.04.01-08.03.06:155][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2020.04.01-08.03.06:185][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.01-08.03.06:204][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.01-08.03.06:204][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.01-08.03.06:319][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.01-08.03.06:319][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.01-08.03.06:378][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.04.01-08.03.06:378][  0]LogD3D11RHI:       5980/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.01-08.03.06:380][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.01-08.03.06:380][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.01-08.03.06:380][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.01-08.03.06:386][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.01-08.03.06:386][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.01-08.03.06:386][  0]LogWindows: EnumDisplayDevices:
+[2020.04.01-08.03.06:386][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.04.01-08.03.06:386][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.04.01-08.03.06:386][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.04.01-08.03.06:387][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.04.01-08.03.06:387][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.01-08.03.06:387][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.04.01-08.03.06:387][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.04.01-08.03.06:387][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.04.01-08.03.06:387][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.04.01-08.03.06:421][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.01-08.03.06:424][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.01-08.03.06:425][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.01-08.03.06:425][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.01-08.03.06:432][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.01-08.03.06:700][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.01-08.03.06:709][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.01-08.03.06:719][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.01-08.03.06:728][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.01-08.03.06:737][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.01-08.03.06:746][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.01-08.03.06:756][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.01-08.03.06:766][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.01-08.03.06:770][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.01-08.03.06:829][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.01-08.03.06:830][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.01-08.03.06:871][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.01-08.03.06:871][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.01-08.03.06:888][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.01-08.03.06:888][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.01-08.03.06:897][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.01-08.03.06:906][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.01-08.03.06:915][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.01-08.03.06:925][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.01-08.03.06:957][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.01-08.03.06:957][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.01-08.03.06:957][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.01-08.03.06:962][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.01-08.03.06:987][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../ENTI/Unreal/MoiraProject/MoiraProject/Intermediate/Shaders/WorkingDirectory/13820/).
+[2020.04.01-08.03.06:987][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Usuario/AppData/Local/Temp/UnrealShaderWorkingDir/133D1FA0406850D06C29C1939B71C9C7/'.
+[2020.04.01-08.03.06:988][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.01-08.03.06:988][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.01-08.03.06:988][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.01-08.03.07:402][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.01-08.03.07:438][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Usuario/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.01-08.03.07:438][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Usuario/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.04.01-08.03.07:438][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../ENTI/Unreal/MoiraProject/MoiraProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.01-08.03.07:438][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.01-08.03.07:438][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../ENTI/Unreal/MoiraProject/MoiraProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.01-08.03.07:438][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.01-08.03.07:447][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.01-08.03.07:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.01-08.03.07:447][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.01-08.03.07:459][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.01-08.03.07:459][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.01-08.03.07:459][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.01-08.03.07:475][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.01-08.03.07:476][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.01-08.03.07:476][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.01-08.03.07:541][  0]LogAssetRegistry: FAssetRegistry took 0.0304 seconds to start up
+[2020.04.01-08.03.07:780][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.01-08.03.07:872][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.01-08.03.07:872][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.01-08.03.07:872][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.01-08.03.07:872][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.01-08.03.07:872][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.01-08.03.07:883][  0]LogNetVersion: MoiraProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3284360939)
+[2020.04.01-08.03.08:145][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.020283 seconds
+[2020.04.01-08.03.08:149][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.04.01-08.03.08:149][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.04.01-08.03.08:149][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.01-08.03.08:715][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.01-08.03.08:727][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.01-08.03.08:814][  0]SourceControl: El control de código fuente está desactivado
+[2020.04.01-08.03.08:814][  0]SourceControl: El control de código fuente está desactivado
+[2020.04.01-08.03.08:815][  0]SourceControl: El control de código fuente está desactivado
+[2020.04.01-08.03.08:815][  0]SourceControl: El control de código fuente está desactivado
+[2020.04.01-08.03.08:857][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.01-08.03.08:915][  0]LogOcInput: OculusInput pre-init called
+[2020.04.01-08.03.09:417][  0]LogEngine: Initializing Engine...
+[2020.04.01-08.03.09:418][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.01-08.03.09:418][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.01-08.03.09:566][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.01-08.03.09:573][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.01-08.03.09:586][  0]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.01-08.03.09:595][  0]LogInit: FAudioDevice initialized.
+[2020.04.01-08.03.09:595][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.01-08.03.09:676][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Usuario/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.01-08.03.09:679][  0]LogInit: Texture streaming: Enabled
+[2020.04.01-08.03.09:688][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.01-08.03.09:700][  0]LogInit: Transaction tracking system initialized
+[2020.04.01-08.03.09:711][  0]BlueprintLog: New page: Cargar el editor
+[2020.04.01-08.03.09:753][  0]LocalizationService: Localization service is disabled
+[2020.04.01-08.03.09:942][  0]LogFileCache: Scanning file cache for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Content/' took 0.01s
+[2020.04.01-08.03.09:942][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.01-08.03.09:942][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.01-08.03.10:044][  0]SourceControl: El control de código fuente está desactivado
+[2020.04.01-08.03.10:045][  0]Cmd: MAP LOAD FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.01-08.03.10:045][  0]LightingResults: New page: Diseñar la iluminación
+[2020.04.01-08.03.10:046][  0]MapCheck: New page: Revisión del mapa
+[2020.04.01-08.03.10:046][  0]LightingResults: New page: Diseñar la iluminación
+[2020.04.01-08.03.10:068][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.04.01-08.03.10:187][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.04.01-08.03.10:187][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.04.01-08.03.10:190][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.04.01-08.03.10:190][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.04.01-08.03.10:190][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.04.01-08.03.10:190][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.04.01-08.03.10:190][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.04.01-08.03.10:191][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.04.01-08.03.10:196][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2020.04.01-08.03.10:196][  0]LoadErrors: Error al cargar /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenciado por PersistentLevel
+[2020.04.01-08.03.10:196][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' mientras carga NULL.
+[2020.04.01-08.03.10:245][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.01-08.03.10:250][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.01-08.03.10:276][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.04.01-08.03.10:276][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.01-08.03.10:276][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,07ms to complete.
+[2020.04.01-08.03.10:276][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.231
+[2020.04.01-08.03.10:365][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-08.03.10:372][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-08.03.10:378][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-08.03.10:386][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-08.03.10:390][  0]LogCollectionManager: Loaded 0 collections in 0.000657 seconds
+[2020.04.01-08.03.10:404][  0]LogFileCache: Scanning file cache for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Saved/Collections/' took 0.01s
+[2020.04.01-08.03.10:404][  0]LogFileCache: Scanning file cache for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Content/Developers/Usuario/Collections/' took 0.00s
+[2020.04.01-08.03.10:404][  0]LogFileCache: Scanning file cache for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Content/Collections/' took 0.00s
+[2020.04.01-08.03.10:404][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.01-08.03.10:411][  0]LogContentBrowser: Native class hierarchy populated in 0.0063 seconds. Added 2732 classes and 659 folders.
+[2020.04.01-08.03.10:414][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.01-08.03.10:417][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:417][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:418][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:420][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:420][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:421][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:421][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:425][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:425][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.01-08.03.10:466][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.01-08.03.10:470][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.04.01-08.03.10:516][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.01-08.03.10:518][  0]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.01-08.03.10:522][  0]LogSlate: Took 0.000545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.01-08.03.10:572][  0]LogRenderer: Reallocating scene render targets to support 1128x536 Format 10 NumSamples 1 (Frame:1).
+[2020.04.01-08.03.10:653][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.01-08.03.10:653][  0]LogLoad: (Engine Initialization) Total time: 5.84 seconds
+[2020.04.01-08.03.10:653][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.01-08.03.10:695][  0]LogAssetRegistry: Asset discovery search completed in 3.1755 seconds
+[2020.04.01-08.03.10:696][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.01-08.03.10:696][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2020.04.01-08.03.10:698][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.01-08.03.10:704][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.01-08.03.10:774][  0]LogRenderer: Reallocating scene render targets to support 1128x552 Format 10 NumSamples 1 (Frame:3).
+[2020.04.01-08.03.10:774][  0]LogSlate: Took 0.000472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.01-08.03.10:780][  1]LogFileCache: Retrieving MD5 hashes for directory 'G:/ENTI/Unreal/MoiraProject/MoiraProject/Content/' took 0.11s
+[2020.04.01-08.03.12:448][183]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.04.01-08.03.12:451][183]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.04.01-08.03.25:804][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-08.03.35:947][209]LogSlate: Took 0.000098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.01-08.03.35:966][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/01_-_Default'
+[2020.04.01-08.03.35:966][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/01_-_Default' mientras carga NULL.
+[2020.04.01-08.03.35:966][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/01_-_Default'
+[2020.04.01-08.03.35:966][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/01_-_Default' mientras carga NULL.
+[2020.04.01-08.03.35:967][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/Wall_Paint'
+[2020.04.01-08.03.35:967][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/Wall_Paint' mientras carga NULL.
+[2020.04.01-08.03.35:967][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/Wall_Paint'
+[2020.04.01-08.03.35:967][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/Wall_Paint' mientras carga NULL.
+[2020.04.01-08.03.35:995][209]LogLinker: Warning: No puede encontrar el archivo '/Game/MainLevel/NewLevel1_BuiltData'
+[2020.04.01-08.03.35:995][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MainLevel/NewLevel1_BuiltData' mientras carga NULL.
+[2020.04.01-08.03.36:039][209]LogLinker: Warning: No puede encontrar el archivo '/Game/MainLevel/NewLevel1_BuiltData'
+[2020.04.01-08.03.36:039][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MainLevel/NewLevel1_BuiltData' mientras carga NULL.
+[2020.04.01-08.03.36:040][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.04.01-08.03.36:040][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.04.01-08.03.36:040][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.04.01-08.03.36:040][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.04.01-08.03.36:041][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.04.01-08.03.36:041][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.04.01-08.03.36:041][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.04.01-08.03.36:041][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.04.01-08.03.36:106][209]LogLinker: Warning: No puede encontrar el archivo '/Game/MainLevel/NewLevel1_BuiltData'
+[2020.04.01-08.03.36:106][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MainLevel/NewLevel1_BuiltData' mientras carga NULL.
+[2020.04.01-08.03.36:106][209]LogLinker: Warning: No puede encontrar el archivo '/Game/MainLevel/NewLevel1_BuiltData'
+[2020.04.01-08.03.36:106][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MainLevel/NewLevel1_BuiltData' mientras carga NULL.
+[2020.04.01-08.03.36:172][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/01_-_Default'
+[2020.04.01-08.03.36:172][209]LoadErrors: Error al cargar /Game/NewFolder/01_-_Default.01_-_Default Referenciado por Door_Object002
+[2020.04.01-08.03.36:172][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/01_-_Default' mientras carga NULL.
+[2020.04.01-08.03.36:172][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/01_-_Default'
+[2020.04.01-08.03.36:172][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/01_-_Default' mientras carga NULL.
+[2020.04.01-08.03.36:180][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.04.01-08.03.36:180][209]LoadErrors: Error al cargar /Game/NewFolder/02_-_Default.02_-_Default Referenciado por montacargas_Box002
+[2020.04.01-08.03.36:180][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.04.01-08.03.36:180][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.04.01-08.03.36:180][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.04.01-08.03.36:181][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.04.01-08.03.36:181][209]LoadErrors: Error al cargar /Game/NewFolder/02_-_Default.02_-_Default Referenciado por Door_Object001
+[2020.04.01-08.03.36:181][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.04.01-08.03.36:181][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/02_-_Default'
+[2020.04.01-08.03.36:181][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/02_-_Default' mientras carga NULL.
+[2020.04.01-08.03.36:188][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/Wall_Paint'
+[2020.04.01-08.03.36:188][209]LoadErrors: Error al cargar /Game/NewFolder/Wall_Paint.Wall_Paint Referenciado por Door_Object003
+[2020.04.01-08.03.36:188][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/Wall_Paint' mientras carga NULL.
+[2020.04.01-08.03.36:188][209]LogLinker: Warning: No puede encontrar el archivo '/Game/NewFolder/Wall_Paint'
+[2020.04.01-08.03.36:188][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/NewFolder/Wall_Paint' mientras carga NULL.
+[2020.04.01-08.03.36:200][209]LogLinker: Warning: No puede encontrar el archivo '/Game/MainLevel/NewLevel1_BuiltData'
+[2020.04.01-08.03.36:200][209]LoadErrors: Error al cargar /Game/MainLevel/NewLevel1_BuiltData.NewLevel1_BuiltData Referenciado por PersistentLevel
+[2020.04.01-08.03.36:200][209]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MainLevel/NewLevel1_BuiltData' mientras carga NULL.
+[2020.04.01-08.03.36:524][209]LogPhysics: Warning: Failed to cook TriMesh: /Game/MainLevel/Props/props_carceles/texture_tube/tuberia_Cylinder007.tuberia_Cylinder007.
+[2020.04.01-08.03.36:524][209]LogPhysics: Warning: Attempt to build physics data for /Game/MainLevel/Props/props_carceles/texture_tube/tuberia_Cylinder007.tuberia_Cylinder007:BodySetup_0 when we are unable to.
+[2020.04.01-08.03.36:558][209]LogMaterial: Display: Missing cached shader map for material 08_2, compiling. 
+[2020.04.01-08.03.36:558][209]LogMaterial: Warning: G:\ENTI\Unreal\MoiraProject\MoiraProject\Content\MainLevel\Props\props_capsulas\Capsulas\08_2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.01-08.03.36:558][209]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.01-08.03.36:716][209]LogAIModule: Creating AISystem for world NewLevel1
+[2020.04.01-08.03.36:752][209]LogAssetEditorManager: Opening Asset editor for World /Game/MainLevel/NewLevel1.NewLevel1
+[2020.04.01-08.03.36:789][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.04.01-08.03.36:789][209]Cmd: MAP LOAD FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/MainLevel/NewLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.01-08.03.36:789][209]LightingResults: New page: Diseñar la iluminación
+[2020.04.01-08.03.36:790][209]LoadErrors: New page: Cargando mapa: NewLevel1.umap
+[2020.04.01-08.03.36:790][209]MapCheck: New page: Revisión del mapa
+[2020.04.01-08.03.36:790][209]LightingResults: New page: Diseñar la iluminación
+[2020.04.01-08.03.36:812][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:815][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:816][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:817][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:817][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:817][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:817][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:817][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:817][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:817][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:817][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:817][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:817][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:817][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:817][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:817][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:824][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:825][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:826][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:828][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:828][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:828][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:828][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:828][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:828][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:828][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.03.36:829][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.03.36:935][209]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.01-08.03.36:972][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.04.01-08.03.36:989][209]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.01-08.03.36:990][209]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,18ms to complete.
+[2020.04.01-08.03.36:990][209]LogFileHelpers: Loading map 'NewLevel1' took 0.200
+[2020.04.01-08.03.43:488][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder13)
+[2020.04.01-08.03.44:589][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder13)
+[2020.04.01-08.03.48:146][382]LogSlate: Took 0.000546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.01-08.12.30:673][652]Cmd: DUPLICATE
+[2020.04.01-08.12.30:673][652]Cmd: ACTOR DUPLICATE
+[2020.04.01-08.12.32:868][900]Cmd: ACTOR SELECT ALL
+[2020.04.01-08.12.35:564][ 44]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.01-08.12.36:565][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-08.12.36:665][170]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.01-08.12.36:673][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel/NewLevel1.NewLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/NewLevel1.NewLevel1:PersistentLevel.NewLevel1' with GeneratedClass '/Game/MainLevel/NewLevel1.NewLevel1_C' with ClassGeneratedBy '/Game/MainLevel/NewLevel1.NewLevel1:PersistentLevel.NewLevel1'
+[2020.04.01-08.12.36:673][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-08.12.36:673][170]PIE: New page: Sesión PIE (reproducción en el editor): NewLevel1 (1/4/2020 12:12:36)
+[2020.04.01-08.12.36:686][170]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_NewLevel1
+[2020.04.01-08.12.36:760][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075192s)
+[2020.04.01-08.12.36:761][170]LogAIModule: Creating AISystem for world NewLevel1
+[2020.04.01-08.12.36:761][170]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2020.04.01-08.12.36:761][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/NewLevel1.NewLevel1 to /Game/MainLevel/UEDPIE_0_NewLevel1.NewLevel1 (0.076169s)
+[2020.04.01-08.12.36:783][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.04.01-08.12.36:795][170]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.01-08.12.36:800][170]LogInit: FAudioDevice initialized.
+[2020.04.01-08.12.36:840][170]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.01-08.12.36:842][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:842][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:842][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:842][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:842][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:842][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:842][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:842][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:842][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:842][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:843][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:844][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:844][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:844][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:844][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:844][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:844][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:844][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:844][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:844][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:844][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:844][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:844][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:844][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:844][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:845][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:845][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:845][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:845][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:845][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:845][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:845][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:845][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:852][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:853][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:854][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:857][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.12.36:858][170]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.12.36:859][170]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_NewLevel1.NewLevel1 up for play (max tick rate 0) at 2020.04.01-10.12.36
+[2020.04.01-08.12.36:861][170]LogWorld: Bringing up level for play took: 0.020177
+[2020.04.01-08.12.36:876][170]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.04.01-08.12.36:877][170]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/MainLevel/UEDPIE_0_NewLevel1 0,785
+[2020.04.01-08.12.36:877][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel/NewLevel1.NewLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/NewLevel1.NewLevel1:PersistentLevel.NewLevel1' with GeneratedClass '/Game/MainLevel/NewLevel1.NewLevel1_C' with ClassGeneratedBy '/Game/MainLevel/NewLevel1.NewLevel1:PersistentLevel.NewLevel1'
+[2020.04.01-08.21.59:116][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-08.21.59:225][291]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel/NewLevel1.NewLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/NewLevel1.NewLevel1:PersistentLevel.NewLevel1' with GeneratedClass '/Game/MainLevel/NewLevel1.NewLevel1_C' with ClassGeneratedBy '/Game/MainLevel/NewLevel1.NewLevel1:PersistentLevel.NewLevel1'
+[2020.04.01-08.21.59:226][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-08.21.59:259][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-08.21.59:260][291]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel/NewLevel1.NewLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/NewLevel1.NewLevel1:PersistentLevel.NewLevel1' with GeneratedClass '/Game/MainLevel/NewLevel1.NewLevel1_C' with ClassGeneratedBy '/Game/MainLevel/NewLevel1.NewLevel1:PersistentLevel.NewLevel1'
+[2020.04.01-08.21.59:287][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-08.21.59:293][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.04.01-08.21.59:332][294]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.04.01-08.22.09:478][508]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Devs/Almorax/PruebaMovimiento.PruebaMovimiento
+[2020.04.01-08.22.09:649][508]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.04.01-08.22.10:257][508]LogSlate: Took 0.000560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.01-08.22.19:376][532]LogSlate: Window 'PruebaMovimiento' being destroyed
+[2020.04.01-08.22.35:119][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.04.01-08.22.37:260][776]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.01-08.22.37:322][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.04.01-08.22.46:773][884]LogAIModule: Creating AISystem for world Chapter1
+[2020.04.01-08.22.46:859][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.04.01-08.22.47:080][884]LogAIModule: Creating AISystem for world Chapter1
+[2020.04.01-08.22.48:697][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel/NewLevel1" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/MainLevel/NewLevel1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.01-08.22.48:728][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.04.01-08.22.49:812][ 72]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/NewLevel1DCBFC48E4B205DB4F2DEAFBEFFBFEFCA.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/MainLevel/NewLevel1.umap'
+[2020.04.01-08.22.50:416][140]LogAssetEditorManager: Opening Asset editor for World /Game/Devs/Almorax/Chapter1.Chapter1
+[2020.04.01-08.22.50:444][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.04.01-08.22.58:147][140]LogSlate: Window 'Guardar contenido' being destroyed
+[2020.04.01-08.22.58:921][222]LogAssetEditorManager: Opening Asset editor for World /Game/Devs/Almorax/Chapter1.Chapter1
+[2020.04.01-08.22.58:943][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.04.01-08.23.02:006][222]LogSlate: Window 'Guardar contenido' being destroyed
+[2020.04.01-08.23.02:010][222]Cmd: MAP LOAD FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/Chapter1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.01-08.23.02:011][222]LightingResults: New page: Diseñar la iluminación
+[2020.04.01-08.23.02:011][222]LoadErrors: New page: Cargando mapa: Chapter1.umap
+[2020.04.01-08.23.02:017][222]MapCheck: New page: Revisión del mapa
+[2020.04.01-08.23.02:017][222]LightingResults: New page: Diseñar la iluminación
+[2020.04.01-08.23.02:050][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.04.01-08.23.02:075][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.04.01-08.23.02:099][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.04.01-08.23.02:108][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:108][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:108][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:108][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:108][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:108][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:108][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:108][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:108][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:108][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:109][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:109][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:109][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:109][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:109][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:109][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:109][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:109][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:111][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:111][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:111][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:111][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:111][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:111][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:111][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:111][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:111][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:111][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:112][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:112][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:112][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:112][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:112][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:112][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:112][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:112][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:113][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:113][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:113][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:113][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:113][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:113][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:114][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:115][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:115][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:115][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:115][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:115][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:115][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:115][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:116][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.02:116][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.02:218][222]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.01-08.23.02:246][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.04.01-08.23.02:263][222]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.01-08.23.02:264][222]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,124ms to complete.
+[2020.04.01-08.23.02:264][222]LogFileHelpers: Loading map 'Chapter1' took 0.255
+[2020.04.01-08.23.09:723][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-08.23.09:831][104]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.01-08.23.09:841][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.09:841][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-08.23.09:841][104]PIE: New page: Sesión PIE (reproducción en el editor): Chapter1 (1/4/2020 12:23:09)
+[2020.04.01-08.23.09:842][104]LogPlayLevel: Creating play world package: /Game/Devs/Almorax/UEDPIE_0_Chapter1
+[2020.04.01-08.23.09:871][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029087s)
+[2020.04.01-08.23.09:871][104]LogAIModule: Creating AISystem for world Chapter1
+[2020.04.01-08.23.09:871][104]LogPlayLevel: PIE: World Init took: (0.000375s)
+[2020.04.01-08.23.09:871][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Devs/Almorax/Chapter1.Chapter1 to /Game/Devs/Almorax/UEDPIE_0_Chapter1.Chapter1 (0.029644s)
+[2020.04.01-08.23.09:901][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.04.01-08.23.09:912][104]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.01-08.23.09:918][104]LogInit: FAudioDevice initialized.
+[2020.04.01-08.23.09:947][104]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.01-08.23.09:949][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:949][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:949][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:949][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:949][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:949][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:949][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:949][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:949][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:949][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:950][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:951][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:951][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:951][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:951][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:951][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:951][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:951][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:951][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:951][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:951][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:951][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:951][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:951][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:951][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:952][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:952][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:952][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:952][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:952][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:952][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:952][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:952][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:952][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.09:952][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.09:954][104]LogWorld: Bringing World /Game/Devs/Almorax/UEDPIE_0_Chapter1.Chapter1 up for play (max tick rate 0) at 2020.04.01-10.23.09
+[2020.04.01-08.23.09:954][104]LogWorld: Bringing up level for play took: 0.006227
+[2020.04.01-08.23.09:967][104]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Devs/Almorax/UEDPIE_0_Chapter1 -0,125
+[2020.04.01-08.23.09:967][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.24:002][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.24:002][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-08.23.24:035][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-08.23.24:035][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.24:065][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-08.23.24:070][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.04.01-08.23.24:102][789]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.04.01-08.23.25:869][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-08.23.25:977][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.01-08.23.25:988][ 14]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.25:988][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-08.23.25:988][ 14]PIE: New page: Sesión PIE (reproducción en el editor): Chapter1 (1/4/2020 12:23:25)
+[2020.04.01-08.23.25:988][ 14]LogPlayLevel: Creating play world package: /Game/Devs/Almorax/UEDPIE_0_Chapter1
+[2020.04.01-08.23.26:019][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030812s)
+[2020.04.01-08.23.26:019][ 14]LogAIModule: Creating AISystem for world Chapter1
+[2020.04.01-08.23.26:019][ 14]LogPlayLevel: PIE: World Init took: (0.000379s)
+[2020.04.01-08.23.26:019][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Devs/Almorax/Chapter1.Chapter1 to /Game/Devs/Almorax/UEDPIE_0_Chapter1.Chapter1 (0.031356s)
+[2020.04.01-08.23.26:045][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.04.01-08.23.26:055][ 14]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.01-08.23.26:061][ 14]LogInit: FAudioDevice initialized.
+[2020.04.01-08.23.26:086][ 14]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:088][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:089][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:090][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:090][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:090][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:090][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:090][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:090][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:090][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:090][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:090][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:090][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:090][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:090][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:090][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:091][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.26:091][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.26:092][ 14]LogWorld: Bringing World /Game/Devs/Almorax/UEDPIE_0_Chapter1.Chapter1 up for play (max tick rate 0) at 2020.04.01-10.23.26
+[2020.04.01-08.23.26:093][ 14]LogWorld: Bringing up level for play took: 0.006295
+[2020.04.01-08.23.26:105][ 14]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Devs/Almorax/UEDPIE_0_Chapter1 0,014
+[2020.04.01-08.23.26:105][ 14]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.27:505][181]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.27:506][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-08.23.27:538][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-08.23.27:538][181]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.27:568][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-08.23.27:573][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.04.01-08.23.27:606][184]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.04.01-08.23.28:440][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-08.23.28:539][296]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.01-08.23.28:551][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.28:551][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-08.23.28:551][296]PIE: New page: Sesión PIE (reproducción en el editor): Chapter1 (1/4/2020 12:23:28)
+[2020.04.01-08.23.28:551][296]LogPlayLevel: Creating play world package: /Game/Devs/Almorax/UEDPIE_0_Chapter1
+[2020.04.01-08.23.28:580][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028947s)
+[2020.04.01-08.23.28:580][296]LogAIModule: Creating AISystem for world Chapter1
+[2020.04.01-08.23.28:580][296]LogPlayLevel: PIE: World Init took: (0.000378s)
+[2020.04.01-08.23.28:580][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Devs/Almorax/Chapter1.Chapter1 to /Game/Devs/Almorax/UEDPIE_0_Chapter1.Chapter1 (0.029485s)
+[2020.04.01-08.23.28:607][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.04.01-08.23.28:617][296]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.01-08.23.28:622][296]LogInit: FAudioDevice initialized.
+[2020.04.01-08.23.28:648][296]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:650][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:651][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:652][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:652][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:652][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:652][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:652][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:652][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:652][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:652][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:652][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:652][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:652][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:652][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:652][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:653][296]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.28:653][296]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.28:654][296]LogWorld: Bringing World /Game/Devs/Almorax/UEDPIE_0_Chapter1.Chapter1 up for play (max tick rate 0) at 2020.04.01-10.23.28
+[2020.04.01-08.23.28:654][296]LogWorld: Bringing up level for play took: 0.006132
+[2020.04.01-08.23.28:667][296]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Devs/Almorax/UEDPIE_0_Chapter1 0,576
+[2020.04.01-08.23.28:667][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.29:191][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.29:191][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-08.23.29:224][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-08.23.29:224][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.29:252][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-08.23.29:257][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.04.01-08.23.29:294][362]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.04.01-08.23.40:094][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-08.23.42:757][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-08.23.42:874][981]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.01-08.23.42:885][981]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.42:885][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-08.23.42:885][981]PIE: New page: Sesión PIE (reproducción en el editor): Chapter1 (1/4/2020 12:23:42)
+[2020.04.01-08.23.42:885][981]LogPlayLevel: Creating play world package: /Game/Devs/Almorax/UEDPIE_0_Chapter1
+[2020.04.01-08.23.42:915][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030463s)
+[2020.04.01-08.23.42:915][981]LogAIModule: Creating AISystem for world Chapter1
+[2020.04.01-08.23.42:915][981]LogPlayLevel: PIE: World Init took: (0.000385s)
+[2020.04.01-08.23.42:915][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Devs/Almorax/Chapter1.Chapter1 to /Game/Devs/Almorax/UEDPIE_0_Chapter1.Chapter1 (0.031011s)
+[2020.04.01-08.23.42:942][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.04.01-08.23.42:952][981]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.01-08.23.42:958][981]LogInit: FAudioDevice initialized.
+[2020.04.01-08.23.42:990][981]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:992][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:993][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:994][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:995][981]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-08.23.42:995][981]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-08.23.42:997][981]LogWorld: Bringing World /Game/Devs/Almorax/UEDPIE_0_Chapter1.Chapter1 up for play (max tick rate 0) at 2020.04.01-10.23.42
+[2020.04.01-08.23.42:997][981]LogWorld: Bringing up level for play took: 0.006937
+[2020.04.01-08.23.43:310][981]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Devs/Almorax/UEDPIE_0_Chapter1 1,218
+[2020.04.01-08.23.43:310][981]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.49:490][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.49:490][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-08.23.49:519][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-08.23.49:519][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-08.23.49:549][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-08.23.49:553][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.04.01-08.23.49:593][725]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.01-08.33.22:094][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.04.01-08.33.22:668][437]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Chapter1_Auto1DACBDCB744C9CD2370ED688FCBB02862.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Autosaves/Game/Devs/Almorax/Chapter1_Auto1.umap'
+[2020.04.01-08.33.22:670][437]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Devs/Almorax/Chapter1' took 0.601
+[2020.04.01-08.33.22:670][437]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.601
+[2020.04.01-08.52.03:935][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-08.52.04:749][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/Chapter1" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/Chapter1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.01-08.52.04:792][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.04.01-08.52.05:332][187]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/Chapter1A1E1820646D859295612599251954AEA.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/Chapter1.umap'
+[2020.04.01-08.52.05:349][187]LogFileHelpers: Saving map 'Chapter1' took 0.601
+[2020.04.01-08.52.07:503][443]LogLinker: Warning: No puede encontrar el archivo '/Game/Capsule/NewMaterial'
+[2020.04.01-08.52.07:503][443]LogLinker: Warning: No puede encontrar el archivo '/Game/Capsule/NewMaterial'
+[2020.04.01-08.52.07:503][443]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/Capsule/NewMaterial.NewMaterial'
+[2020.04.01-08.52.07:503][443]LogLinker: Warning: No puede encontrar el archivo '/Game/Capsule/NewMaterial_2'
+[2020.04.01-08.52.07:503][443]LogLinker: Warning: No puede encontrar el archivo '/Game/Capsule/NewMaterial_2'
+[2020.04.01-08.52.07:503][443]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/Capsule/NewMaterial_2.NewMaterial_2'
+[2020.04.01-08.54.10:663][289]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (22.817 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.01-08.54.13:208][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/ActivatedSpecimenAudio" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/ActivatedSpecimenAudio.uasset" SILENT=true
+[2020.04.01-08.54.13:217][590]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/ActivatedSpecimenAudioB0618AAF462F002F34E622BA1594E9AD.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/ActivatedSpecimenAudio.uasset'
+[2020.04.01-08.54.24:061][829]LogAssetEditorManager: Opening Asset editor for Material /Game/Devs/Almorax/ActivatedSpecimenAudio.ActivatedSpecimenAudio
+[2020.04.01-08.54.24:063][829]LogMaterial: Display: Missing cached shader map for material ActivatedSpecimenAudio, compiling. 
+[2020.04.01-08.54.24:313][829]LogMaterial: Display: Missing cached shader map for material ActivatedSpecimenAudio, compiling. 
+[2020.04.01-08.54.24:325][829]LogMaterial: Display: Missing cached shader map for material ActivatedSpecimenAudio, compiling. 
+[2020.04.01-08.54.24:348][829]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.01-08.54.24:680][859]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.01-08.54.25:360][939]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.04.01-08.54.25:360][939]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.04.01-08.54.25:360][939]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.01-08.54.25:360][939]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.01-08.54.26:326][ 54]LogLinker: No puede encontrar el archivo '/Engine/Transient'
+[2020.04.01-08.54.26:326][ 54]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.NewMaterial"''
+[2020.04.01-08.54.26:326][ 54]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant4Vector'"MaterialGraphNode_2.MaterialExpressionConstant4Vector_1"')'
+[2020.04.01-08.54.26:326][ 54]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.NewMaterial"''
+[2020.04.01-08.54.26:326][ 54]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.NewMaterial"''
+[2020.04.01-08.54.26:330][ 54]LogMaterial: Display: Missing cached shader map for material ActivatedSpecimenAudio, compiling. 
+[2020.04.01-08.54.26:342][ 54]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.04.01-08.54.26:346][ 54]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2020.04.01-08.54.26:361][ 55]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.01-08.54.26:583][ 82]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.01-08.54.27:304][168]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.04.01-08.54.27:304][168]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.04.01-08.54.27:305][168]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.01-08.54.27:305][168]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.01-08.54.33:818][676]LogMaterial: Display: Missing cached shader map for material ActivatedSpecimenAudio, compiling. 
+[2020.04.01-08.54.33:831][676]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.01-08.54.33:831][676]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.04.01-08.54.33:864][676]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2020.04.01-08.54.34:071][698]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.01-08.54.34:824][788]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.04.01-08.54.34:824][788]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.04.01-08.54.34:824][788]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.01-08.54.34:824][788]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.01-08.54.36:477][986]LogMaterial: Display: Missing cached shader map for material ActivatedSpecimenAudio, compiling. 
+[2020.04.01-08.54.36:491][986]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.01-08.54.36:494][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.04.01-08.54.36:712][  9]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.01-08.54.37:407][ 92]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.04.01-08.54.37:407][ 92]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.04.01-08.54.37:407][ 92]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.01-08.54.37:407][ 92]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.01-08.54.41:345][564]LogMaterialEditor: Saving and Compiling material ActivatedSpecimenAudio
+[2020.04.01-08.54.41:748][564]LogMaterial: Display: Missing cached shader map for material ActivatedSpecimenAudio, compiling. 
+[2020.04.01-08.54.41:794][564]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.01-08.54.41:794][564]LogMaterial: Display: Missing cached shader map for material ActivatedSpecimenAudio, compiling. 
+[2020.04.01-08.54.41:809][564]LogMaterial: Display: Missing cached shader map for material ActivatedSpecimenAudio, compiling. 
+[2020.04.01-08.54.41:852][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.04.01-08.54.41:862][564]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.01-08.54.42:517][564]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.01-08.54.42:519][564]TextureStreamingBuild: Display: Compiling optional shaders took 0.667 seconds.
+[2020.04.01-08.54.42:558][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.04.01-08.54.44:296][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/ActivatedSpecimenAudio" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/ActivatedSpecimenAudio.uasset" SILENT=true
+[2020.04.01-08.54.44:305][564]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/ActivatedSpecimenAudioACD818AC482D28436013FAAEF9F540F9.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/ActivatedSpecimenAudio.uasset'
+[2020.04.01-08.55.00:342][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/DeactivatedSpecimenAudio" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/DeactivatedSpecimenAudio.uasset" SILENT=true
+[2020.04.01-08.55.00:351][480]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/DeactivatedSpecimenAudio500A29EF4CB3EB86F7BCB28A5B787245.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/DeactivatedSpecimenAudio.uasset'
+[2020.04.01-08.55.12:174][839]LogAssetEditorManager: Opening Asset editor for Material /Game/Devs/Almorax/DeactivatedSpecimenAudio.DeactivatedSpecimenAudio
+[2020.04.01-08.55.12:177][839]LogMaterial: Display: Missing cached shader map for material DeactivatedSpecimenAudio, compiling. 
+[2020.04.01-08.55.12:230][839]LogMaterial: Display: Missing cached shader map for material DeactivatedSpecimenAudio, compiling. 
+[2020.04.01-08.55.12:241][839]LogMaterial: Display: Missing cached shader map for material DeactivatedSpecimenAudio, compiling. 
+[2020.04.01-08.55.12:265][839]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.01-08.55.12:610][870]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.01-08.55.13:272][949]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.04.01-08.55.13:272][949]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.04.01-08.55.13:272][949]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.01-08.55.13:272][949]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.01-08.55.14:627][111]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.NewMaterial_2"''
+[2020.04.01-08.55.14:627][111]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.ActivatedSpecimenAudio:MaterialGraph_0.MaterialGraphNode_2 or MaterialGraphNode /Engine/Transient.DeactivatedSpecimenAudio:MaterialGraph_0.MaterialGraphNode_2
+[2020.04.01-08.55.14:627][111]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant4Vector'"MaterialGraphNode_2.MaterialExpressionConstant4Vector_1"')'
+[2020.04.01-08.55.14:627][111]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.NewMaterial_2"''
+[2020.04.01-08.55.14:627][111]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.NewMaterial_2"''
+[2020.04.01-08.55.14:631][111]LogMaterial: Display: Missing cached shader map for material DeactivatedSpecimenAudio, compiling. 
+[2020.04.01-08.55.14:643][111]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.01-08.55.14:643][111]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.04.01-08.55.14:647][111]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2020.04.01-08.55.14:865][137]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.01-08.55.15:603][225]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.04.01-08.55.15:603][225]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.04.01-08.55.15:603][225]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.01-08.55.15:603][225]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.01-08.55.19:439][685]LogMaterial: Display: Missing cached shader map for material DeactivatedSpecimenAudio, compiling. 
+[2020.04.01-08.55.19:450][685]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.01-08.55.19:453][685]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.04.01-08.55.19:484][685]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2020.04.01-08.55.19:670][705]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.01-08.55.20:438][796]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.04.01-08.55.20:438][796]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.04.01-08.55.20:438][796]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.01-08.55.20:438][796]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.01-08.55.23:866][207]LogMaterial: Display: Missing cached shader map for material DeactivatedSpecimenAudio, compiling. 
+[2020.04.01-08.55.23:879][207]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.01-08.55.23:879][207]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.04.01-08.55.24:106][232]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.01-08.55.24:823][315]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.04.01-08.55.24:823][315]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.04.01-08.55.24:823][315]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.01-08.55.24:823][315]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.01-08.55.25:382][382]LogMaterialEditor: Saving and Compiling material DeactivatedSpecimenAudio
+[2020.04.01-08.55.25:673][382]LogMaterial: Display: Missing cached shader map for material DeactivatedSpecimenAudio, compiling. 
+[2020.04.01-08.55.25:718][382]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.01-08.55.25:718][382]LogMaterial: Display: Missing cached shader map for material DeactivatedSpecimenAudio, compiling. 
+[2020.04.01-08.55.25:734][382]LogMaterial: Display: Missing cached shader map for material DeactivatedSpecimenAudio, compiling. 
+[2020.04.01-08.55.25:781][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.04.01-08.55.25:789][382]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.01-08.55.26:478][382]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.01-08.55.26:480][382]TextureStreamingBuild: Display: Compiling optional shaders took 0.700 seconds.
+[2020.04.01-08.55.26:508][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.04.01-08.55.28:226][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/DeactivatedSpecimenAudio" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/DeactivatedSpecimenAudio.uasset" SILENT=true
+[2020.04.01-08.55.28:234][382]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/DeactivatedSpecimenAudioA8AB8DB3459499002E2947904D81199A.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/DeactivatedSpecimenAudio.uasset'
+[2020.04.01-09.04.22:496][ 81]LogSlate: Window 'Escoger clase padre' being destroyed
+[2020.04.01-09.04.34:001][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/SpecimenAudioTrigger" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/SpecimenAudioTrigger.uasset" SILENT=true
+[2020.04.01-09.04.34:005][458]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/SpecimenAudioTrigger9E695FE34F792ECE006704B7098E21F7.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/SpecimenAudioTrigger.uasset'
+[2020.04.01-09.04.34:818][554]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Devs/Almorax/SpecimenAudioTrigger.SpecimenAudioTrigger
+[2020.04.01-09.04.35:108][555]LogRenderer: Reallocating scene render targets to support 1144x692 Format 10 NumSamples 1 (Frame:1).
+[2020.04.01-09.04.38:987][ 18]LogLinker: No puede encontrar el archivo '/Game/Caronte_Voice/intro'
+[2020.04.01-09.04.38:987][ 18]LogLinker: No puede encontrar el archivo '/Game/Caronte_Voice/intro'
+[2020.04.01-09.04.38:987][ 18]LogProperty: Warning: ObjectProperty /Script/Engine.AudioComponent:Sound: unresolved reference to 'SoundWave'"/Game/Caronte_Voice/intro.intro"''
+[2020.04.01-09.04.38:987][ 18]LogLinker: No puede encontrar el archivo '/Game/Templates/StarterContent/Shapes/Shape_Cylinder'
+[2020.04.01-09.04.38:987][ 18]LogLinker: No puede encontrar el archivo '/Game/Templates/StarterContent/Shapes/Shape_Cylinder'
+[2020.04.01-09.04.38:987][ 18]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Templates/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder"''
+[2020.04.01-09.04.38:987][ 18]LogProperty: Warning: ObjectProperty /Script/Engine.MeshComponent:OverrideMaterials.OverrideMaterials: unresolved reference to 'Material'"/Game/Capsule/NewMaterial_2.NewMaterial_2"''
+[2020.04.01-09.04.38:988][ 18]LogProperty: Warning: ObjectProperty /Script/Engine.AudioComponent:Sound: unresolved reference to 'SoundWave'"/Game/Caronte_Voice/intro.intro"''
+[2020.04.01-09.04.38:988][ 18]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Templates/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder"''
+[2020.04.01-09.04.38:988][ 18]LogProperty: Warning: ObjectProperty /Script/Engine.MeshComponent:OverrideMaterials.OverrideMaterials: unresolved reference to 'Material'"/Game/Capsule/NewMaterial_2.NewMaterial_2"''
+[2020.04.01-09.04.38:989][ 18]LogProperty: Warning: ObjectProperty /Script/Engine.AudioComponent:Sound: unresolved reference to 'SoundWave'"/Game/Caronte_Voice/intro.intro"''
+[2020.04.01-09.04.38:989][ 18]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Templates/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder"''
+[2020.04.01-09.04.38:989][ 18]LogProperty: Warning: ObjectProperty /Script/Engine.MeshComponent:OverrideMaterials.OverrideMaterials: unresolved reference to 'Material'"/Game/Capsule/NewMaterial_2.NewMaterial_2"''
+[2020.04.01-09.04.49:232][241]BlueprintLog: New page: Compilar SpecimenAudioTrigger
+[2020.04.01-09.04.49:359][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.04.01-09.04.49:864][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Devs/Almorax/SpecimenAudioTrigger" FILE="../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/SpecimenAudioTrigger.uasset" SILENT=true
+[2020.04.01-09.04.49:870][300]LogSavePackage: Moving '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Saved/SpecimenAudioTriggerE11D27194C8A284643E9A4ACDF9498F9.tmp' to '../../../../ENTI/Unreal/MoiraProject/MoiraProject/Content/Devs/Almorax/SpecimenAudioTrigger.uasset'
+[2020.04.01-09.04.52:968][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-09.04.53:084][681]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.01-09.04.53:096][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-09.04.53:096][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-09.04.53:096][681]PIE: New page: Sesión PIE (reproducción en el editor): Chapter1 (1/4/2020 13:04:53)
+[2020.04.01-09.04.53:097][681]LogPlayLevel: Creating play world package: /Game/Devs/Almorax/UEDPIE_0_Chapter1
+[2020.04.01-09.04.53:129][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032350s)
+[2020.04.01-09.04.53:130][681]LogAIModule: Creating AISystem for world Chapter1
+[2020.04.01-09.04.53:130][681]LogPlayLevel: PIE: World Init took: (0.000413s)
+[2020.04.01-09.04.53:130][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Devs/Almorax/Chapter1.Chapter1 to /Game/Devs/Almorax/UEDPIE_0_Chapter1.Chapter1 (0.032925s)
+[2020.04.01-09.04.53:157][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.04.01-09.04.53:169][681]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.01-09.04.53:175][681]LogInit: FAudioDevice initialized.
+[2020.04.01-09.04.53:205][681]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:207][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:208][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:208][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:208][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:208][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:208][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:208][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:208][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:208][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:208][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:208][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:208][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:209][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:210][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:210][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:210][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:210][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:210][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:210][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:210][681]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.01-09.04.53:210][681]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.01-09.04.53:212][681]LogWorld: Bringing World /Game/Devs/Almorax/UEDPIE_0_Chapter1.Chapter1 up for play (max tick rate 0) at 2020.04.01-11.04.53
+[2020.04.01-09.04.53:212][681]LogWorld: Bringing up level for play took: 0.006560
+[2020.04.01-09.04.53:225][681]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Devs/Almorax/UEDPIE_0_Chapter1 -0,866
+[2020.04.01-09.04.53:225][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-09.04.55:050][899]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-09.04.55:050][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-09.04.55:083][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-09.04.55:083][899]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel' has LevelScriptBlueprint '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1' with GeneratedClass '/Game/Devs/Almorax/Chapter1.Chapter1_C' with ClassGeneratedBy '/Game/Devs/Almorax/Chapter1.Chapter1:PersistentLevel.Chapter1'
+[2020.04.01-09.04.55:115][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-09.04.55:119][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.04.01-09.04.55:152][901]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.04.01-09.04.55:761][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.01-09.05.50:980][101]LogEditorTransaction: Undo Modificar componente(s)
+[2020.04.01-09.05.51:207][101]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.01-09.05.52:617][101]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.410 s
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: 
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2124]
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: 
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: Stack: 
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: [Callstack] 0x00007ffc8d181639 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: [Callstack] 0x00007ffc8c1583b1 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: [Callstack] 0x00007ffc927f4e85 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: [Callstack] 0x00007ffc92816366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: [Callstack] 0x00007ffc92802f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: [Callstack] 0x00007ffc9285ac53 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: [Callstack] 0x00007ffc9289ae98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: [Callstack] 0x00007ffc9283929f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: [Callstack] 0x00007ffc905f9188 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: [Callstack] 0x00007ffc95d071ea UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.01-09.05.52:617][101]LogOutputDevice: Error: [Callstack] 0x00007ffc95d3743e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ffc92db5694 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ffc95cd1e66 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ffc95d38dcd UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ffc95d2f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ffcbfb0b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ffcbfafef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ffcbfb0d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ffcbfafc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ffce4e95c0d USER32.dll!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ffce4e95602 USER32.dll!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ffcbfb0e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ff62ceb5d3e UE4Editor.exe!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ff62cec554c UE4Editor.exe!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ff62cec55ca UE4Editor.exe!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ff62ced316c UE4Editor.exe!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ff62ced5b8e UE4Editor.exe!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ffce3ff7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: [Callstack] 0x00007ffce55aced1 ntdll.dll!UnknownFunction []
+[2020.04.01-09.05.52:618][101]LogOutputDevice: Error: 
+[2020.04.01-09.05.52:626][101]LogStats:                SubmitErrorReport -  0.000 s
